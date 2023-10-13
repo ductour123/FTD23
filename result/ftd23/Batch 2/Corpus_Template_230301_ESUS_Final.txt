@@ -1,0 +1,814 @@
+
+-----------------
+[Dòng 213] ¿Podrían ayudarme a llegar a la <POI:BASE>Space Needle</POI:BASE>?
+	[Dòng 234] [1.00] ¿Podría ayudarme a llegar a la <POI:BASE>Space Needle</POI:BASE>?
+	[Dòng 248] [0.98] Hola, ¿puede ayudarme a llegar a la <POI:BASE>Space Needle</POI:BASE>, por favor?
+	[Dòng 298] [0.98] ¿Puede ayudarme a llegar a la <POI:BASE>Space Needle</POI:BASE>, por favor?
+-----------------
+[Dòng 410] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST> con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 421] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 435] [0.97] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 443] [0.99] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 415] Establecer la ruta a <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, Puerto Rico con el código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 427] [1.00] Establecer la ruta a <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, Puerto Rico, con el código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 449] [0.98] Establecer la ruta para <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, ubicado en Puerto Rico con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 500] [0.99] Establecer la ruta a <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 419] Fije el GPS en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 429] [0.99] Fije el GPS para <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 437] [0.99] Fije el GPS en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 453] [0.99] Fije el GPS para <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 421] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 435] [1.00] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 443] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 455] [0.97] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, situada en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos, código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 432] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 436] [0.98] Encuentre el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 440] [0.99] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, en Puerto Rico, con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 444] [0.97] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 448] [0.99] Encontrar el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 452] [0.98] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 440] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, en Puerto Rico, con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 444] [0.98] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 448] [0.99] Encontrar el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 452] [0.98] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 471] Planifique la navegación hasta la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 477] [0.98] Dirija la navegación a la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico, con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 497] [0.99] Planifique la navegación hasta la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 503] [0.97] Dirija la navegación a la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 681] Hola, por favor, ¿podría llevarme a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico?
+	[Dòng 684] [0.98] Hola, ¿puede llevarme a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico?
+	[Dòng 699] [0.98] ¿Podría llevarme a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico, por favor y gracias?
+	[Dòng 706] [0.99] Por favor, ¿podría llevarme a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico?
+-----------------
+[Dòng 688] Hola, ¿puede llevarme a <POI:BASE>Turbo Sandwich</POI:BASE>, <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos?
+	[Dòng 691] [0.99] Hola, ¿puede llevarme a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor?
+	[Dòng 713] [0.99] ¿Puede llevarme a <POI:BASE>Turbo Sandwich</POI:BASE>, <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos?
+	[Dòng 716] [0.98] ¿Puede llevarme a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor?
+-----------------
+[Dòng 728] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos.
+	[Dòng 731] [0.99] Lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor.
+	[Dòng 754] [0.98] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor guíeme.
+	[Dòng 760] [0.98] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias de antemano.
+-----------------
+[Dòng 734] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias.
+	[Dòng 740] [0.97] Lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, muchas gracias.
+	[Dòng 754] [0.98] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor guíeme.
+	[Dòng 760] [0.99] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias de antemano.
+-----------------
+[Dòng 969] Me gustaría ir a <POI:BASE>Comerica Park</POI:BASE> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿podría llevarme?
+	[Dòng 977] [0.99] Me gustaría ir a <POI:BASE>Comerica Park</POI:BASE> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿podría llevarme, por favor?
+	[Dòng 985] [0.98] Me gustaría visitar <POI:BASE>Comerica Park</POI:BASE> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿podría llevarme?
+	[Dòng 993] [0.97] Me encantaría ir a <POI:BASE>Comerica Park</POI:BASE> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿podría llevarme allí?
+-----------------
+[Dòng 1084] GPS, por favor dirígeme a <POI:BASE>Hacienda Campo Rico</POI:BASE> en <LC_CITY:BASE>Carolina</LC_CITY:BASE>. Gracias
+	[Dòng 1092] [0.98] GPS, por favor dirígeme a <POI:BASE>Hacienda Campo Rico</POI:BASE> en <LC_CITY:BASE>Carolina</LC_CITY:BASE>. ¡Gracias!
+	[Dòng 1108] [0.97] Hola GPS, por favor dirígeme a <POI:BASE>Hacienda Campo Rico</POI:BASE> en <LC_CITY:BASE>Carolina</LC_CITY:BASE>. Gracias
+	[Dòng 1116] [0.98] Hola, GPS, por favor dirígeme a <POI:BASE>Hacienda Campo Rico</POI:BASE> en <LC_CITY:BASE>Carolina</LC_CITY:BASE>. Gracias
+-----------------
+[Dòng 1096] ¿Podría indicarme cómo llegar a la <POI:BASE>Space Needle</POI:BASE> de <LC_CITY:BASE>Seattle</LC_CITY:BASE>, GPS? ¡Gracias!
+	[Dòng 1104] [0.98] ¿Podría indicarme cómo llegar a la <POI:BASE>Space Needle</POI:BASE> de <LC_CITY:BASE>Seattle</LC_CITY:BASE>, GPS? Gracias
+	[Dòng 1112] [0.98] Hola ¿Podría indicarme cómo llegar a la <POI:BASE>Space Needle</POI:BASE> de <LC_CITY:BASE>Seattle</LC_CITY:BASE>, GPS? Gracias
+	[Dòng 1120] [0.97] ¿Podría indicarme cómo llegar a la <POI:BASE>Space Needle</POI:BASE> de <LC_CITY:BASE>Seattle</LC_CITY:BASE>, GPS?
+-----------------
+[Dòng 1101] Hola, ¿podría orientarme sobre el <POI:BASE>Museo Castillo Serralles</POI:BASE> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>, GPS?
+	[Dòng 1109] [0.99] Hola, ¿podría orientarme sobre el <POI:BASE>Museo Castillo Serralles</POI:BASE> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>, GPS? Gracias
+	[Dòng 1117] [0.98] Hola, ¿Podría orientarme sobre el <POI:BASE>Museo Castillo Serralles</POI:BASE> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>, GPS? Muchas gracias
+	[Dòng 1125] [0.99] ¿Podría orientarme sobre el <POI:BASE>Museo Castillo Serralles</POI:BASE> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>, GPS?
+-----------------
+[Dòng 1463] ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>?
+	[Dòng 1513] [0.98] Hola ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+	[Dòng 1540] [0.98] ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>? Gracias
+	[Dòng 1558] [0.99] ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1468] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>. Gracias
+	[Dòng 1486] [0.99] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>. Muchas gracias
+	[Dòng 1568] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1586] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1595] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1469] ¿Podría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>? Gracias
+	[Dòng 1496] [0.99] ¿Podría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 1505] [0.99] ¿Podría indicarme algún <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 1587] [0.97] En <LC_CITY:BASE>San Juan</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>? Muchas gracias
+	[Dòng 1596] [0.97] En <LC_CITY:BASE>San Juan</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1471] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>? Gracias
+	[Dòng 1512] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1521] [0.97] Hola, ¿podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1530] [0.98] Hola ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1548] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>? Muchas gracias
+	[Dòng 1557] [0.98] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1612] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1473] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Gracias
+	[Dòng 1491] [0.99] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Muchas gracias
+	[Dòng 1500] [0.97] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Muchísimas gracias
+	[Dòng 1514] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1523] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1591] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1486] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>. Muchas gracias
+	[Dòng 1495] [0.98] Hola, por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>. Muchas gracias
+	[Dòng 1568] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1577] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Muchísimas gracias
+	[Dòng 1586] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1595] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1491] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Muchas gracias
+	[Dòng 1500] [0.99] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Muchísimas gracias
+	[Dòng 1514] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1523] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1550] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchísimas gracias
+	[Dòng 1564] [0.97] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1591] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1500] Por favor, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>. Muchísimas gracias
+	[Dòng 1523] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1550] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchísimas gracias
+	[Dòng 1564] [0.97] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1591] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1512] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1521] [0.99] Hola, ¿podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1530] [0.99] Hola ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1557] [0.99] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1612] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [1.00] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1513] Hola ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+	[Dòng 1540] [0.98] ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>? Gracias
+	[Dòng 1549] [0.99] Hola ¿puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor? Muchas gracias
+	[Dòng 1558] [0.99] ¿Puedes llevarme a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1514] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1523] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1573] [0.97] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1591] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1516] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>, por favor?
+	[Dòng 1525] [0.99] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>? Gracias
+	[Dòng 1534] [0.99] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1552] [1.00] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1625] [0.97] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1669] [0.98] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 1518] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1527] [0.97] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1545] [0.98] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1546] [0.99] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1547] [0.97] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1554] [0.99] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1521] Hola, ¿podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1530] [0.99] Hola ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1557] [0.99] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1612] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1523] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1550] [0.99] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchísimas gracias
+	[Dòng 1564] [0.98] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1591] [1.00] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+	[Dòng 1600] [0.97] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1525] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>? Gracias
+	[Dòng 1534] [0.99] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1552] [1.00] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1625] [0.98] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1669] [0.98] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 1527] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1536] [0.99] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1547] [0.98] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1554] [0.98] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1529] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1556] [0.98] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 1570] [0.99] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿puede indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1606] [0.97] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿puede indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 1611] [0.98] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>, por favor?
+-----------------
+[Dòng 1530] Hola ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1548] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>? Muchas gracias
+	[Dòng 1557] [1.00] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1612] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1698] [0.97] ¿Puede llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1534] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1552] [1.00] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1625] [0.98] Hola ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 1669] [0.98] ¿Podría indicarme un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 1536] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1545] [0.98] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1546] [0.97] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1547] [0.99] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+-----------------
+[Dòng 1545] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1546] [0.99] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 1547] [0.97] Hola, en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1554] [0.99] En <LC_CITY:BASE>Detroit</LC_CITY:BASE>, ¿puedes llevarme a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1556] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 1570] [0.98] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿puede indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>? Gracias
+	[Dòng 1606] [0.99] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿puede indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 1611] [0.99] En <LC_CITY:BASE>Ponce</LC_CITY:BASE>, ¿podría indicarme un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>, por favor?
+-----------------
+[Dòng 1557] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1612] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1562] Hola, llévame a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1571] [0.98] Llévame a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1580] [0.97] Hola, llévame a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor.
+	[Dòng 1589] [1.00] Hola, llévame a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor. Mil gracias
+	[Dòng 1598] [0.97] Llévame a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1563] ¿Quizás podría mostrarme un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+	[Dòng 1581] [0.98] ¿Podría mostrarme un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor? Gracias
+	[Dòng 1599] [0.97] ¿Podría mostrarme un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor? Mil gracias
+	[Dòng 1608] [0.99] ¿Podría mostrarme un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1564] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1573] [0.99] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1591] [0.97] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+	[Dòng 1600] [1.00] Hola, llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1612] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [1.00] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1688] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, si es posible?
+	[Dòng 1698] [0.98] ¿Puede llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1621] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1688] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, si es posible?
+	[Dòng 1698] [0.98] ¿Puede llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1630] ¿Le importaría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1665] [0.97] Hola ¿Le importaría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1707] [0.99] ¿Le importaría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1716] [0.99] ¿Le importaría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1659] ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> de <LC_CITY:BASE>Miami</LC_CITY:BASE>, por favor?
+	[Dòng 1691] [0.97] Hola ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1701] [0.99] ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>, por favor?
+	[Dòng 1710] [0.98] ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+-----------------
+[Dòng 1682] Hola ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>? Gracias
+	[Dòng 1691] [0.99] Hola ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1701] [0.98] ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>, por favor?
+	[Dòng 1710] [0.98] ¿Sería tan amable de acompañarme a un <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+-----------------
+[Dòng 1729] ¿Podrían ayudarme a encontrar algún <POI:BASE>Wendy's</POI:BASE> en las proximidades del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 1731] [0.97] Hola, ¿podrían ayudarme a encontrar <POI:BASE>Wendy's</POI:BASE> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 1766] [0.98] ¿Podrían ayudarme a encontrar <POI:BASE>Wendy's</POI:BASE> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2026] [0.97] ¿Podrían ayudarme a encontrar el <POI:BASE>Wendy's</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que se encuentre en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 1977] ¿Pueden orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> desde el <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 1997] [0.99] ¿Pueden orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2015] [0.97] ¿Puede orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que no esté demasiado lejos del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2024] [0.98] ¿Pueden orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que se encuentre en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2074] [1.00] ¿Podría orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> desde el <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+-----------------
+[Dòng 1983] ¿Pueden ayudarme a encontrar un <POI:BASE>McDonald's</POI:BASE> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>?
+	[Dòng 1995] [0.98] ¿Pueden ayudarme a encontrar un <POI:BASE>McDonald's</POI:BASE> en las inmediaciones de <POI:BASE>Hacienda Campo Rico</POI:BASE>?
+	[Dòng 2019] [0.97] ¿Pueden ayudarme a encontrar el <POI:BASE>McDonald's</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> a <POI:BASE>Hacienda Campo Rico</POI:BASE>?
+	[Dòng 2034] [0.97] ¿Podrían ayudarme a encontrar el <POI:BASE>McDonald's</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> a <POI:BASE>Hacienda Campo Rico</POI:BASE>?
+-----------------
+[Dòng 1997] ¿Pueden orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2015] [0.98] ¿Puede orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que no esté demasiado lejos del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2024] [0.99] ¿Pueden orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> que se encuentre en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+	[Dòng 2074] [0.98] ¿Podría orientarme sobre el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> desde el <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+-----------------
+[Dòng 2077] ¿Podría solicitar su ayuda para establecer la navegación hacia el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2085] [0.98] ¿Podría solicitar su ayuda para establecer la navegación a <POI:BASE>Turbo Sandwich</POI:BASE> que está <QT_REL_DISTANCE:DEST>alrededor</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2097] [0.98] ¿Podría solicitar su ayuda para configurar la navegación hacia <POI:BASE>Turbo Sandwich</POI:BASE> que se encuentra en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2104] [0.99] ¿Podría solicitar humildemente su ayuda para establecer la navegación hacia el <POI:BASE>Turbo Sandwich</POI:BASE> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2253] ¿Podrías sugerirnos algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2262] [0.98] Disculpe, ¿puede sugerirnos algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2328] [0.97] ¿Puede sugerirnos si hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2334] [0.97] Buenas tardes, ¿pueden sugerirnos si hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2287] ¿Hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2295] [0.98] ¿Podría decirme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2315] [0.98] ¿Puede decirme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2337] [0.98] ¿Podría indicarme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+-----------------
+[Dòng 2295] ¿Podría decirme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2303] [0.98] ¿Podría decirme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en las proximidades del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2315] [1.00] ¿Puede decirme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2337] [0.99] ¿Podría indicarme si hay algún <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+-----------------
+[Dòng 2359] Tengo que encontrar un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+	[Dòng 2386] [0.99] Necesito encontrar un bar que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+	[Dòng 2413] [0.98] Necesito encontrar un bar que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme de inmediato?
+	[Dòng 2442] [0.98] ¿Podrían ayudarme a encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>?
+-----------------
+[Dòng 2368] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2387] [0.99] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2395] [0.97] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ser tan amable de ayudarme?
+	[Dòng 2414] [0.98] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> lo antes posible, ¿podría ayudarme?
+	[Dòng 2422] [0.99] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> urgentemente, ¿podría ayudarme?
+	[Dòng 2431] [0.97] Disculpe, ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2473] [0.98] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2502] [0.98] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2506] [0.97] Disculpe las molestias, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2371] Disculpe, pero debo encontrar un bar que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2382] [0.98] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2409] [0.97] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+	[Dòng 2417] [0.97] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE> lo antes posible, ¿podría ayudarme, por favor?
+	[Dòng 2425] [0.98] Disculpe, pero necesito encontrar urgentemente un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+-----------------
+[Dòng 2374] Necesito encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+	[Dòng 2401] [0.99] Necesito encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían indicarme?
+	[Dòng 2428] [0.99] Necesito encontrar urgentemente un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme inmediatamente?
+	[Dòng 2461] [0.98] Necesito encontrar urgentemente un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+-----------------
+[Dòng 2382] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2402] [0.98] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría aconsejarme?
+	[Dòng 2409] [0.99] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+	[Dòng 2417] [0.99] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE> lo antes posible, ¿podría ayudarme, por favor?
+	[Dòng 2425] [0.98] Disculpe, pero necesito encontrar urgentemente un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+	[Dòng 2450] [0.98] ¿Podrían ayudarme a encontrar un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE> urgentemente, por favor?
+-----------------
+[Dòng 2387] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2414] [0.99] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> lo antes posible, ¿podría ayudarme?
+	[Dòng 2422] [0.98] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> urgentemente, ¿podría ayudarme?
+	[Dòng 2473] [0.98] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2502] [0.98] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2506] [0.97] Disculpe las molestias, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2414] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> lo antes posible, ¿podría ayudarme?
+	[Dòng 2422] [0.98] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> urgentemente, ¿podría ayudarme?
+	[Dòng 2473] [0.97] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2502] [0.97] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+-----------------
+[Dòng 2431] Disculpe, ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2473] [0.98] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2502] [0.99] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+	[Dòng 2506] [0.99] Disculpe las molestias, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2466] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>?
+	[Dòng 2482] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2490] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor?
+	[Dòng 2499] [0.98] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2511] [0.97] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Muchas gracias
+-----------------
+[Dòng 2475] Solicito humildemente su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+	[Dòng 2483] [0.99] Solicito su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor? Gracias
+	[Dòng 2487] [0.98] Solicito humildemente su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado en las inmediaciones de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+	[Dòng 2491] [0.99] Solicito su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+-----------------
+[Dòng 2482] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2490] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor?
+	[Dòng 2499] [1.00] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2511] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Muchas gracias
+-----------------
+[Dòng 2526] Hola ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>? Gracias
+	[Dòng 2529] [0.98] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2535] [0.99] Hola ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2541] [1.00] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>? Gracias
+	[Dòng 2556] [0.98] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 2529] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2535] [0.98] Hola ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2541] [0.98] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>? Gracias
+	[Dòng 2550] [0.97] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las inmediaciones del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2556] [0.99] ¿Hay algún <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 2533] ¿Puede recomendar un bar ubicado en las cercanías de <POI:BASE>Teatro Oller</POI:BASE>, <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 2554] [0.99] ¿Puede recomendar algún bar en las cercanías de <POI:BASE>Teatro Oller</POI:BASE>, <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 2640] [0.97] ¿Podrías recomendar un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Teatro Oller</POI:BASE>, <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 2680] [0.97] ¿Puedes sugerir un bar que esté convenientemente localizado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Teatro Oller</POI:BASE>, <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 2538] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2553] [0.97] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos del <POI:BASE>Museo Castillo Serralles</POI:BASE>, en <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2577] [0.98] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las inmediaciones del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2591] [0.98] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que esté convenientemente situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2603] [1.00] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2616] [0.97] Muéstrame un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+-----------------
+[Dòng 2544] ¿Puedes sugerir un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las proximidades de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2583] [0.99] ¿Puedes recomendar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2609] [0.99] ¿Puedes sugerir un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2636] [0.97] ¿Puedes recomendar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2675] [0.99] ¿Podrías recomendarnos un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las proximidades de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 2553] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos del <POI:BASE>Museo Castillo Serralles</POI:BASE>, en <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2577] [0.98] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las inmediaciones del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2591] [0.97] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que esté convenientemente situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2603] [0.98] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2616] [0.98] Muéstrame un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+-----------------
+[Dòng 2583] ¿Puedes recomendar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2609] [0.97] ¿Puedes sugerir un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado no muy lejos de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2636] [0.99] ¿Puedes recomendar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 2675] [0.99] ¿Podrías recomendarnos un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado en las proximidades de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 2650] ¿Pueden indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2659] [0.99] ¿Puede indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2685] [0.99] ¿Puede indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado en las proximidades de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2773] [0.97] Hola ¿Podrían ayudarme a encontrar un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2799] [0.97] ¿Podrían ayudarme a encontrar un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2891] [0.98] ¿Le importaría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+-----------------
+[Dòng 2659] ¿Puede indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2685] [0.99] ¿Puede indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado en las proximidades de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2773] [0.97] Hola ¿Podrían ayudarme a encontrar un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2799] [0.97] ¿Podrían ayudarme a encontrar un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+	[Dòng 2891] [0.98] ¿Le importaría indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, <LC_CITY:BASE>Carolina</LC_CITY:BASE>?
+-----------------
+[Dòng 2925] ¿Sabes dónde está la hamburguesería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>, por favor?
+	[Dòng 2933] [0.99] ¿Sabes dónde está la hamburguesería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST> por favor?
+	[Dòng 2949] [0.98] Hola ¿sabes dónde está la hamburguesería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+	[Dòng 2957] [0.98] ¿Sabes dónde está la hamburguesería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+-----------------
+[Dòng 2926] ¿Podría recomendarme la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>, por favor?
+	[Dòng 2934] [1.00] ¿Podría recomendarme la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST> por favor?
+	[Dòng 2950] [0.98] Hola ¿podría recomendarme la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+	[Dòng 2958] [0.98] ¿Podría recomendarme la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+-----------------
+[Dòng 2930] Disculpe, ¿podría saber dónde está la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>, por favor?
+	[Dòng 2938] [0.98] Disculpe, ¿sabría decirme dónde está la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+	[Dòng 2946] [0.98] Disculpe, ¿podría saber dónde está la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>? Gracias
+	[Dòng 2954] [0.99] Disculpe, ¿podría saber dónde está la pizzería más <QT_REL_DISTANCE:DEST>cercana</QT_REL_DISTANCE:DEST>?
+-----------------
+[Dòng 3096] ¿Cómo puedo llegar al <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 3126] [0.99] ¿Cómo llegar al <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 3136] [0.98] ¿Cómo llego al <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 3139] [0.97] ¿Puede indicarme cómo llegar desde <POI:DEST>mi casa</POI:DEST> a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3112] ¿Cómo puedo llegar a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> desde <POI:DEST>mi domicilio</POI:DEST>?
+	[Dòng 3115] [0.97] ¿Puede indicarme cómo llegar desde <POI:DEST>mi domicilio</POI:DEST> a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 3129] [0.99] ¿Cómo llegar a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> desde <POI:DEST>mi domicilio</POI:DEST>?
+	[Dòng 3135] [0.98] ¿Puede indicarme cómo llegar a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> desde <POI:DEST>mi domicilio</POI:DEST>?
+-----------------
+[Dòng 3148] ¿Puede indicarme dónde está el edificio del <POI:BASE>Vick Center</POI:BASE>? Gracias
+	[Dòng 3153] [0.98] ¿Podría indicarme dónde está el edificio del <POI:BASE>Vick Center</POI:BASE>?
+	[Dòng 3167] [0.99] ¿Puede indicarme dónde está el edificio del <POI:BASE>Vick Center</POI:BASE>?
+	[Dòng 3175] [0.99] ¿Puede indicarme dónde está el edificio del <POI:BASE>Vick Center</POI:BASE>, por favor?
+-----------------
+[Dòng 3154] Hola ¿Puede indicarme cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>? Gracias
+	[Dòng 3157] [1.00] ¿Puede indicarme cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>? Gracias
+	[Dòng 3170] [0.97] ¿Pueden darme instrucciones sobre cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>?
+	[Dòng 3178] [0.99] ¿Puede indicarme cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>?
+-----------------
+[Dòng 3157] ¿Puede indicarme cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>? Gracias
+	[Dòng 3160] [0.97] No sé cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>. ¿Puede ayudarme?
+	[Dòng 3170] [0.97] ¿Pueden darme instrucciones sobre cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>?
+	[Dòng 3178] [0.99] ¿Puede indicarme cómo llegar al edificio del <POI:BASE>Vick Center</POI:BASE>?
+-----------------
+[Dòng 3267] ¿Podría decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>? Gracias
+	[Dòng 3273] [0.99] Hola ¿Podría decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3276] [0.99] ¿Podría decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3285] [1.00] ¿Puede decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>? Gracias
+	[Dòng 3294] [0.99] ¿Puede decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+-----------------
+[Dòng 3273] Hola ¿Podría decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3276] [0.99] ¿Podría decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3285] [0.98] ¿Puede decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>? Gracias
+	[Dòng 3294] [0.99] ¿Puede decirme dónde se encuentra el <POI:BASE>Vick Center</POI:BASE> de <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+-----------------
+[Dòng 3406] ¿Podría darme el número de teléfono del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>, por favor?
+	[Dòng 3410] [0.99] ¿Puede darme el número de teléfono del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+	[Dòng 3414] [0.99] ¿Podría facilitarme el número de teléfono del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+	[Dòng 3422] [0.97] ¿Podría facilitarme el número de teléfono del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+-----------------
+[Dòng 3431] ¿Podría darme la dirección de correo electrónico del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>, por favor?
+	[Dòng 3435] [0.99] ¿Puede darme la dirección de correo electrónico del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+	[Dòng 3439] [0.97] ¿Podría facilitarme la dirección de correo electrónico del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> más <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+	[Dòng 3447] [0.99] ¿Podría facilitarme la dirección de correo electrónico del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cercano</QT_REL_DISTANCE:DEST>?
+-----------------
+[Dòng 3468] ¿Cuál es la hora prevista de apertura de <POI:BASE>McDonald's</POI:BASE>, <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3480] [0.97] ¿Cuál es el horario de apertura previsto para <POI:BASE>McDonald's</POI:BASE>, <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor?
+	[Dòng 3486] [0.98] ¿Cuál es el horario de apertura previsto para <POI:BASE>McDonald's</POI:BASE>, <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+	[Dòng 3492] [0.98] ¿Cuál es la hora aproximada de apertura de <POI:BASE>McDonald's</POI:BASE>, <LC_CITY:BASE>San Juan</LC_CITY:BASE>?
+-----------------
+[Dòng 3509] Hola ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 3513] [0.99] Hola ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3517] [0.97] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor? Gracias
+	[Dòng 3521] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor?
+	[Dòng 3533] [0.98] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3537] [0.97] ¿Cuál es la hora aproximada de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 3541] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3513] Hola ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3517] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor? Gracias
+	[Dòng 3521] [0.98] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor?
+	[Dòng 3533] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3541] [0.98] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3517] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor? Gracias
+	[Dòng 3521] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor?
+	[Dòng 3533] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3541] [0.97] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3518] ¿Cuándo debo llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>, por favor?
+	[Dòng 3522] [0.99] ¿Cuándo debo llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>, por favor? Gracias
+	[Dòng 3530] [0.97] ¿Cuándo debo llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3534] [0.98] ¿Cuándo debo llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3521] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>, por favor?
+	[Dòng 3533] [0.98] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>? Gracias
+	[Dòng 3537] [0.97] ¿Cuál es la hora aproximada de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+	[Dòng 3541] [0.99] ¿Cuál es la hora prevista de llegada al <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3654] Hola ¿Dónde puedo encontrar la dirección de <POI:BASE>Turbo Sandwich</POI:BASE>?
+	[Dòng 3658] [0.99] ¿Dónde puedo encontrar la dirección de <POI:BASE>Turbo Sandwich</POI:BASE>? Gracias
+	[Dòng 3662] [0.98] ¿Dónde puedo conseguir la dirección de <POI:BASE>Turbo Sandwich</POI:BASE>?
+	[Dòng 3670] [1.00] ¿Dónde puedo encontrar la dirección de <POI:BASE>Turbo Sandwich</POI:BASE>?
+-----------------
+[Dòng 3795] Tomar el camino óptimo desde <POI:DEST>mi casa</POI:DEST> hasta la ubicación del <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>.
+	[Dòng 3813] [0.97] Tomar el camino óptimo desde <POI:DEST>mi casa</POI:DEST> hasta la dirección del <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>.
+	[Dòng 3822] [0.97] Tomar el camino óptimo para llegar a la ubicación del <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>.
+	[Dòng 3828] [0.97] Tomar el camino óptimo para llegar de <POI:DEST>mi casa</POI:DEST> al local del <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>.
+-----------------
+[Dòng 4796] ¿Cuál es la distancia aproximada que nos queda hasta llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4813] [0.98] ¿Cuál es la distancia aproximada que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4829] [0.98] ¿Cuál es la distancia prevista hasta llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4836] [0.97] ¿Cuál es la distancia que nos queda por recorrer hasta nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4807] ¿Cuál es la distancia estimada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4809] [0.99] Hola ¿cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4813] [0.97] ¿Cuál es la distancia aproximada que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.99] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4820] [0.99] ¿Cuál es la distancia prevista que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4834] [0.99] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4809] Hola ¿cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.99] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4820] [0.98] ¿Cuál es la distancia prevista que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4826] [0.97] Hola ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4834] [0.99] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4813] ¿Cuál es la distancia aproximada que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4815] [0.99] ¿Cuál es la distancia que nos queda por recorrer para llegar al <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.97] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4822] [0.99] ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>? Gracias
+	[Dòng 4826] [0.99] Hola ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4834] [0.98] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4836] [0.98] ¿Cuál es la distancia que nos queda por recorrer hasta nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4815] ¿Cuál es la distancia que nos queda por recorrer para llegar al <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.97] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4822] [0.99] ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>? Gracias
+	[Dòng 4826] [0.99] Hola ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4836] [0.99] ¿Cuál es la distancia que nos queda por recorrer hasta nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4817] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4820] [0.98] ¿Cuál es la distancia prevista que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4826] [0.97] Hola ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4834] [0.99] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4836] [0.97] ¿Cuál es la distancia que nos queda por recorrer hasta nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4944] Hola ¿Puede informarme de la dirección del lugar donde <LC_CUR:DEP>nos encontramos actualmente</LC_CUR:DEP>?
+	[Dòng 4960] [0.99] ¿Puede informarme de la dirección del lugar donde <LC_CUR:DEP>nos encontramos actualmente</LC_CUR:DEP>?
+	[Dòng 4962] [0.98] ¿Podría decirme la dirección del lugar donde <LC_CUR:DEP>nos encontramos actualmente</LC_CUR:DEP>?
+	[Dòng 4976] [0.98] ¿Puede informarme de la dirección exacta del lugar donde <LC_CUR:DEP>nos encontramos actualmente</LC_CUR:DEP>?
+-----------------
+[Dòng 4993] Modificar el <MAP_MODE:MAP>modo de visualización del mapa</MAP_MODE:MAP>.
+	[Dòng 5003] [0.99] Modificar el <MAP_MODE:MAP>modo visual del mapa</MAP_MODE:MAP>.
+	[Dòng 5014] [0.98] Editar el <MAP_MODE:MAP>modo de visualización del mapa</MAP_MODE:MAP>.
+	[Dòng 5027] [0.98] Edita el <MAP_MODE:MAP>modo de visualización del mapa</MAP_MODE:MAP>.
+-----------------
+[Dòng 5052] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>? Gracias
+	[Dòng 5067] [0.99] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>, por favor? Gracias
+	[Dòng 5073] [0.98] ¿Cuánto tiempo se necesita para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5079] [0.99] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+-----------------
+[Dòng 5096] ¿Cuál es la distancia que aún hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5102] [0.97] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>? Gracias
+	[Dòng 5105] [0.97] ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5108] [0.98] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+-----------------
+[Dòng 5102] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>? Gracias
+	[Dòng 5105] [0.98] ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5108] [0.99] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5117] [0.98] Hola, ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+-----------------
+[Dòng 5105] ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5108] [0.99] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5114] [0.98] ¿Cuál es la distancia que falta para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5117] [1.00] Hola, ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+-----------------
+[Dòng 5334] ¿Podría decirme el precio de viajar por la autopista de peaje que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5338] [0.97] Quisiera saber el precio del peaje para viajar por la autopista que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>. ¿Me pueden ayudar?
+	[Dòng 5348] [0.97] ¿Cuál es el precio por viajar en la autopista de peaje que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5360] [0.97] ¿Podría decirme el precio del peaje de la autopista que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 5343] ¿Cuánto cuesta viajar por la autopista de peaje que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5348] [0.98] ¿Cuál es el precio por viajar en la autopista de peaje que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5365] [0.98] ¿Cuánto cuesta conducir por la autopista de peaje que va de <LC_CITY:BASE>San Juan</LC_CITY:BASE> a <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5368] [0.98] ¿Cuánto cuesta viajar por la autopista de peaje que une <LC_CITY:BASE>San Juan</LC_CITY:BASE> y <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 5370] [0.98] Hola, ¿cuánto cuesta viajar por la autopista de peaje que une <LC_CITY:BASE>San Juan</LC_CITY:BASE> y <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 410] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST> con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 421] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 435] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 443] [0.99] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 447] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, situada en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 419] Fije el GPS en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 429] [0.99] Fije el GPS para <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 437] [1.00] Fije el GPS en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 453] [0.99] Fije el GPS para <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 421] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con el código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 435] [1.00] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST> en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 443] [0.97] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, con código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+	[Dòng 455] [0.98] Navegue hasta la dirección <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, situada en <LC_STATE:DEST>Michigan</LC_STATE:DEST>, Estados Unidos, código postal <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 432] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 436] [0.99] Encuentre el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 440] [0.99] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, en Puerto Rico, con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 444] [0.99] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 448] [0.99] Encontrar el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 452] [0.99] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 436] Encuentre el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 440] [0.99] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, en Puerto Rico, con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 444] [0.98] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 448] [0.98] Encontrar el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 452] [0.99] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 440] Encuentra el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST>, en Puerto Rico, con código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 444] [0.99] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 448] [0.99] Encontrar el camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, con el código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+	[Dòng 452] [0.99] Encuentra tu camino a la ubicación en <LC_ADD_CODE:DEST>501</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>C. Norzagaray</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00901</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 510] La navegación que me atrae es la de la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico con código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 516] [0.98] La navegación que me atrae es la que lleva a la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 522] [0.98] La navegación que me llama la atención es la de la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, en Puerto Rico, código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 538] [0.99] La navegación que me atrae es la de la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST> en Puerto Rico con el código postal de <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+	[Dòng 544] [0.97] La navegación que estoy considerando es la de la ubicación en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, Puerto Rico con código postal <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>.
+-----------------
+[Dòng 561] ¿Pueden ayudarme a llegar al <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, situado en Pensilvania con el código postal <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, por favor?
+	[Dòng 567] [0.97] ¿Podría ayudarme a llegar al <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, situado en Pensilvania con el código postal <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, por favor?
+	[Dòng 573] [0.98] ¿Puede llevarme al <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, situado en Pensilvania con el código postal <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, por favor?
+	[Dòng 579] [0.98] ¿Pueden ayudarme a llegar al <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, situado en Pensilvania con el código postal <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>?
+	[Dòng 585] [0.97] ¿Puede llevarme al <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, situado en Pensilvania con el código postal <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, por favor y gracias?
+-----------------
+[Dòng 682] Hola, llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor.
+	[Dòng 685] [0.99] Hola, por favor, llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos.
+	[Dòng 694] [0.99] Hola, llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor guíame.
+	[Dòng 697] [0.97] Llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor y gracias.
+	[Dòng 700] [0.97] Por favor, lléveme a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias.
+	[Dòng 710] [0.98] Por favor, llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos.
+-----------------
+[Dòng 696] Guíame a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico, por favor y gracias.
+	[Dòng 702] [0.97] Guíame a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico, por favor guíame.
+	[Dòng 844] [0.98] Guíame a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico.
+	[Dòng 853] [0.99] Guíame a <POI:BASE>Wendy's</POI:BASE> en <LC_ADD_CODE:DEST>535</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Av. Roberto Sánchez Vilella</LC_ROAD:DEST>, <LC_POST_CODE:DEST>00985</LC_POST_CODE:DEST>, Puerto Rico, por favor.
+-----------------
+[Dòng 697] Llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor y gracias.
+	[Dòng 700] [0.97] Por favor, lléveme a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias.
+	[Dòng 710] [0.98] Por favor, llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos.
+	[Dòng 719] [0.99] Llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor guíame.
+	[Dòng 871] [0.99] Llévame a <POI:BASE>Turbo Sandwich</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor.
+-----------------
+[Dòng 728] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos.
+	[Dòng 731] [0.99] Lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor.
+	[Dòng 734] [0.99] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias.
+	[Dòng 745] [0.97] Llévame a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, por favor guíame.
+	[Dòng 760] [0.97] Por favor, lléveme a la <POI:BASE>Estatua de la Libertad</POI:BASE> en <LC_ADD_CODE:DEST>222</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>N 20th St</LC_ROAD:DEST>, PA <LC_POST_CODE:DEST>19103</LC_POST_CODE:DEST>, Estados Unidos, gracias de antemano.
+-----------------
+[Dòng 890] Ayúdame a encontrar el camino al <POI:BASE>National Mall</POI:BASE> en <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, MI <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>, Estados Unidos.
+	[Dòng 896] [0.98] Ayúdeme a encontrar el camino al <POI:BASE>National Mall</POI:BASE> en <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, MI <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>, Estados Unidos, por favor y gracias.
+	[Dòng 902] [0.98] Ayúdeme a encontrar el camino al <POI:BASE>National Mall</POI:BASE> en <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, MI <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>, Estados Unidos, muchas gracias.
+	[Dòng 905] [0.98] Ayúdame a encontrar el camino al <POI:BASE>National Mall</POI:BASE> en <LC_ADD_CODE:DEST>2100</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Woodward Ave</LC_ROAD:DEST>, MI <LC_POST_CODE:DEST>48201</LC_POST_CODE:DEST>, Estados Unidos, muchas gracias.
+-----------------
+[Dòng 1514] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Gracias
+	[Dòng 1523] [0.97] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchas gracias
+	[Dòng 1550] [0.97] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Muchísimas gracias
+	[Dòng 1591] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en <LC_CITY:BASE>San Juan</LC_CITY:BASE>, por favor. Mil gracias
+-----------------
+[Dòng 1521] Hola, ¿podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+	[Dòng 1530] [0.98] Hola ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1557] [0.99] Hola, ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1665] [0.98] Hola ¿Le importaría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 1612] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1621] [0.98] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> ubicado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1656] [0.99] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1674] [0.97] ¿Podría llevarme a un <POI_CATEGORY:DEST>teatro</POI_CATEGORY:DEST> situado en <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, por favor?
+-----------------
+[Dòng 2360] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ser tan amable de ayudarme? Gracias
+	[Dòng 2368] [0.98] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2395] [1.00] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ser tan amable de ayudarme?
+	[Dòng 2422] [0.98] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> urgentemente, ¿podría ayudarme?
+-----------------
+[Dòng 2364] Si no es mucha molestia, ¿podrían ayudarme a localizar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2372] [0.97] Si no es mucha molestia, ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2391] [0.99] Si no es mucha molestia, ¿podría ayudarme a localizar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+	[Dòng 2403] [0.97] Si no es mucha molestia, ¿podría ayudarme a localizar inmediatamente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>? Gracias
+	[Dòng 2418] [0.98] Si no es mucha molestia, ¿podría ayudarme a localizar inmediatamente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado en los <QT_REL_DISTANCE:DEST>alrededores</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>?
+-----------------
+[Dòng 2368] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2387] [0.98] Perdone, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que esté situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2395] [0.98] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, ¿podría ser tan amable de ayudarme?
+	[Dòng 2422] [0.97] Disculpe, pero necesito urgentemente encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE> urgentemente, ¿podría ayudarme?
+	[Dòng 2447] [0.97] Disculpe, pero necesito ayuda para encontrar urgentemente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2473] [0.97] Disculpe, pero ¿podría ayudarme a encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, por favor?
+-----------------
+[Dòng 2374] Necesito encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+	[Dòng 2386] [0.97] Necesito encontrar un bar que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme?
+	[Dòng 2401] [0.98] Necesito encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían indicarme?
+	[Dòng 2428] [0.98] Necesito encontrar urgentemente un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que se encuentre <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Castillo San Felipe del Morro</POI:BASE>, ¿podrían ayudarme inmediatamente?
+-----------------
+[Dòng 2382] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme?
+	[Dòng 2390] [0.98] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría indicármelo?
+	[Dòng 2402] [0.99] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría aconsejarme?
+	[Dòng 2409] [0.99] Disculpe, pero necesito urgentemente encontrar un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+	[Dòng 2425] [0.98] Disculpe, pero necesito encontrar urgentemente un bar <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría ayudarme inmediatamente?
+-----------------
+[Dòng 2439] Disculpe, pero necesito que me oriente para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.  Gracias
+	[Dòng 2447] [0.98] Disculpe, pero necesito ayuda para encontrar urgentemente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2455] [0.98] Disculpe, pero necesito que me oriente para encontrar inmediatamente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2465] [0.99] Disculpe, pero necesito que me oriente para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2494] [0.98] Disculpe, pero necesito su orientación para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2514] [0.98] Disculpe, pero necesito su ayuda para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+-----------------
+[Dòng 2447] Disculpe, pero necesito ayuda para encontrar urgentemente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2455] [0.98] Disculpe, pero necesito que me oriente para encontrar inmediatamente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2465] [0.98] Disculpe, pero necesito que me oriente para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2494] [0.99] Disculpe, pero necesito su orientación para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2514] [0.99] Disculpe, pero necesito su ayuda para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+-----------------
+[Dòng 2455] Disculpe, pero necesito que me oriente para encontrar inmediatamente un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2465] [0.99] Disculpe, pero necesito que me oriente para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2494] [0.98] Disculpe, pero necesito su orientación para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+	[Dòng 2514] [0.97] Disculpe, pero necesito su ayuda para encontrar un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>.
+-----------------
+[Dòng 2475] Solicito humildemente su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+	[Dòng 2483] [0.98] Solicito su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor? Gracias
+	[Dòng 2487] [0.98] Solicito humildemente su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado en las inmediaciones de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+	[Dòng 2491] [0.98] Solicito su ayuda para encontrar un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> ubicado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Hacienda Campo Rico</POI:BASE>, ¿podría orientarme, por favor?
+-----------------
+[Dòng 2482] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2490] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor?
+	[Dòng 2499] [0.99] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Gracias
+	[Dòng 2511] [0.97] ¿Sería tan amable de indicarme un <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Teatro Oller</POI:BASE>, por favor? Muchas gracias
+-----------------
+[Dòng 2538] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2591] [0.97] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> que esté convenientemente situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2603] [1.00] Llévame a un <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2613] [0.98] Llévame a un <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> de <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+	[Dòng 2618] [0.98] Llévame a un bar situado <QT_REL_DISTANCE:DEST>cerca</QT_REL_DISTANCE:DEST> del <POI:BASE>Museo Castillo Serralles</POI:BASE>, <LC_CITY:BASE>Ponce</LC_CITY:BASE>.
+-----------------
+[Dòng 2966] Espero que pueda ayudarme a encontrar un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> donde pueda saborear un delicioso pastel.
+	[Dòng 2975] [0.98] Espero que pueda ayudarme a encontrar un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> donde pueda disfrutar de un delicioso pastel.
+	[Dòng 2983] [0.98] Espero que pueda ayudarme a encontrar un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> donde pueda saborear un delicioso bocadillo.
+	[Dòng 3019] [0.99] Espero que pueda ayudarme a encontrar un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> donde pueda saborear un delicioso pastel, por favor.
+-----------------
+[Dòng 3557] ¿De cuánto tiempo dispongo antes de llegar al <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST>?
+	[Dòng 3569] [0.97] ¿De cuánto tiempo dispongo antes de llegar a la puerta principal del <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST>?
+	[Dòng 3589] [0.98] ¿De cuánto tiempo dispongo antes de llegar a la entrada del <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST>?
+	[Dòng 3593] [0.97] ¿De cuánto tiempo dispongo antes de llegar al aparcamiento del <POI_CATEGORY:DEST>parque</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 3621] ¿Qué distancia debo recorrer para llegar a la exposición del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 3629] [0.98] ¿Qué distancia debo recorrer para llegar a la sala de exposiciones del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 3637] [0.98] ¿Qué distancia debo recorrer para llegar a la galería del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+	[Dòng 3645] [0.98] ¿Qué distancia debo recorrer para llegar al espacio de exposición del <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 4807] ¿Cuál es la distancia estimada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4813] [0.98] ¿Cuál es la distancia aproximada que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.99] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4820] [0.99] ¿Cuál es la distancia prevista que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4834] [0.98] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 4813] ¿Cuál es la distancia aproximada que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4817] [0.98] ¿Cuál es la distancia que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+	[Dòng 4822] [0.97] ¿Cuál es la distancia que nos queda por recorrer para llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>? Gracias
+	[Dòng 4834] [0.98] ¿Cuál es la distancia aproximada que nos queda por recorrer antes de llegar a nuestro <LC_DEST:DEST>destino</LC_DEST>?
+-----------------
+[Dòng 5052] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>? Gracias
+	[Dòng 5067] [0.98] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>, por favor? Gracias
+	[Dòng 5073] [0.98] ¿Cuánto tiempo se necesita para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5079] [0.99] ¿Cuánto tiempo necesito para llegar al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+-----------------
+[Dòng 5096] ¿Cuál es la distancia que aún hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5102] [0.98] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>? Gracias
+	[Dòng 5105] [0.97] ¿Cuál es la distancia que queda por recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?
+	[Dòng 5108] [0.98] ¿Cuál es la distancia que hay que recorrer para llegar al <POI_CATEGORY:DEST>museo</POI_CATEGORY:DEST> desde <POI:DEST>mi casa</POI:DEST>?

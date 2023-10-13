@@ -1,0 +1,1312 @@
+
+-----------------
+[Dòng 108] Je cherche une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pouvez-vous m'aider ?
+	[Dòng 163] [0.98] Bonjour, pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 183] [0.98] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 193] [0.99] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 211] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> situé à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 254] [0.99] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 294] [0.97] Bonjour, pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 325] [0.99] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> situé à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 389] [0.98] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 228] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 271] [0.99] Bonjour, pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 311] [0.99] Bonjour. Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 369] [0.97] Bonjour, pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 376] [0.98] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 384] [0.99] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 237] Pouvez-vous me guider vers le <POI:BASE>Parc Jean Drapeau</POI:BASE> dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 280] [0.98] Pouvez-vous me guider vers le <POI:BASE>Parc Jean Drapeau</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 320] [0.99] Pouvez-vous me guider vers le <POI:BASE>Parc Jean Drapeau</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 379] [0.97] Pouvez-vous me guider vers le <POI:BASE>Parc Jean Drapeau</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 246] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>.
+	[Dòng 267] [0.98] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>.
+	[Dòng 286] [0.97] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>.
+	[Dòng 380] [0.99] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, s'il vous plaît.
+-----------------
+[Dòng 254] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 287] [0.97] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 294] [0.99] Bonjour, pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 325] [0.98] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> situé à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 389] [0.99] Pouvez-vous me guider vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 271] Bonjour, pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 311] [1.00] Bonjour. Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 369] [0.99] Bonjour, pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 376] [0.98] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 384] [0.99] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 311] Bonjour. Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, s'il vous plaît ?
+	[Dòng 369] [0.98] Bonjour, pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 376] [0.98] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 384] [0.99] Pouvez-vous m'indiquer le <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 336] J'essaie de trouver mon chemin vers le <POI:BASE>Musée de la Civilisation</POI:BASE> dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 343] [0.99] J'essaie de trouver mon chemin vers le <POI:BASE>Musée de la Civilisation</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+	[Dòng 350] [0.99] J'essaie de trouver mon chemin vers le <POI:BASE>Musée de la Civilisation</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 393] [1.00] J'essaie de trouver mon chemin vers le <POI:BASE>Musée de la Civilisation</POI:BASE> dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+-----------------
+[Dòng 338] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pourriez-vous me guider ?
+	[Dòng 345] [1.00] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+	[Dòng 352] [1.00] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 372] [0.97] Bonjour, aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 395] [0.98] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+-----------------
+[Dòng 339] Bonjour, pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 346] [0.98] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> situé dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 353] [0.99] Bonjour, pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 366] [0.97] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 373] [0.99] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ? Merci
+	[Dòng 381] [0.99] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 342] Bonjour, pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 349] [0.99] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 392] [0.99] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 399] [0.99] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> situé dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 345] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+	[Dòng 352] [1.00] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 372] [0.97] Bonjour, aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 395] [0.97] Aidez-moi à trouver le <POI:BASE>Mont Tremblant</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+-----------------
+[Dòng 346] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> situé dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 353] [0.98] Bonjour, pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 366] [0.98] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 373] [0.99] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ? Merci
+	[Dòng 381] [0.99] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 349] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 392] [0.99] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 399] [1.00] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> situé dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+	[Dòng 400] [0.97] Pouvez-vous m'indiquer le chemin du <POI:BASE>Musée Royal de l'Ontario</POI:BASE> situé dans la région <QT_REL_DISTANCE:DEST>environnant</QT_REL_DISTANCE:DEST>e, s'il vous plaît ?
+-----------------
+[Dòng 353] Bonjour, pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 366] [0.99] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> ?
+	[Dòng 373] [0.98] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ? Merci
+	[Dòng 381] [0.98] Pouvez-vous m'indiquer l'itinéraire vers le <POI:BASE>Musée d'anthropologie</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> ?
+-----------------
+[Dòng 367] Bonjour, j'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+	[Dòng 374] [0.98] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pourriez-vous m'y guider ?
+	[Dòng 390] [0.99] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+	[Dòng 397] [0.99] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+-----------------
+[Dòng 374] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pourriez-vous m'y guider ?
+	[Dòng 382] [0.99] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST>, pourriez-vous m'y guider ?
+	[Dòng 390] [0.99] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous me guider ?
+	[Dòng 397] [0.99] J'aimerais visiter le <POI:BASE>Musée Glenbow</POI:BASE> qui se trouve dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST>, pouvez-vous m'y guider ?
+-----------------
+[Dòng 429] Bonjour, pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 478] [0.98] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 486] [0.98] Pouvez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 502] [0.99] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 437] Pouvez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 478] [0.99] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 486] [0.98] Pouvez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 502] [0.97] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 488] Puis-je vous demander de m'emmener au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 504] [0.98] Bonjour, puis-je vous demander de m'emmener au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 512] [0.99] Puis-je vous demander de m'emmener au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ? Merci
+	[Dòng 527] [0.98] Puis-je vous demander de m'emmener au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ? Merci
+-----------------
+[Dòng 681] Bonjour, pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 684] [0.99] Pourriez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 690] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 702] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 714] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 843] [0.97] Comment puis-je me rendre à <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 857] [0.97] Je cherche à savoir comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 877] [0.98] Comment puis-je me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'indiquer ?
+-----------------
+[Dòng 684] Pourriez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 690] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 702] [1.00] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 714] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 857] [0.98] Je cherche à savoir comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 877] [0.99] Comment puis-je me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'indiquer ?
+-----------------
+[Dòng 687] Bonjour, pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ? Merci
+	[Dòng 699] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ? Merci
+	[Dòng 711] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1065] [0.98] Pourriez-vous m'aider à trouver le chemin de l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 690] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 702] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 714] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 843] [0.97] Comment puis-je me rendre à <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 857] [0.98] Je cherche à savoir comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 877] [0.99] Comment puis-je me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'indiquer ?
+-----------------
+[Dòng 699] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ? Merci
+	[Dòng 711] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 785] [0.97] Pouvez-vous m'aider à trouver un chemin vers <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 1065] [0.98] Pourriez-vous m'aider à trouver le chemin de l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 702] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 714] [0.99] Pouvez-vous m'indiquer comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 857] [0.98] Je cherche à savoir comment me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 877] [0.99] Comment puis-je me rendre chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'indiquer ?
+-----------------
+[Dòng 705] Pourriez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 855] [1.00] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 869] [0.98] Bonjour, pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 943] [0.99] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 957] [0.98] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1071] [0.97] Pourriez-vous m'indiquer l'emplacement du point de vente <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 706] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1060] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1077] [0.98] Pourriez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1083] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1092] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 711] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 785] [0.98] Pouvez-vous m'aider à trouver un chemin vers <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, en partant d'ici ?
+	[Dòng 1038] [0.97] Pourriez-vous m'aider à trouver mon chemin vers l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1065] [0.98] Pourriez-vous m'aider à trouver le chemin de l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 767] Pouvez-vous m'aider à trouver l'itinéraire vers <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 841] [0.99] Pouvez-vous m'aider à trouver l'itinéraire de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 851] [0.99] J'ai besoin d'aide pour trouver l'itinéraire vers <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 871] [1.00] Pouvez-vous m'aider à trouver l'itinéraire de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 841] Pouvez-vous m'aider à trouver l'itinéraire de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 847] [0.97] Pouvez-vous me donner l'itinéraire pour aller chez <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 851] [0.98] J'ai besoin d'aide pour trouver l'itinéraire vers <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, pouvez-vous m'aider ?
+	[Dòng 871] [0.99] Pouvez-vous m'aider à trouver l'itinéraire de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 844] Pouvez-vous m'indiquer comment me rendre chez Ashton, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 850] [0.98] Comment puis-je me rendre chez Ashton, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 852] [0.97] Pourriez-vous m'indiquer comment me rendre chez Ashton à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 858] [1.00] Pouvez-vous m'indiquer comment me rendre chez Ashton, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 862] [0.97] Comment puis-je me rendre chez Ashton, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 855] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 869] [0.98] Bonjour, pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 943] [0.99] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 957] [0.99] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1071] [0.97] Pourriez-vous m'indiquer l'emplacement du point de vente <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 927] Pouvez-vous me conduire à <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 945] [0.98] Pouvez-vous me conduire à l'entrée de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 947] [0.98] Pouvez-vous me conduire à l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1243] [0.97] Pouvez-vous me conduire au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 934] Pouvez-vous m'indiquer le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 940] [0.99] Pourriez-vous m'indiquer le chemin de <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1060] [0.97] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1083] [0.97] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 960] Je me demandais si vous pouviez m'emmener chez Ashton, à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>.
+	[Dòng 966] [0.99] Je me demande si vous pourriez m'emmener chez Ashton, à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>.
+	[Dòng 972] [0.99] Je me demandais si vous pouviez m'emmener chez Ashton à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>.
+	[Dòng 984] [0.98] Je me demandais si vous pouviez m'emmener chez Ashton, à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela vous convient.
+-----------------
+[Dòng 964] Bonjour. Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 973] [0.97] Pouvez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 979] [0.98] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> situé à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 988] [0.98] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, si possible ?
+	[Dòng 1233] [0.99] Bonsoir, pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1260] [0.99] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 973] Pouvez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 979] [0.98] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> situé à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 988] [0.98] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, si possible ?
+	[Dòng 1233] [0.97] Bonsoir, pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1260] [0.99] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 979] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> situé à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 988] [0.99] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, si possible ?
+	[Dòng 1233] [0.98] Bonsoir, pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1260] [0.99] Pourriez-vous me conduire au <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 1049] Bonjour, pourriez-vous m'indiquer comment me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1061] [0.99] Pourriez-vous m'indiquer comment me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1087] [0.99] Pourriez-vous m'indiquer comment me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1111] [0.98] Pouvez-vous m'indiquer comment me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>McDonald's</POI:BASE> situé à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 1060] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1077] [0.97] Pourriez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1083] [0.99] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1092] [0.98] Pouvez-vous m'aider à trouver le chemin de <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1085] Bonjour, pourriez-vous me guider vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1094] [0.98] Pourriez-vous me guider vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1131] [0.99] Pourriez-vous me guider vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1152] [0.98] Pouvez-vous me guider vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 1121] Pourriez-vous m'indiquer le point de vente <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1136] [0.99] Pouvez-vous m'indiquer le point de vente <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 1163] [1.00] Pourriez-vous m'indiquer le point de vente <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1187] [0.99] Pourriez-vous m'indiquer le point de vente <POI:BASE>McDonald's</POI:BASE> de <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 1203] Pourriez-vous m'emmener au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1209] [0.98] Vous serait-il possible de m'emmener au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1215] [0.98] Pourriez-vous m'emmener au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1238] [0.99] Pouvez-vous m'emmener au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1273] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1276] [1.00] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1285] [0.99] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1288] [0.98] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1294] [0.99] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1300] [0.99] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1303] [0.99] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1320] [0.98] Excusez-moi, pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1276] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1285] [0.99] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1288] [0.97] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1294] [0.99] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1300] [0.98] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1303] [0.99] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1320] [0.98] Excusez-moi, pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1278] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1287] [0.99] Pouvez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1290] [0.99] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1293] [1.00] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1296] [1.00] Pouvez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1304] [0.98] Excusez-moi, pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 1285] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1288] [0.99] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1294] [1.00] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1300] [0.98] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1303] [1.00] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1320] [0.98] Excusez-moi, pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1287] Pouvez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1290] [0.98] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1293] [0.98] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1296] [0.99] Pouvez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1304] [0.98] Excusez-moi, pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 1288] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1294] [0.98] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1300] [0.98] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1303] [0.98] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1320] [0.97] Excusez-moi, pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1294] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1300] [0.98] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> de <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1303] [0.99] Pouvez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1320] [0.98] Excusez-moi, pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1321] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1371] [0.98] Excusez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1392] [0.98] Bonjour, je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1398] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.98] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.97] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1496] [0.97] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [1.00] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1323] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1332] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1373] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1394] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1400] [0.97] Pardonnez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1472] [1.00] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1489] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1519] [0.97] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1327] Pouvez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1339] [0.99] Pouvez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1395] [0.97] Désolé de vous déranger, mais je cherche un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>. Pourriez-vous m'aider ?
+	[Dòng 1407] [0.98] Bonjour, j'espérais que vous pourriez m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1490] [0.99] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1332] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1373] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1400] [0.98] Pardonnez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1472] [0.99] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1489] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [1.00] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [1.00] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.99] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1337] Pouvez-vous m'indiquer le chemin d'une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1491] [0.98] Bonjour, pourriez-vous m'indiquer le chemin d'une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1539] [0.99] Pouvez-vous m'indiquer le chemin d'une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1606] [0.97] Pouvez-vous m'indiquer le chemin d'une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous le voulez bien ?
+-----------------
+[Dòng 1339] Pouvez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1342] [0.97] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> idéal à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1407] [0.98] Bonjour, j'espérais que vous pourriez m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1490] [0.99] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1695] [0.97] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1371] Excusez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1377] [0.98] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1392] [0.98] Bonjour, je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1398] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1455] [0.98] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1464] [0.97] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.98] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.99] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1505] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1511] [0.99] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1373] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1394] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1400] [0.97] Pardonnez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1472] [0.99] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1489] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1492] [0.97] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1375] Bonsoir, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1378] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1381] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1384] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1402] [1.00] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1408] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.98] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1377] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1383] [0.97] Bonjour, j'espère que cela ne vous dérangera pas trop, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1392] [0.98] Bonjour, je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1455] [0.99] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1464] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.97] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1473] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1485] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.98] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1511] [0.99] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1378] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1381] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1384] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1390] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1399] [0.97] Excusez-moi, je me demandais si vous pouviez m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1402] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1408] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.97] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1379] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1385] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1397] [0.99] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1411] [0.99] Pouvez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1414] [0.99] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1417] [0.99] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1423] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1475] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1659] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1381] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1384] [0.98] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1390] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1399] [0.98] Excusez-moi, je me demandais si vous pouviez m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1402] [0.98] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1408] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.98] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [0.98] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.97] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1383] Bonjour, j'espère que cela ne vous dérangera pas trop, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1455] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1473] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.98] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1384] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1402] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1500] [0.97] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [1.00] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1385] Bonjour, j'espérais que vous pourriez m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1397] [0.98] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1411] [0.98] Pouvez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1414] [0.99] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1417] [0.99] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1423] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1475] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1659] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1390] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1399] [0.98] Excusez-moi, je me demandais si vous pouviez m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1408] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.97] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1391] Pardonnez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1411] [0.97] Pouvez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1414] [0.97] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1495] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1659] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1392] Bonjour, je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1398] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1455] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.99] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.98] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1511] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1394] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1472] [0.97] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1489] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.97] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1656] [0.97] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1396] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous avez un moment ?
+	[Dòng 1512] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, lorsque vous aurez un moment ?
+	[Dòng 1582] [1.00] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous avez un moment ?
+	[Dòng 1603] [0.99] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, quand vous aurez un moment ?
+	[Dòng 1679] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous avez un moment ?
+-----------------
+[Dòng 1397] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1411] [0.99] Pouvez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1414] [1.00] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1417] [1.00] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1475] [1.00] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1504] [0.98] Excusez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1659] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1398] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1455] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.99] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.99] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1399] Excusez-moi, je me demandais si vous pouviez m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1408] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.97] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.97] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1400] Pardonnez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1472] [0.97] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1498] [0.99] Pardonnez-moi, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.97] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.97] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.97] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1402] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1408] [0.97] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.98] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.98] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1407] Bonjour, j'espérais que vous pourriez m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1490] [0.99] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1517] [0.98] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1578] [0.97] Bonsoir, puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1408] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1494] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.98] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1411] Pouvez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1414] [0.99] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1417] [0.99] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1423] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1426] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien, s'il vous plaît ?
+	[Dòng 1475] [1.00] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1504] [0.97] Excusez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1659] [1.00] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1413] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1416] [0.99] Bonsoir, pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1422] [0.99] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1453] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1471] [0.98] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1573] [0.99] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1655] [0.99] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1414] Bonsoir, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1417] [1.00] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1423] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1426] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien, s'il vous plaît ?
+	[Dòng 1475] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1504] [0.97] Excusez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1659] [1.00] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1416] Bonsoir, pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1422] [0.98] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1453] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1471] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1573] [0.99] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1655] [0.98] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1417] Bonjour, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1423] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1475] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1504] [0.97] Excusez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1659] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1420] Bonjour, si cela ne vous dérange pas trop, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1426] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien, s'il vous plaît ?
+	[Dòng 1441] [0.97] Si cela ne vous dérange pas, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1447] [0.99] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1665] [0.98] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1422] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1453] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1471] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1477] [0.97] Bonjour, excusez-moi, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1486] [0.98] Excusez-moi, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1488] [0.98] Excusez-moi, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1573] [0.99] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1655] [0.99] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1423] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si cela vous convient ?
+	[Dòng 1426] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien, s'il vous plaît ?
+	[Dòng 1429] [0.99] Si cela vous convient, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1475] [0.97] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1513] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien ?
+	[Dòng 1659] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1426] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien, s'il vous plaît ?
+	[Dòng 1429] [0.98] Si cela vous convient, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1513] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien ?
+	[Dòng 1659] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1429] Si cela vous convient, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1441] [0.98] Si cela ne vous dérange pas, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1513] [0.98] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, si vous le voulez bien ?
+	[Dòng 1665] [0.98] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1453] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1471] [0.99] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1573] [0.99] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1655] [0.99] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1455] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1464] [0.99] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1467] [0.97] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.97] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.99] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.98] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1511] [0.99] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.97] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1464] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.97] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1502] [0.99] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1511] [0.98] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1467] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1470] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.98] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1470] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1485] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.99] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1471] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1477] [0.97] Bonjour, excusez-moi, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1573] [0.98] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1655] [0.98] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1472] Bonsoir, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1489] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1475] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1495] [0.99] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1504] [0.98] Excusez-moi, pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1659] [1.00] Pourriez-vous m'indiquer le chemin d'un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1485] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ? Merci
+	[Dòng 1493] [0.98] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.99] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1489] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1492] [0.97] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 1510] [1.00] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1493] Bonsjour, désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1496] [0.99] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1505] [0.98] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.99] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1494] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1497] [0.99] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.98] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1503] [0.97] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si ce n'est pas trop difficile ?
+	[Dòng 1509] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.99] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1496] Excusez-moi, bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1499] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1502] [0.98] Désolé de vous interrompre, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.98] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.98] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1497] Excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1500] [0.99] Bonjour, excusez-moi, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1509] [0.98] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1576] [0.98] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+	[Dòng 1658] [0.97] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1499] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1505] [0.99] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.98] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1505] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1508] [0.97] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE>, si cela ne vous dérange pas trop ?
+	[Dòng 1511] [0.97] Désolé de vous déranger, mais pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1514] [0.99] Bonjour, j'espérais que vous pourriez m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1703] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1510] Bonjour, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1519] [0.97] Bonjour, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1534] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.98] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1512] Pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, lorsque vous aurez un moment ?
+	[Dòng 1582] [0.99] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous avez un moment ?
+	[Dòng 1603] [0.99] Pouvez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, quand vous aurez un moment ?
+	[Dòng 1679] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, si vous avez un moment ?
+-----------------
+[Dòng 1534] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1577] [1.00] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.99] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1577] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1583] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ? Merci
+	[Dòng 1656] [0.99] Je me demandais si vous pouviez m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1697] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 1750] Si c'est possible, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE> ?
+	[Dòng 1866] [0.98] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> de <POI:BASE>McDonald's</POI:BASE> si c'est possible ?
+	[Dòng 1977] [0.99] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+	[Dòng 2037] [0.97] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+-----------------
+[Dòng 1768] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous sera possible ?
+	[Dòng 1776] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, dès que possible ?
+	[Dòng 1803] [0.98] Est-ce que je pourrais vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> de <POI:BASE>Chez Ashton</POI:BASE> quand cela sera possible pour vous ?
+	[Dòng 1819] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ? Merci
+	[Dòng 1842] [0.98] Bonsoir, puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ? Merci
+	[Dòng 1960] [0.99] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ?
+	[Dòng 1996] [0.97] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ?
+-----------------
+[Dòng 1780] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, lorsque c'est possible ?
+	[Dòng 2040] [0.97] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, dès que possible ? Merci
+	[Dòng 2051] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+	[Dòng 2086] [0.99] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, dès que possible ?
+-----------------
+[Dòng 1790] Si c'est possible, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE> ?
+	[Dòng 1936] [0.99] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+	[Dòng 1946] [0.98] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, lorsque cela est possible pour vous ?
+	[Dòng 2031] [0.97] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2078] [0.98] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+-----------------
+[Dòng 1798] Pourriez-vous me guider vers un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ?
+	[Dòng 1987] [0.97] Pourriez-vous me guider vers un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand vous aurez un moment ? Merci
+	[Dòng 2070] [0.97] Si c'est possible, pourriez-vous me guider vers un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand vous aurez un moment ?
+	[Dòng 2116] [0.99] Pourriez-vous me guider vers un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand vous aurez un moment ?
+-----------------
+[Dòng 1807] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Pizza Hut</POI:BASE>, lorsque vous en aurez l'occasion ?
+	[Dòng 1822] [0.97] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Pizza Hut</POI:BASE>, si cela vous convient ?
+	[Dòng 1940] [0.97] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Pizza Hut</POI:BASE>, lorsque vous aurez un moment ?
+	[Dòng 1944] [0.99] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Pizza Hut</POI:BASE>, lorsque vous en aurez l'occasion, s'il vous plaît ?
+-----------------
+[Dòng 1819] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ? Merci
+	[Dòng 1842] [0.99] Bonsoir, puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ? Merci
+	[Dòng 1960] [0.99] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, quand cela vous conviendra ?
+	[Dòng 1981] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ? Merci
+-----------------
+[Dòng 1936] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+	[Dòng 1946] [0.97] Pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, lorsque cela est possible pour vous ?
+	[Dòng 1971] [0.97] Bonsoir, puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2019] [0.97] Bonjour, puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2031] [0.98] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2078] [0.98] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+-----------------
+[Dòng 1971] Bonsoir, puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2019] [1.00] Bonjour, puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2031] [1.00] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ? Merci
+	[Dòng 2078] [0.98] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bureau</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, si c'est possible ?
+-----------------
+[Dòng 2565] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée d'anthropologie</POI:BASE>, <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 2653] [0.99] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée d'anthropologie</POI:BASE>, <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+	[Dòng 2698] [1.00] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée d'anthropologie</POI:BASE>, <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 2883] [0.99] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée d'anthropologie</POI:BASE>, <LC_CITY:BASE>Vancouver</LC_CITY:BASE> ?
+-----------------
+[Dòng 2711] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> situé près du <POI:BASE>Musée de la Civilisation</POI:BASE>, à <LC_CITY:BASE>Québec</LC_CITY:BASE> ?
+	[Dòng 2766] [0.97] Quelqu'un peut-il m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> situé à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée de la Civilisation</POI:BASE>, à <LC_CITY:BASE>Québec</LC_CITY:BASE>, dont on a désespérément besoin ?
+	[Dòng 2804] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> situé près du <POI:BASE>Musée de la Civilisation</POI:BASE>, à <LC_CITY:BASE>Québec</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 2850] [0.99] Pourriez-vous m'indiquer un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> situé à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée de la Civilisation</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> ?
+-----------------
+[Dòng 2787] Pouvez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Royal de l'Ontario</POI:BASE>, à <LC_CITY:BASE>Toronto</LC_CITY:BASE> ?
+	[Dòng 2816] [0.97] Si ce n'est pas trop demander, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Royal de l'Ontario</POI:BASE>, à <LC_CITY:BASE>Toronto</LC_CITY:BASE> ?
+	[Dòng 2824] [0.98] Excusez-moi, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Royal de l'Ontario</POI:BASE>, <LC_CITY:BASE>Toronto</LC_CITY:BASE> ?
+	[Dòng 2840] [1.00] Pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> située à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Royal de l'Ontario</POI:BASE>, à <LC_CITY:BASE>Toronto</LC_CITY:BASE> ?
+-----------------
+[Dòng 2961] Pouvez-vous me suggérer un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> où je pourrais déguster un hamburger ?
+	[Dòng 2968] [0.99] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> où je pourrai déguster un hamburger ?
+	[Dòng 2997] [0.97] Pouvez-vous m'indiquer un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> où je pourrais manger un délicieux hamburger ?
+	[Dòng 3030] [0.97] Pouvez-vous me recommander un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> à <QT_REL_DISTANCE:DEST>proximité</QT_REL_DISTANCE:DEST> où je pourrai déguster d'appétissants hamburgers ?
+-----------------
+[Dòng 3233] Pouvez-vous trouver l'itinéraire pour aller à l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve ?
+	[Dòng 3241] [0.97] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3249] [0.98] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3253] [0.99] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve ?
+-----------------
+[Dòng 3241] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3249] [0.99] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3253] [0.98] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve ?
+	[Dòng 3256] [0.98] Pouvez-vous rechercher l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+-----------------
+[Dòng 3302] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE>, s'il vous plaît ?
+	[Dòng 3311] [0.98] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE>, si vous le connaissez ?
+	[Dòng 3314] [0.98] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE> ? Merci
+	[Dòng 3329] [0.99] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE> ?
+-----------------
+[Dòng 3351] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ? Merci
+	[Dòng 3355] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3359] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, par hasard ?
+	[Dòng 3363] [1.00] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.98] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3371] [0.97] Pouvez-vous trouver le numéro de téléphone pour <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3391] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3395] [0.98] Je me demandais si vous pouviez me fournir le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3353] Pourriez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3365] [0.98] Bonsoir, pourriez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3385] [0.99] Pourriez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3389] [1.00] Pouvez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+-----------------
+[Dòng 3355] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3359] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, par hasard ?
+	[Dòng 3363] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3371] [0.97] Pouvez-vous trouver le numéro de téléphone pour <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3391] [1.00] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3395] [0.98] Je me demandais si vous pouviez me fournir le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3356] Bonsoir, pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3364] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3368] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, si possible ?
+	[Dòng 3376] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+-----------------
+[Dòng 3359] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, par hasard ?
+	[Dòng 3363] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.98] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3387] [0.97] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, à votre convenance ?
+	[Dòng 3391] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3395] [0.98] Je me demandais si vous pouviez me fournir le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3363] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3371] [0.98] Pouvez-vous trouver le numéro de téléphone pour <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3391] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3395] [0.98] Je me demandais si vous pouviez me fournir le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3364] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3368] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, si possible ?
+	[Dòng 3376] [0.99] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3396] [0.98] Pourriez-vous m'indiquer le numéro de téléphone du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3367] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3371] [0.97] Pouvez-vous trouver le numéro de téléphone pour <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3391] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3395] [0.98] Je me demandais si vous pouviez me fournir le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3651] Pourriez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE>, s'il vous plaît ?
+	[Dòng 3657] [1.00] Pouvez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE>, s'il vous plaît ?
+	[Dòng 3681] [0.99] Pourriez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE> ?
+	[Dòng 3687] [0.99] Pouvez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE> ?
+	[Dòng 3699] [0.99] Pourriez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE>, si possible ?
+-----------------
+[Dòng 3657] Pouvez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE>, s'il vous plaît ?
+	[Dòng 3681] [0.99] Pourriez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE> ?
+	[Dòng 3687] [0.99] Pouvez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE> ?
+	[Dòng 3699] [0.99] Pourriez-vous me communiquer l'adresse de <POI:BASE>Pizza Hut</POI:BASE>, si possible ?
+-----------------
+[Dòng 3706] Bonsoir, je dois me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>. Pouvez-vous m'aider à trouver mon chemin ? Merci
+	[Dòng 3712] [0.99] Je dois me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>. Pouvez-vous m'aider à trouver mon chemin ? Merci
+	[Dòng 3736] [0.97] Je dois me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>. Pouvez-vous m'aider à trouver mon chemin, s'il vous plaît ?
+	[Dòng 3748] [0.98] Je dois me rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>. Pouvez-vous m'aider à trouver mon chemin ?
+-----------------
+[Dòng 3709] Bonsoir, pourriez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3715] [0.99] Pourriez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3721] [0.98] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour arriver au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3727] [0.99] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3739] [0.97] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour atteindre le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+-----------------
+[Dòng 3715] Pourriez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3721] [0.99] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour arriver au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3727] [1.00] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> vers le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3739] [0.98] Pouvez-vous m'indiquer le chemin <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour atteindre le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+-----------------
+[Dòng 3733] Bonjour, pouvez-vous m'indiquer l'itinéraire <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour vous rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>, s'il vous plaît ?
+	[Dòng 3737] [0.99] Pouvez-vous m'indiquer l'itinéraire <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour vous rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST>, s'il vous plaît ?
+	[Dòng 3743] [0.99] Bonsoir, pouvez-vous m'indiquer l'itinéraire <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour vous rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+	[Dòng 3749] [0.98] Pouvez-vous m'indiquer l'itinéraire <ROUTE_TYPE:ROUTE>le plus rapide</ROUTE_TYPE:ROUTE> pour vous rendre au <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> ?
+-----------------
+[Dòng 3792] Pourriez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3803] [0.99] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher possible ?
+	[Dòng 3812] [0.99] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3817] [0.98] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins coûteux ?
+	[Dòng 3828] [0.97] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le plus économique ?
+-----------------
+[Dòng 3802] Bonjour, pouvez-vous m'indiquer le moyen le plus économique d'aller chez <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> ?
+	[Dòng 3807] [0.97] Pouvez-vous m'aider à trouver le moyen le plus économique d'aller chez <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> ?
+	[Dòng 3820] [0.99] Pouvez-vous m'indiquer le moyen le plus économique d'aller à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> ?
+	[Dòng 3822] [0.99] Pouvez-vous m'indiquer le moyen le plus économique d'aller chez <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> ?
+-----------------
+[Dòng 3803] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher possible ?
+	[Dòng 3812] [1.00] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3817] [0.99] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins coûteux ?
+	[Dòng 3819] [0.97] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le plus économique ? Merci
+	[Dòng 3828] [0.98] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le plus économique ?
+-----------------
+[Dòng 3812] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3817] [0.99] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins coûteux ?
+	[Dòng 3819] [0.97] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le plus économique ? Merci
+	[Dòng 3828] [0.98] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le plus économique ?
+-----------------
+[Dòng 3914] Bonjour, pourriez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3921] [0.99] Pourriez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3925] [1.00] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3930] [0.99] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3954] [0.97] Pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3959] [0.97] Pourriez-vous m'aider à trouver l'endroit auquel je fais référence ?
+-----------------
+[Dòng 3921] Pourriez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3925] [0.99] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3930] [0.98] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3954] [0.99] Pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3959] [0.99] Pourriez-vous m'aider à trouver l'endroit auquel je fais référence ?
+-----------------
+[Dòng 3925] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ? Merci
+	[Dòng 3930] [0.99] Bonsoir, pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3954] [0.97] Pouvez-vous m'aider à trouver l'endroit auquel je fais référence ?
+	[Dòng 3959] [0.97] Pourriez-vous m'aider à trouver l'endroit auquel je fais référence ?
+-----------------
+[Dòng 4032] Nous pouvons lancer le processus de <CONTENT_TYPE:CONTENT>navigation</CONTENT_TYPE:CONTENT> pour commencer notre voyage dès maintenant.
+	[Dòng 4035] [0.99] Nous pouvons lancer le processus de <CONTENT_TYPE:CONTENT>navigation</CONTENT_TYPE:CONTENT> pour commencer le voyage dès maintenant.
+	[Dòng 4044] [0.97] Nous pouvons déclencher le processus de <CONTENT_TYPE:CONTENT>navigation</CONTENT_TYPE:CONTENT> pour commencer le voyage dès maintenant.
+	[Dòng 4047] [0.98] Nous pouvons entamer le processus de <CONTENT_TYPE:CONTENT>navigation</CONTENT_TYPE:CONTENT> pour commencer le voyage dès maintenant.
+-----------------
+[Dòng 4802] Quand atteindrons-nous le point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST>, et quelle est la distance restante ?
+	[Dòng 4820] [0.98] Quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante, s'il vous plaît ?
+	[Dòng 4825] [1.00] Quand atteindrons-nous le point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+	[Dòng 4837] [0.99] Quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+	[Dòng 4838] [0.97] Bonjour, quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+-----------------
+[Dòng 4820] Quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante, s'il vous plaît ?
+	[Dòng 4825] [0.97] Quand atteindrons-nous le point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+	[Dòng 4837] [0.98] Quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+	[Dòng 4838] [0.97] Bonjour, quand arriverons-nous au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> et quelle est la distance restante ?
+-----------------
+[Dòng 4844] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous me l'afficher ?
+	[Dòng 4847] [0.98] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous l'afficher pour moi, s'il vous plaît ?
+	[Dòng 4884] [0.99] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+	[Dòng 4897] [0.99] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous l'afficher pour moi ?
+	[Dòng 4921] [0.97] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ? Merci
+	[Dòng 4934] [0.98] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+-----------------
+[Dòng 4847] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous l'afficher pour moi, s'il vous plaît ?
+	[Dòng 4884] [0.98] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+	[Dòng 4897] [0.99] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous l'afficher pour moi ?
+	[Dòng 4921] [0.97] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ? Merci
+	[Dòng 4934] [0.98] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+-----------------
+[Dòng 4848] Pouvez-vous me montrer l'adresse de l'endroit où nous nous rendons ? Merci
+	[Dòng 4850] [0.98] Pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons, s'il vous plaît ? Merci
+	[Dòng 4898] [0.98] Pouvez-vous me montrer l'adresse de l'endroit où nous nous rendons ?
+	[Dòng 4914] [1.00] Pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons ? Merci
+-----------------
+[Dòng 4850] Pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons, s'il vous plaît ? Merci
+	[Dòng 4862] [0.98] Bonsoir, pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons, s'il vous plaît ?
+	[Dòng 4871] [0.99] Pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons, s'il vous plaît ?
+	[Dòng 4914] [0.98] Pourriez-vous me montrer l'adresse de l'endroit où nous nous rendons ? Merci
+-----------------
+[Dòng 4851] Pourriez-vous me montrer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ? Merci
+	[Dòng 4852] [0.98] S'il vous plaît, pouvez-vous me montrer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 4857] [0.99] Pouvez-vous me montrer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 4863] [0.99] Pourriez-vous me montrer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+-----------------
+[Dòng 4854] Pourriez-vous me donner l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 4863] [0.97] Pourriez-vous me montrer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 4866] [0.99] Pourriez-vous me donner l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ? Merci
+	[Dòng 4918] [0.98] Pouvez-vous m'indiquer l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+-----------------
+[Dòng 4860] Pourriez-vous m'indiquer l'adresse de notre dernier <LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST>, s'il vous plaît ?
+	[Dòng 4881] [0.98] Pouvez-vous m'indiquer l'adresse de notre dernier <LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ?
+	[Dòng 4912] [0.97] Bonsoir, pouvez-vous m'indiquer l'adresse de notre dernier <LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ?
+	[Dòng 4931] [0.97] Pouvez-vous m'indiquer l'adresse de notre dernier <LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ? Merci
+-----------------
+[Dòng 4875] Quelle est l'adresse de l'endroit où nous allons ? Pourriez-vous me la montrer, s'il vous plaît ?
+	[Dòng 4879] [0.99] Quelle est l'adresse de l'endroit où nous allons ? Pouvez-vous me la montrer ?
+	[Dòng 4910] [0.98] Bonsoir, quelle est l'adresse de l'endroit où nous allons ? Pouvez-vous me la montrer ?
+	[Dòng 4929] [0.98] Quelle est l'adresse de l'endroit où nous allons ? Pouvez-vous me la montrer ? Merci
+-----------------
+[Dòng 4877] Pourriez-vous me montrer l'adresse de l'endroit où nous allons ?
+	[Dòng 4895] [1.00] Pouvez-vous me montrer l'adresse de l'endroit où nous allons ?
+	[Dòng 4927] [0.98] Pourriez-vous me montrer l'adresse de l'endroit où nous allons ? Merci
+	[Dòng 4935] [0.97] Pouvez-vous me montrer l'adresse de l'endroit où nous allons, s'il vous plaît ?
+-----------------
+[Dòng 4884] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+	[Dòng 4897] [0.99] Quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pourriez-vous l'afficher pour moi ?
+	[Dòng 4921] [0.97] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ? Merci
+	[Dòng 4934] [0.99] Bonsoir, quelle est l'adresse de notre <LC_DEST:DEST>destination</LC_DEST:DEST> ? Pouvez-vous l'afficher pour moi ?
+-----------------
+[Dòng 4885] Pouvez-vous me montrer l'adresse de l'endroit où nous allons, s'il vous plaît ? Merci
+	[Dòng 4889] [0.98] Bonjour, pouvez-vous me montrer l'adresse de l'endroit où nous allons, s'il vous plaît ?
+	[Dòng 4927] [0.98] Pourriez-vous me montrer l'adresse de l'endroit où nous allons ? Merci
+	[Dòng 4935] [0.98] Pouvez-vous me montrer l'adresse de l'endroit où nous allons, s'il vous plaît ?
+-----------------
+[Dòng 5081] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5090] [0.98] Quelle est la distance entre le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5093] [0.99] Bonjour, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5096] [0.97] Quelle est la distance qui sépare <POI:BASE>Chez Ashton</POI:BASE> du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5083] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5095] [0.99] Pourriez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5098] [0.97] Pouvez-vous m'indiquer la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5104] [0.98] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5115] [0.97] Bonsoir, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5118] [0.99] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5085] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5091] [0.98] Quelle est la distance à parcourir entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5103] [0.98] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5117] [1.00] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5086] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5095] [0.98] Pourriez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5101] [0.98] Quelle est la distance entre le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5104] [0.99] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5115] [0.99] Bonsoir, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5116] [0.98] Quelle est la distance à parcourir entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5118] [0.98] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5095] Pourriez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5098] [0.97] Pouvez-vous m'indiquer la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5101] [0.97] Quelle est la distance entre le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5104] [0.98] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5115] [0.98] Bonsoir, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5118] [1.00] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5101] Quelle est la distance entre le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5104] [0.97] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5115] [0.98] Bonsoir, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5118] [0.97] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5104] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5115] [0.98] Bonsoir, quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5116] [0.97] Quelle est la distance à parcourir entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5118] [0.98] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5127] Pouvez-vous me fournir l'historique de mes recherches des derniers jours ?
+	[Dòng 5137] [0.98] Pouvez-vous me montrer l'historique de mes recherches des derniers jours ?
+	[Dòng 5141] [0.97] Pouvez-vous me fournir l'historique de mes recherches les plus récentes ?
+	[Dòng 5144] [0.98] Pouvez-vous me présenter l'historique de mes recherches des derniers jours ?
+	[Dòng 5158] [0.97] Pouvez-vous me fournir l'historique de mes recherches récentes ?
+-----------------
+[Dòng 5294] Quel est le montant de la redevance pour l'utilisation de l'autoroute à péage ? Merci
+	[Dòng 5301] [0.99] Quel est le montant de la redevance d'utilisation de l'autoroute à péage ?
+	[Dòng 5312] [0.98] Quel est le montant de la redevance d'utilisation de l'autoroute à péage, s'il vous plaît ?
+	[Dòng 5317] [0.99] Quel est le montant de la redevance pour l'utilisation de l'autoroute à péage ?
+-----------------
+[Dòng 5411] Combien coûte l'utilisation de l'autoroute à péage pour atteindre la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5419] [0.98] Quel est le coût de l'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5437] [0.98] Quel est le coût d'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5445] [0.99] Quel est le coût d'utilisation de l'autoroute à péage pour atteindre la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+-----------------
+[Dòng 5419] Quel est le coût de l'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5424] [0.99] Bonjour, quel est le coût d'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5434] [0.99] Bonjour, quel est le coût de l'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5437] [1.00] Quel est le coût d'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5445] [0.99] Quel est le coût d'utilisation de l'autoroute à péage pour atteindre la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+-----------------
+[Dòng 5420] Bonjour, pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 5428] [0.98] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 5433] [0.98] Pourriez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 5436] [0.97] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5446] [0.97] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+-----------------
+[Dòng 5424] Bonjour, quel est le coût d'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5434] [1.00] Bonjour, quel est le coût de l'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5437] [0.99] Quel est le coût d'utilisation de l'autoroute à péage jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5445] [0.98] Quel est le coût d'utilisation de l'autoroute à péage pour atteindre la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+-----------------
+[Dòng 5428] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 5433] [1.00] Pourriez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST>, s'il vous plaît ?
+	[Dòng 5436] [0.98] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+	[Dòng 5446] [0.98] Pouvez-vous m'indiquer le montant du péage autoroutier jusqu'à la <LC_DEST:DEST>destination</LC_DEST:DEST> ?
+-----------------
+[Dòng 5464] Quel est l'endroit que je visite <QT_REL:DEST>le plus souvent</QT_REL:DEST> ? J'aimerais y aller.
+	[Dòng 5485] [0.98] Quel est l'endroit que j'ai visité <QT_REL:DEST>le plus souvent</QT_REL:DEST> ? J'aimerais y aller.
+	[Dòng 5492] [0.99] Quel est l'endroit que je visite <QT_REL:DEST>le plus souvent</QT_REL:DEST> ? Je veux y aller.
+	[Dòng 5499] [0.99] Bonsoir, quel est l'endroit que je visite <QT_REL:DEST>le plus souvent</QT_REL:DEST> ? J'aimerais y aller.
+-----------------
+[Dòng 478] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 494] [0.98] Pourriez-vous m'emmener au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 502] [0.97] Pourriez-vous me conduire au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 577] [0.97] Pourriez-vous me guider jusqu'au <LC_ADD_CODE:DEST>179</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST>, <LC_POST_CODE:DEST>G1R 2H1</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+-----------------
+[Dòng 567] Si cela ne vous dérange pas trop, pourriez-vous me guider jusqu'au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 571] [0.98] Si cela ne vous dérange pas trop, pourriez-vous me guider jusqu'au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 579] [0.98] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer le <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 583] [0.97] Si cela ne vous dérange pas trop, pourriez-vous me guider jusqu'au <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada, si vous avez un moment ?
+-----------------
+[Dòng 855] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 943] [0.98] Pouvez-vous m'indiquer l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 947] [0.98] Pouvez-vous me conduire à l'emplacement de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 953] [0.98] Pouvez-vous m'indiquer l'entrée de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 927] Pouvez-vous me conduire à <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 945] [0.98] Pouvez-vous me conduire à l'entrée de <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 965] [0.97] Pouvez-vous m'aider et me conduire à <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 977] [0.98] Pouvez-vous m'aider en me conduisant à <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 1097] Pouvez-vous m'indiquer la succursale de <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1103] [0.97] Pouvez-vous m'indiquer le point de vente <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1222] [0.97] Pouvez-vous me conduire à la succursale <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1255] [0.97] Pouvez-vous me conduire à l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1261] [0.98] Pouvez-vous me conduire à la succursale de <POI:BASE>Pizza Hut</POI:BASE> basée à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE>, s'il vous plaît ?
+-----------------
+[Dòng 1138] Pourriez-vous m'aider à trouver le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1171] [0.98] Pourriez-vous m'aider à trouver le chemin du <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1285] [0.98] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1288] [0.97] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE> à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 1294] [0.98] Pourriez-vous m'aider à visiter le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> <POI:BASE>Chez Ashton</POI:BASE>, situé à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 1278] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> de <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1290] [0.99] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> situé à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1293] [1.00] Pourriez-vous m'aider à visiter l'établissement <POI:BASE>Pizza Hut</POI:BASE> à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+	[Dòng 1302] [0.97] Pourriez-vous m'aider à visiter la succursale de <POI:BASE>Pizza Hut</POI:BASE> située à <LC_CITY:BASE>Stoneham-et-Tewkesbury</LC_CITY:BASE> ?
+-----------------
+[Dòng 1375] Bonsoir, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1384] [0.97] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ? Merci
+	[Dòng 1402] [0.99] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1471] [0.97] Bonjour, pourriez-vous m'indiquer une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE>, s'il vous plaît ?
+	[Dòng 1509] [0.97] Bonjour, pourriez-vous m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> dans les <LC_CITY:BASE>Laurentides</LC_CITY:BASE> ?
+-----------------
+[Dòng 1722] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 1746] [0.97] Si cela ne vous dérange pas trop, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE> ? Merci
+	[Dòng 1805] [0.98] Si cela ne vous dérange pas trop, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 2099] [0.97] Si cela ne vous dérange pas trop, pourriez-vous m'indiquer un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, dès que possible ?
+-----------------
+[Dòng 1753] Si cela ne vous dérange pas trop, pourriez-vous me guider vers un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, quand vous en aurez l'occasion ?
+	[Dòng 1812] [0.97] Si cela ne vous dérange pas trop, pourriez-vous me guider vers un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, quand vous aurez le temps ?
+	[Dòng 1965] [0.97] Si cela ne vous dérange pas trop, pourriez-vous me guider vers un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, quand vous en aurez l'occasion ?
+	[Dòng 2010] [0.97] Si cela ne vous dérange pas trop, pourriez-vous me guider vers un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> près de <POI:BASE>McDonald's</POI:BASE>, quand vous aurez un moment ?
+-----------------
+[Dòng 1805] Si cela ne vous dérange pas trop, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 1897] [0.97] Si cela ne vous dérange pas trop, pourriez-vous m'assister à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE> dès que possible ?
+	[Dòng 1928] [0.97] Si cela ne vous dérange pas trop, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, dès que possible ?
+	[Dòng 2087] [0.97] Si cela ne vous dérange pas trop, pourriez-vous m'aider à trouver un <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ?
+-----------------
+[Dòng 1923] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous en aurez l'occasion ?
+	[Dòng 1954] [0.97] Puis-je vous demander de m'aider à trouver un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous en aurez l'occasion ?
+	[Dòng 1981] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ? Merci
+	[Dòng 1996] [0.98] Puis-je vous demander de m'aider à trouver une <POI_CATEGORY:DEST>banque</POI_CATEGORY:DEST> près de <POI:BASE>Chez Ashton</POI:BASE>, lorsque vous aurez un moment ?
+-----------------
+[Dòng 2122] Emmenez-moi dans un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> du <POI:BASE>parc Jean Drapeau</POI:BASE>.
+	[Dòng 2143] [0.98] Emmenez-moi dans un <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST> situé dans le <POI:BASE>parc Jean Drapeau</POI:BASE>.
+	[Dòng 2172] [0.97] Emmenez-moi dans un café du <POI:BASE>parc Jean Drapeau</POI:BASE>.
+	[Dòng 2241] [0.97] Emmenez-moi dans un café au <POI:BASE>parc Jean Drapeau</POI:BASE>.
+-----------------
+[Dòng 2182] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> professionnelle dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2202] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de design dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2223] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> technique dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2230] [0.99] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de musique dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2237] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de commerce dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+-----------------
+[Dòng 2202] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de design dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2223] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> technique dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2230] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de musique dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+	[Dòng 2237] [0.98] Pourriez-vous nous recommander une <POI_CATEGORY:DEST>école<POI_CATEGORY:DEST> de commerce dans les <QT_REL_DISTANCE:DEST>environs</QT_REL_DISTANCE:DEST> du <POI:BASE>Musée Glenbow</POI:BASE> ?
+-----------------
+[Dòng 3221] Pouvez-vous trouver le chemin vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3237] [0.97] Pouvez-vous découvrir le chemin qui mène à <POI:BASE>l'édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3241] [0.97] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3249] [0.97] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3253] [0.97] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve ?
+-----------------
+[Dòng 3229] Pouvez-vous rechercher l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement, s'il vous plaît ?
+	[Dòng 3241] [0.98] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3249] [0.98] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3256] [0.99] Pouvez-vous rechercher l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+-----------------
+[Dòng 3241] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3249] [1.00] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve actuellement ?
+	[Dòng 3253] [0.99] Pouvez-vous trouver l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE>, à partir de l'endroit où je me trouve ?
+	[Dòng 3256] [0.99] Pouvez-vous rechercher l'itinéraire vers l'<POI:BASE>Édifice Marie-Guyart</POI:BASE>, <LC_CITY:BASE>Québec</LC_CITY:BASE> à partir de l'endroit où je me trouve actuellement ?
+-----------------
+[Dòng 3302] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE>, s'il vous plaît ?
+	[Dòng 3311] [0.97] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE>, si vous le connaissez ?
+	[Dòng 3317] [0.97] Pourriez-vous rechercher le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE>, s'il vous plaît ?
+	[Dòng 3329] [0.97] Pourriez-vous me communiquer le numéro de téléphone de <POI:BASE>Chez Ashton</POI:BASE> ?
+-----------------
+[Dòng 3351] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ? Merci
+	[Dòng 3355] [0.97] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3363] [0.99] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.98] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+-----------------
+[Dòng 3353] Pourriez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3369] [0.97] Pourriez-vous nous communiquer le numéro de téléphone de <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, si vous l'avez ?
+	[Dòng 3389] [0.98] Pouvez-vous me communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3397] [0.99] Pourriez-vous nous communiquer le numéro de téléphone du <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+-----------------
+[Dòng 3355] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 3363] [0.98] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 3367] [0.98] Pouvez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada, si vous le connaissez ?
+	[Dòng 3391] [0.98] Pourriez-vous me donner le numéro de téléphone du <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 3410] À quelle heure le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> le plus <QT_REL_DISTANCE:DEST>proche</QT_REL_DISTANCE:DEST> commence-t-il à servir le dîner ?
+	[Dòng 3425] [0.97] À quelle heure le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> le plus <QT_REL_DISTANCE:DEST>proche</QT_REL_DISTANCE:DEST> commence-t-il à servir le déjeuner ?
+	[Dòng 3428] [0.97] À quelle heure le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> le plus <QT_REL_DISTANCE:DEST>proche</QT_REL_DISTANCE:DEST> ouvre-t-il pour le dîner ?
+	[Dòng 3437] [0.98] À quelle heure le <POI_CATEGORY:DEST>restaurant</POI_CATEGORY:DEST> le plus <QT_REL_DISTANCE:DEST>proche</QT_REL_DISTANCE:DEST> commence-t-il à servir ses plats du jour ?
+-----------------
+[Dòng 3618] Quelle distance reste-t-il à parcourir pour atteindre la rive du lac du <POI_CATEGORY:DEST>parc</POI_CATEGORY:DEST> ?
+	[Dòng 3627] [0.99] Quelle distance reste-t-il à parcourir pour atteindre le bord du lac du <POI_CATEGORY:DEST>parc</POI_CATEGORY:DEST> ?
+	[Dòng 3636] [0.97] Quelle distance reste-t-il à parcourir pour atteindre le point de départ du sentier du <POI_CATEGORY:DEST>parc</POI_CATEGORY:DEST> ?
+	[Dòng 3639] [0.98] Quelle distance reste-t-il à parcourir pour atteindre le point de vue du <POI_CATEGORY:DEST>parc</POI_CATEGORY:DEST> ?
+-----------------
+[Dòng 3792] Pourriez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3803] [0.97] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher possible ?
+	[Dòng 3812] [0.98] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins cher ?
+	[Dòng 3817] [0.97] Pouvez-vous me guider jusqu'à <POI:BASE>Pizza Hut</POI:BASE> en passant par <POI:BASE>McDonald's</POI:BASE> en utilisant l'itinéraire le moins coûteux ?
+-----------------
+[Dòng 4767] Combien de temps nous reste-t-il avant d'arriver au <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> ?
+	[Dòng 4772] [0.98] Combien de temps reste-t-il avant d'atteindre le <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> ?
+	[Dòng 4786] [0.98] Combien de temps reste-t-il avant d'arriver au <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> prévu ?
+	[Dòng 4797] [0.99] Combien de temps nous reste-t-il avant d'arriver au point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ?
+	[Dòng 4830] [0.97] Combien de temps nous reste-t-il avant d'atteindre le point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ?
+-----------------
+[Dòng 4772] Combien de temps reste-t-il avant d'atteindre le <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> ?
+	[Dòng 4775] [0.99] Combien de temps reste-t-il avant d'atteindre le <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> prévu ?
+	[Dòng 4786] [0.98] Combien de temps reste-t-il avant d'arriver au <LC_DEST:DEST>point d'arrivée</LC_DEST:DEST> prévu ?
+	[Dòng 4830] [0.97] Combien de temps nous reste-t-il avant d'atteindre le point d'<LC_STOPBY:DEST>arrêt</LC_STOPBY:DEST> ?
+-----------------
+[Dòng 5081] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5090] [0.98] Quelle est la distance entre le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5102] [0.98] Quelle est la distance de séparation entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5113] [0.98] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et l'adresse <LC_ADD_CODE:DEST>103</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST>, <LC_STATE:DEST>QC</LC_STATE:DEST> <LC_POST_CODE:DEST>G3C 2T5</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5086] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5101] [0.98] Quelle est la distance entre le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada et <POI:BASE>Chez Ashton</POI:BASE> ?
+	[Dòng 5104] [0.97] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et le <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada, s'il vous plaît ?
+	[Dòng 5109] [0.98] Quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et l'adresse <LC_ADD_CODE:DEST>55</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST>, <LC_STATE:DEST>MB</LC_STATE:DEST> <LC_POST_CODE:DEST>R3P 2N6</LC_POST_CODE:DEST>, Canada ?
+-----------------
+[Dòng 5094] Pouvez-vous me dire quelle est la distance de séparation entre <POI:BASE>Chez Ashton</POI:BASE> et <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5103] [0.98] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5105] [0.98] Pouvez-vous me dire quelle est la distance qui sépare <POI:BASE>Chez Ashton</POI:BASE> du <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?
+	[Dòng 5108] [0.98] Pouvez-vous me dire quelle est la distance entre <POI:BASE>Chez Ashton</POI:BASE> et l'adresse <LC_ADD_CODE:DEST>130</LC_ADD_CODE:DEST>, <LC_ROAD:DEST>9 Ave SE</LC_ROAD:DEST>, <LC_STATE:DEST>AB</LC_STATE:DEST> <LC_POST_CODE:DEST>T2G 0P3</LC_POST_CODE:DEST>, Canada ?

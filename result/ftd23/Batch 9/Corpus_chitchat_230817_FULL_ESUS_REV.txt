@@ -1,0 +1,65 @@
+
+-----------------
+[Dòng 704] <U:PERSON>Tu</U:PERSON> voz es tan buena.
+	[Dòng 705] [0.97] Tienes una voz tan buena.
+	[Dòng 707] [0.98] <U:PERSON>Tu</U:PERSON> voz es realmente buena.
+	[Dòng 712] [0.97] <U:PERSON>Tu</U:PERSON> voz es excelente.
+-----------------
+[Dòng 1736] ¿Qué significa el nombre Siri?
+	[Dòng 1737] [0.98] ¿Cuál es el significado del nombre Siri?
+	[Dòng 1739] [0.99] ¿Qué quiere decir el nombre Siri?
+	[Dòng 1754] [0.97] ¿Qué significa el nombre Siri en realidad?
+	[Dòng 1773] [0.97] ¿<I:PERSON>Me</I:PERSON> puedes decir qué significa el nombre Siri?
+-----------------
+[Dòng 1981] La tasa de natalidad está aumentando finalmente en Puerto Rico.
+	[Dòng 1993] [0.99] La tasa de natalidad está aumentando al fin en Puerto Rico.
+	[Dòng 2005] [0.99] La tasa de natalidad en Puerto Rico finalmente está en aumento.
+	[Dòng 2016] [1.00] La tasa de natalidad en Puerto Rico está finalmente aumentando.
+	[Dòng 2028] [0.99] La tasa de natalidad finalmente está en aumento en Puerto Rico.
+-----------------
+[Dòng 1982] Finalmente estamos viendo un aumento en la tasa de natalidad en Puerto Rico.
+	[Dòng 2006] [0.99] Finalmente estamos viendo un incremento en la tasa de natalidad de Puerto Rico.
+	[Dòng 2017] [0.98] Finalmente observamos un aumento en la tasa de natalidad de Puerto Rico.
+	[Dòng 2029] [1.00] Finalmente estamos viendo un incremento en la tasa de natalidad en Puerto Rico.
+-----------------
+[Dòng 1993] La tasa de natalidad está aumentando al fin en Puerto Rico.
+	[Dòng 2005] [0.98] La tasa de natalidad en Puerto Rico finalmente está en aumento.
+	[Dòng 2016] [0.99] La tasa de natalidad en Puerto Rico está finalmente aumentando.
+	[Dòng 2028] [0.99] La tasa de natalidad finalmente está en aumento en Puerto Rico.
+-----------------
+[Dòng 2337] Iré a un concierto en el estadio esta noche.
+	[Dòng 2339] [0.97] Voy al estadio esta noche para un concierto.
+	[Dòng 2355] [0.98] Iré al estadio esta noche para el concierto.
+	[Dòng 2375] [0.98] Asistiré a un concierto en el estadio esta noche.
+-----------------
+[Dòng 4192] ¿Cuándo terminará la clase?
+	[Dòng 4197] [0.99] ¿Cuándo acabará la clase?
+	[Dòng 4202] [0.98] ¿Cuándo se acabará la clase?
+	[Dòng 4207] [0.98] ¿Cuándo finalizará la clase?
+-----------------
+[Dòng 5651] El carro está muy sucio.
+	[Dòng 5655] [0.98] El auto está muy sucio.
+	[Dòng 5663] [0.99] El coche está muy sucio.
+	[Dòng 5667] [0.98] El automóvil está muy sucio.
+-----------------
+[Dòng 5652] <I:PERSON>Mi</I:PERSON> carro está muy sucio.
+	[Dòng 5656] [0.98] <I:PERSON>Mi</I:PERSON> auto está muy sucio.
+	[Dòng 5664] [0.99] <I:PERSON>Mi</I:PERSON> coche está muy sucio.
+	[Dòng 5668] [0.98] <I:PERSON>Mi</I:PERSON> automóvil está muy sucio.
+-----------------
+[Dòng 6371] ¿Quién es la más bonita?
+	[Dòng 6373] [0.97] ¿Quién es la más guapa?
+	[Dòng 6374] [0.97] ¿Quién es la más bella?
+	[Dòng 6375] [0.99] ¿Quién es la más linda?
+	[Dòng 6377] [0.98] ¿Quién es la más bonita de todas?
+	[Dòng 6381] [0.97] ¿Quién es la más linda entre todas?
+-----------------
+[Dòng 1981] La tasa de natalidad está aumentando finalmente en Puerto Rico.
+	[Dòng 2005] [0.98] La tasa de natalidad en Puerto Rico finalmente está en aumento.
+	[Dòng 2016] [0.98] La tasa de natalidad en Puerto Rico está finalmente aumentando.
+	[Dòng 2028] [0.99] La tasa de natalidad finalmente está en aumento en Puerto Rico.
+-----------------
+[Dòng 2333] Para el jardín, estaré comprando flores mañana, por la mañana.
+	[Dòng 2350] [0.97] Mañana estaré comprando flores para el jardín.
+	[Dòng 2362] [0.97] Estaré comprando flores mañana para el jardín.
+	[Dòng 2378] [0.98] Para el jardín, estaré comprando flores mañana.

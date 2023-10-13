@@ -1,0 +1,6 @@
+
+-----------------
+[Dòng 703] Quels sont les <HELP:HELP>commandes vocales pour la climatisation</HELP:HELP> ?
+	[Dòng 711] [1.00] Quelles sont les <HELP:HELP>commandes vocales pour la climatisation</HELP:HELP> ?
+	[Dòng 719] [0.98] Quels sont les <HELP:HELP>commandes vocales pour la climatisation</HELP:HELP>, s'il vous plaît ?
+	[Dòng 723] [0.98] Quelles <HELP:HELP>commandes vocales pour la climatisation</HELP:HELP> ?

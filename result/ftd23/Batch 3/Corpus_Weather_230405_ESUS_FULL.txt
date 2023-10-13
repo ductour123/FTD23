@@ -1,0 +1,196 @@
+
+-----------------
+[Dòng 442] Hola, ¿qué pronóstico hay sobre la humedad en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+	[Dòng 470] [0.99] ¿Qué pronóstico hay sobre la humedad en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+	[Dòng 478] [0.98] Buenos días ¿qué pronóstico hay sobre la humedad en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+	[Dòng 480] [0.99] Buenas tardes ¿qué pronóstico hay sobre la humedad en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+-----------------
+[Dòng 443] Hola, ¿Podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 450] [0.98] ¿Tal vez podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 457] [0.99] Buenas tardes, ¿Podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 464] [0.99] ¿Quizas podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 471] [0.99] ¿Podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+-----------------
+[Dòng 447] Hola, ¿Cuál es la perspectiva de humedad para <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+	[Dòng 454] [0.99] ¿Cuál es la perspectiva de humedad para <LC_CITY:BASE>Ponce</LC_CITY:BASE>, por favor?
+	[Dòng 461] [0.99] Hola, ¿Cuál es la perspectiva de humedad para <LC_CITY:BASE>Ponce</LC_CITY:BASE>, por favor?
+	[Dòng 468] [0.99] ¿Cuál es la perspectiva de humedad para <LC_CITY:BASE>Ponce</LC_CITY:BASE>?
+-----------------
+[Dòng 450] ¿Tal vez podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 457] [0.98] Buenas tardes, ¿Podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 464] [0.99] ¿Quizas podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 471] [0.99] ¿Podrías compartirme la previsión de humedad en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+-----------------
+[Dòng 451] Hola, ¿Cuál es la proyección de humedad para <LC_CITY:BASE>Boston</LC_CITY:BASE>, por favor?
+	[Dòng 458] [0.97] Hola, ¿sabes cuál es la proyección de humedad para <LC_CITY:BASE>Boston</LC_CITY:BASE>, por favor?
+	[Dòng 472] [0.99] ¿Cuál es la proyección de humedad para <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 473] [0.99] Hola, ¿cuál es la proyección de humedad para <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+-----------------
+[Dòng 462] ¿Qué se anticipa en cuanto al nivel de humedad en <LC_CITY:BASE>Detroit</LC_CITY:BASE>, por favor?
+	[Dòng 469] [0.99] ¿Qué se anticipa en cuanto al nivel de humedad en <LC_CITY:BASE>Detroit</LC_CITY:BASE>?
+	[Dòng 477] [0.98] Hola, ¿qué se anticipa en cuanto al nivel de humedad en <LC_CITY:BASE>Detroit</LC_CITY:BASE>?
+	[Dòng 479] [0.97] Buenas tardes, ¿qué se anticipa en cuanto al nivel de humedad en <LC_CITY:BASE>Detroit</LC_CITY:BASE>?
+-----------------
+[Dòng 487] Hola, ¿Hay riesgo de rayos en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 501] [0.98] Hola, ¿hay riesgo de rayos en <LC_CITY:BASE>Boston</LC_CITY:BASE>, por casualidad?
+	[Dòng 515] [0.97] Hola, ¿hay riesgo de rayos en <LC_CITY:BASE>Boston</LC_CITY:BASE>, quizás?
+	[Dòng 529] [0.99] ¿Hay riesgo de rayos en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+-----------------
+[Dòng 542] ¿Se pronostica la caída de granizo en <LC_CITY:BASE>Atlanta</LC_CITY:BASE> quizás?
+	[Dòng 549] [0.97] Hey, ¿se pronostica la caída de granizo en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+	[Dòng 556] [0.97] Hola, ¿se pronostica la caída de granizo en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+	[Dòng 577] [0.98] ¿Se pronostica la caída de granizo en <LC_CITY:BASE>Atlanta</LC_CITY:BASE>?
+-----------------
+[Dòng 543] Hola, ¿está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 550] [0.98] Hey ¿está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 557] [0.98] Hey, ¿está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 578] [0.98] ¿Está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+-----------------
+[Dòng 544] Hola, ¿hay algún riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 551] [0.99] Hola, ¿hay riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 558] [0.99] Hola, ¿hay algún riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>, por favor?
+	[Dòng 572] [0.99] ¿Hay algún riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 579] [0.98] ¿Hay riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+-----------------
+[Dòng 550] Hey ¿está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 557] [1.00] Hey, ¿está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+	[Dòng 571] [0.97] ¿Está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>, tal vez?
+	[Dòng 578] [0.99] ¿Está previsto que haya granizo en <LC_CITY:BASE>Seattle</LC_CITY:BASE>?
+-----------------
+[Dòng 551] Hola, ¿hay riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 558] [0.98] Hola, ¿hay algún riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>, por favor?
+	[Dòng 572] [0.98] ¿Hay algún riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+	[Dòng 579] [0.99] ¿Hay riesgo de granizo en <LC_CITY:BASE>Boston</LC_CITY:BASE>?
+-----------------
+[Dòng 812] ¿Habrá granizo en <LC_CITY:BASE>Carolina</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME>?
+	[Dòng 819] [0.98] ¿Habrá granizo en <LC_CITY:BASE>Carolina</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 826] [0.98] ¿Habrá granizo en <LC_CITY:BASE>Carolina</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>?
+	[Dòng 833] [0.97] ¿Habrá granizo en <LC_CITY:BASE>Carolina</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 1352] Aún no se sabe con certeza si habrá rayos en la <POI:BASE>Hacienda Campo Rico</POI:BASE> el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME>, pero necesito saber la probabilidad.
+	[Dòng 1359] [0.99] No se sabe con seguridad si habrá rayos en la <POI:BASE>Hacienda Campo Rico</POI:BASE> el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME>, pero necesito saber la probabilidad.
+	[Dòng 1373] [0.97] Aún no está claro si habrá rayos en la <POI:BASE>Hacienda Campo Rico</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>, pero necesito saber la probabilidad, por favor.
+	[Dòng 1394] [0.97] Aún no se sabe con certeza si habrá rayos en la <POI:BASE>Hacienda Campo Rico</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>, pero necesito conocer la probabilidad.
+-----------------
+[Dòng 1377] No se tiene una respuesta concreta acerca de la probabilidad de rayos en el <POI:BASE>Hospital Grey Sloan Memorial</POI:BASE> el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>, pero necesito saber.
+	[Dòng 1384] [0.97] No se tiene una respuesta concreta acerca de la posibilidad de rayos en el <POI:BASE>Hospital Grey Sloan Memorial</POI:BASE> el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>, pero necesito saber, por favor.
+	[Dòng 1391] [1.00] No se tiene una respuesta concreta acerca de la probabilidad de rayos en el <POI:BASE>Hospital Grey Sloan Memorial</POI:BASE> el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>, pero necesito saber, por favor.
+	[Dòng 1397] [0.98] Hola, no se tiene una respuesta concreta acerca de la probabilidad de rayos en el <POI:BASE>Hospital Grey Sloan Memorial</POI:BASE> el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>, pero necesito saber, por favor.
+-----------------
+[Dòng 1651] ¿Podrías proporcionarme información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1663] [0.97] ¿Tienes alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1666] [0.99] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1671] [0.98] ¿Podrías proporcionarme información acerca de si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1675] [1.00] ¿Podrías darme alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1678] [0.98] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1685] [0.98] Quiero saber si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, ¿puedes proporcionarme alguna información?
+	[Dòng 1687] [0.99] ¿Podrías darme algún dato sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1688] [0.98] ¿Me podrías dar alguna indicación sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1692] [0.99] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.99] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1656] ¿Me podrías informar sobre la probabilidad de que haya rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>? Gracias
+	[Dòng 1661] [0.99] ¿Podrías darme información acerca de la probabilidad de que haya rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1681] [0.99] ¿Podrías informarme sobre la probabilidad de que haya rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1697] [1.00] ¿Me podrías informar sobre la probabilidad de que haya rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1663] ¿Tienes alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1671] [0.98] ¿Podrías proporcionarme información acerca de si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1673] [0.98] ¿Hay alguna información disponible sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1675] [0.97] ¿Podrías darme alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1683] [0.97] ¿Hay alguna información disponible acerca de si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.97] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1666] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1675] [0.99] ¿Podrías darme alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1678] [0.99] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1687] [0.98] ¿Podrías darme algún dato sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1688] [0.98] ¿Me podrías dar alguna indicación sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1692] [0.99] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.97] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1671] ¿Podrías proporcionarme información acerca de si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1675] [0.97] ¿Podrías darme alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1678] [0.98] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1692] [0.98] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.97] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1675] ¿Podrías darme alguna información sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1678] [0.98] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1685] [0.98] Quiero saber si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>, ¿puedes proporcionarme alguna información?
+	[Dòng 1687] [0.99] ¿Podrías darme algún dato sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1688] [0.98] ¿Me podrías dar alguna indicación sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1692] [0.98] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.99] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1678] ¿Podrías darme detalles sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE> o no?
+	[Dòng 1687] [0.97] ¿Podrías darme algún dato sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1688] [0.97] ¿Me podrías dar alguna indicación sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1692] [0.98] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1687] ¿Podrías darme algún dato sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1688] [0.98] ¿Me podrías dar alguna indicación sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1692] [0.98] ¿Podrías proporcionarme detalles sobre si habrán rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+	[Dòng 1699] [0.98] ¿Podrías proporcionarme información actualizada sobre si habrá rayos por el <POI:BASE>Teatro Oller</POI:BASE> de <LC_CITY:BASE>Bayamón</LC_CITY:BASE>?
+-----------------
+[Dòng 1871] Y ¿es recomendable llevar un paraguas si voy al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>?
+	[Dòng 1885] [0.97] Hola, ¿es recomendable llevar un paraguas si voy al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>, por favor?
+	[Dòng 1892] [0.98] ¿Es recomendable llevar un paraguas si voy al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>?
+	[Dòng 1897] [0.98] Hola, ¿es recomendable llevar un paraguas si voy al <POI_CATEGORY:DEST>restaurante</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1875] Hola ¿es indispensable llevar un paraguas al <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST>?
+	[Dòng 1882] [0.99] ¿Es indispensable llevar un paraguas al <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST>, por favor?
+	[Dòng 1889] [0.98] ¿Cree que es indispensable llevar un paraguas al <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST>?
+	[Dòng 1896] [0.99] ¿Es indispensable llevar un paraguas al <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 1880] Hola, ¿es imprescindible llevar un paraguas si quiero ir al <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST> de veras?
+	[Dòng 1887] [0.97] Buenas tardes, ¿es imprescindible llevar un paraguas si quiero ir al <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST>?
+	[Dòng 1894] [0.97] ¿Es imprescindible llevar un paraguas si quiero ir al <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST>?
+	[Dòng 1899] [0.98] Hola, ¿es imprescindible llevar un paraguas si quiero ir al <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST>?
+-----------------
+[Dòng 2101] ¿Cuál es la temperatura <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2102] [0.97] ¿Qué temperatura hay <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2112] [0.98] ¿Cuál es la temperatura actual <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2122] [0.97] ¿Cuál es la temperatura ambiente <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2135] [0.98] ¿Qué temperatura se encuentra <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2144] [0.97] ¿Qué temperatura se da <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+-----------------
+[Dòng 2124] ¿Cuál es la temperatura <LC_OUT:BASE>exterior</LC_OUT:BASE> del auto?
+	[Dòng 2139] [1.00] ¿Cuál es la temperatura al <LC_OUT:BASE>exterior</LC_OUT:BASE> del auto?
+	[Dòng 2140] [0.99] ¿Cuál es la temperatura en el <LC_OUT:BASE>exterior</LC_OUT:BASE> del auto?
+	[Dòng 2143] [0.99] ¿Cuál es la temperatura en términos del <LC_OUT:BASE>exterior</LC_OUT:BASE> del auto?
+-----------------
+[Dòng 2363] ¿Existe alguna alerta por aridez en la zona del <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST> local?
+	[Dòng 2371] [0.98] ¿Existe alguna alerta por aridez en la zona del <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST> del municipio?
+	[Dòng 2379] [0.99] ¿Existe alguna alerta por aridez en la zona del <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST> cercano?
+	[Dòng 2387] [0.98] ¿Existe alguna alerta por aridez en la zona del <POI_CATEGORY:DEST>zoo</POI_CATEGORY:DEST> de la ciudad?
+-----------------
+[Dòng 2364] ¿Hay alguna advertencia por aridez en la zona del <POI_CATEGORY:DEST>centro comercial</POI_CATEGORY:DEST> cercano?
+	[Dòng 2372] [0.99] ¿Hay alguna advertencia por aridez en la zona del <POI_CATEGORY:DEST>centro comercial</POI_CATEGORY:DEST> próximo?
+	[Dòng 2380] [0.98] ¿Hay alguna advertencia por aridez en la zona del <POI_CATEGORY:DEST>centro comercial</POI_CATEGORY:DEST> de la ciudad?
+	[Dòng 2388] [0.97] ¿Hay alguna advertencia por aridez en la zona del <POI_CATEGORY:DEST>centro comercial</POI_CATEGORY:DEST> del <POI_CATEGORY:DEST>bar</POI_CATEGORY:DEST>rio?
+-----------------
+[Dòng 2461] ¿Estoy preguntando si hay alerta por nevada en la zona bancaria de la costa?
+	[Dòng 2469] [0.98] ¿Estoy preguntando si hay alerta por nevada en la zona del <POI_CATEGORY:DEST>banco</POI_CATEGORY:DEST> en la costa?
+	[Dòng 2486] [0.97] ¿Necesito saber si hay alerta por nevada en la zona bancaria de la costa?
+	[Dòng 2500] [0.97] Hola, ¿necesito saber si hay alerta por nevada en la zona bancaria de la costa?
+-----------------
+[Dòng 2851] ¿Podrías informarme sobre las alertas por fuertes lluvias en los <QT_REL_DISTANCE:BASE>alrededores</QT_REL_DISTANCE:BASE>?
+	[Dòng 2865] [0.99] ¿Puedes informarme sobre las alertas por fuertes lluvias en los <QT_REL_DISTANCE:BASE>alrededores</QT_REL_DISTANCE:BASE>, por favor?
+	[Dòng 2869] [0.99] ¿Podrías darme información sobre las alertas por fuertes lluvias en los <QT_REL_DISTANCE:BASE>alrededores</QT_REL_DISTANCE:BASE>, por favor?
+	[Dòng 2873] [0.98] ¿Podrías darme detalles sobre las alertas por fuertes lluvias en los <QT_REL_DISTANCE:BASE>alrededores</QT_REL_DISTANCE:BASE>, por favor?
+-----------------
+[Dòng 2967] ¿Cuál es la velocidad del viento en el área <QT_REL_DISTANCE:BASE>circundante</QT_REL_DISTANCE:BASE>?
+	[Dòng 2973] [0.98] ¿Cuál es la velocidad del viento en las áreas <QT_REL_DISTANCE:BASE>circundantes</QT_REL_DISTANCE:BASE>?
+	[Dòng 2979] [0.97] ¿Cuál es la velocidad del viento en la región <QT_REL_DISTANCE:BASE>circundante</QT_REL_DISTANCE:BASE>?
+	[Dòng 2993] [0.97] ¿Cuál es la velocidad del viento en el área próxima <QT_REL_DISTANCE:BASE>circundante</QT_REL_DISTANCE:BASE>?
+-----------------
+[Dòng 1903] ¿Te has enterado si se pronostica lluvia cerca de mi <LC_DEST:BASE>destino</LC_DEST:BASE>?
+	[Dòng 1920] [0.97] ¿Te has enterado si se pronostica lluvia cerca de mi <LC_DEST:BASE>destino</LC_DEST:BASE> laboral?
+	[Dòng 1934] [0.99] ¿Te has enterado si se pronostica lluvia cerca de mi <LC_DEST:BASE>destino</LC_DEST:BASE> romántico?
+	[Dòng 1941] [0.98] ¿Te has enterado si se pronostica lluvia cerca de mi <LC_DEST:BASE>destino</LC_DEST:BASE> religioso?
+-----------------
+[Dòng 2101] ¿Cuál es la temperatura <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2112] [0.98] ¿Cuál es la temperatura actual <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2137] [0.97] ¿Cuál es el valor de temperatura <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?
+	[Dòng 2148] [0.97] ¿Cuál es el nivel de temperatura <LC_OUT:BASE>fuera</LC_OUT:BASE> del auto?

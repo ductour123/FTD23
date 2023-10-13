@@ -1,0 +1,137 @@
+
+-----------------
+[Dòng 2965] Je vous prie d'envoyer cet SMS à mon <PS_RELATION:RECIPIENT>conjoint</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+	[Dòng 2969] [0.97] Faites parvenir ce SMS à mon <PS_RELATION:RECIPIENT>conjoint</PS_RELATION:RECIPIENT>, s'il vous plaît : "Envoie-moi la liste des courses".
+	[Dòng 2988] [0.98] Je vous invite à transmettre ce SMS à mon <PS_RELATION:RECIPIENT>conjoint</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+	[Dòng 2992] [0.98] J'apprécierais votre envoi de ce SMS à mon <PS_RELATION:RECIPIENT>conjoint</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+-----------------
+[Dòng 2974] S'il te plaît, envoie ce SMS à mon <PS_RELATION:RECIPIENT>mari</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+	[Dòng 2981] [0.97] Envoie, s'il te plaît, ce SMS à mon <PS_RELATION:RECIPIENT>mari</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+	[Dòng 2991] [0.98] Envoyez, s'il vous plaît, ce SMS à mon <PS_RELATION:RECIPIENT>mari</PS_RELATION:RECIPIENT> : "Envoie-moi la liste des courses".
+	[Dòng 3016] [0.97] S'il te plaît, expédie ce SMS à mon <PS_RELATION:RECIPIENT>mari</PS_RELATION:RECIPIENT> pour moi : "Envoie-moi la liste des courses".
+-----------------
+[Dòng 5901] Montrez-moi l'historique des appels, s'il vous plaît.
+	[Dòng 5912] [0.99] S'il vous plaît, montrez-moi l'historique des appels.
+	[Dòng 5916] [0.99] Présentez-moi l'historique des appels, s'il vous plaît.
+	[Dòng 5921] [0.97] S'il vous plaît, laissez-moi voir l'historique des appels.
+	[Dòng 5926] [0.98] Fais-moi voir l'historique des appels, s'il te plaît.
+	[Dòng 5928] [0.97] S'il te plaît, montre-moi l'historique des appels.
+-----------------
+[Dòng 5912] S'il vous plaît, montrez-moi l'historique des appels.
+	[Dòng 5916] [0.98] Présentez-moi l'historique des appels, s'il vous plaît.
+	[Dòng 5921] [0.99] S'il vous plaît, laissez-moi voir l'historique des appels.
+	[Dòng 5926] [0.98] Fais-moi voir l'historique des appels, s'il te plaît.
+	[Dòng 5928] [0.99] S'il te plaît, montre-moi l'historique des appels.
+-----------------
+[Dòng 5991] Montrez-moi la liste des appels sortants, s'il vous plaît.
+	[Dòng 6002] [0.99] S'il vous plaît, montrez-moi la liste des appels sortants.
+	[Dòng 6006] [0.99] Présentez-moi la liste des appels sortants, s'il vous plaît.
+	[Dòng 6016] [0.98] Fais-moi voir la liste des appels sortants, s'il te plaît.
+-----------------
+[Dòng 5993] Pourriez-vous me montrer la liste des appels sortants ?
+	[Dòng 6005] [0.97] Pourriez-vous me faire voir la liste des appels sortants ?
+	[Dòng 6007] [0.99] S'il vous plaît, pourriez-vous me montrer la liste des appels sortants ?
+	[Dòng 6015] [0.98] Voudriez-vous me montrer la liste des appels sortants, s'il vous plaît ?
+-----------------
+[Dòng 6002] S'il vous plaît, montrez-moi la liste des appels sortants.
+	[Dòng 6006] [0.98] Présentez-moi la liste des appels sortants, s'il vous plaît.
+	[Dòng 6011] [0.99] S'il vous plaît, laissez-moi voir la liste des appels sortants.
+	[Dòng 6016] [0.98] Fais-moi voir la liste des appels sortants, s'il te plaît.
+	[Dòng 6018] [0.99] S'il te plaît, montre-moi la liste des appels sortants.
+-----------------
+[Dòng 6032] S'il vous plaît, montrez-moi la liste des appels reçus.
+	[Dòng 6036] [0.98] Présentez-moi la liste des appels reçus, s'il vous plaît.
+	[Dòng 6041] [0.99] S'il vous plaît, laissez-moi voir la liste des appels reçus.
+	[Dòng 6046] [0.98] Fais-moi voir la liste des appels reçus, s'il te plaît.
+	[Dòng 6048] [0.99] S'il te plaît, montre-moi la liste des appels reçus.
+-----------------
+[Dòng 3430] Ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> doit être informée que je ne pourrai pas la rencontrer ce week-end. Pourriez-vous lui envoyer une réponse ?
+	[Dòng 3440] [0.98] Ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> doit être informée que je ne pourrai pas la rencontrer ce week-end. Puis-je vous demander de lui envoyer une réponse ?
+	[Dòng 3456] [0.98] Ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> doit être informée que je ne pourrai pas la rencontrer ce week-end. Pourriez-vous avoir la courtoisie de lui envoyer une réponse ?
+	[Dòng 3481] [0.98] Veuillez transmettre à ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end. Pourriez-vous également lui envoyer une réponse ?
+-----------------
+[Dòng 3452] Je vous serais reconnaissant si vous pouviez faire savoir à ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse.
+	[Dòng 3463] [0.99] Je vous serais reconnaissant si vous pouviez faire savoir à ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse. Merci.
+	[Dòng 3490] [0.98] Je vous serais reconnaissant si vous pouviez transmettre à ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et lui envoyer une réponse.
+	[Dòng 3496] [0.97] Je vous serais reconnaissant si vous pouviez transmettre à ma <PS_RELATION:RECIPIENT>fille</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et de lui envoyer une réponse.
+	[Dòng 3501] [0.98] Je vous serais reconnaissant si vous pouviez transmettre à ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et lui envoyer une réponse en conséquence.
+-----------------
+[Dòng 3461] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>cousine</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse ? Je vous en remercie par avance.
+	[Dòng 3471] [0.97] Serait-il possible de transmettre à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse ? Je vous remercie.
+	[Dòng 3486] [0.99] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse ? Je vous remercie.
+	[Dòng 3492] [0.98] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et de lui envoyer une réponse en conséquence ? Je vous en remercie.
+	[Dòng 3497] [0.98] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et de lui envoyer une réponse en mon nom ? Je vous en remercie d'avance.
+-----------------
+[Dòng 3471] Serait-il possible de transmettre à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse ? Je vous remercie.
+	[Dòng 3486] [0.99] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end en lui envoyant une réponse ? Je vous remercie.
+	[Dòng 3492] [0.98] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et de lui envoyer une réponse en conséquence ? Je vous en remercie.
+	[Dòng 3497] [0.97] Serait-il possible de faire savoir à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> que je ne pourrai pas la rencontrer ce week-end et de lui envoyer une réponse en mon nom ? Je vous en remercie d'avance.
+-----------------
+[Dòng 3558] La réponse que je veux que vous envoyiez à mon <PS_RELATION:RECIPIENT>beau-frère</PS_RELATION:RECIPIENT> est "Je suis désolé, mais je ne peux pas faire cela".
+	[Dòng 3570] [0.97] La réponse que je veux que vous transmettiez à mon <PS_RELATION:RECIPIENT>gendre</PS_RELATION:RECIPIENT> est "Je suis désolé, mais je ne peux pas le faire".
+	[Dòng 3582] [0.99] La réponse que je veux que vous envoyiez à mon <PS_RELATION:RECIPIENT>grand-père</PS_RELATION:RECIPIENT> est "Je suis désolé, mais je ne peux pas exécuter cela".
+	[Dòng 3590] [0.98] La réponse que je veux que vous envoyiez à mon <PS_RELATION:RECIPIENT>neveu</PS_RELATION:RECIPIENT> est "Je suis désolé, mais je ne peux pas le faire maintenant".
+-----------------
+[Dòng 4464] Pouvez-vous envoyer un SMS à ma <PS_RELATION:RECIPIENT>sœur</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Lucy</PS_NAME:RECIPIENT> pour l'informer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG> ?
+	[Dòng 4475] [0.97] Pouvez-vous envoyer un SMS à ma <PS_RELATION:RECIPIENT>sœur</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Grace</PS_NAME:RECIPIENT> pour l'informer que je suis sur la route et en train de conduire ?
+	[Dòng 4481] [0.97] Pouvez-vous envoyer un SMS à ma <PS_RELATION:RECIPIENT>sœur</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Ellie</PS_NAME:RECIPIENT> pour l'informer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG> actuellement sur la route ?
+	[Dòng 4492] [0.98] Pouvez-vous envoyer un SMS à ma <PS_RELATION:RECIPIENT>sœur</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Hazel</PS_NAME:RECIPIENT> pour l'informer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG> sur la route maintenant ?
+-----------------
+[Dòng 4959] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>mère</PS_RELATION:RECIPIENT> sans délai pour lui indiquer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4971] [0.98] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>cousine</PS_RELATION:RECIPIENT> sans délai ni hésitation pour lui indiquer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4980] [0.97] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>fille</PS_RELATION:RECIPIENT> avec fermeté pour lui indiquer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4992] [0.97] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>nièce</PS_RELATION:RECIPIENT> sans délai pour lui indiquer de manière formelle que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+-----------------
+[Dòng 4982] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> sans tarder pour lui faire savoir que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4986] [0.97] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> promptement pour lui faire savoir que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4988] [0.98] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> sans détour pour lui indiquer que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+	[Dòng 4990] [0.97] Envoie un message de réponse à ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> avec assurance pour lui faire savoir que <MSG_BODY:MSG>je suis en train de conduire</MSG_BODY:MSG>.
+-----------------
+[Dòng 6846] Il est crucial que vous partagiez mon heure d'arrivée avec ma <PS_RELATION:RECIPIENT>mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6849] [0.98] Il est primordial que vous partagiez avec ma <PS_RELATION:RECIPIENT>mère</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6854] [0.97] Il est important que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6861] [0.98] Il est important que vous partagiez mon heure d'arrivée avec ma <PS_RELATION:RECIPIENT>fille</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6873] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> mon heure d'arrivée en votre possession, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6875] [0.98] Il est crucial que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+-----------------
+[Dòng 6848] Il est crucial que vous partagiez l'heure de mon arrivée avec ma <PS_RELATION:RECIPIENT>mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, je vous prie ?
+	[Dòng 6851] [0.98] Il est important que vous partagiez l'heure de mon arrivée avec ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6855] [0.97] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT> de mon heure d'arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6857] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>tante</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6860] [0.97] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>tante</PS_RELATION:RECIPIENT> de l'heure de mon arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6863] [0.97] Il est primordial que vous partagiez avec ma <PS_RELATION:RECIPIENT>fille</PS_RELATION:RECIPIENT> l'heure de mon arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6867] [0.98] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6879] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous prie ?
+-----------------
+[Dòng 6851] Il est important que vous partagiez l'heure de mon arrivée avec ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6857] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>tante</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6867] [0.99] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6879] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous prie ?
+-----------------
+[Dòng 6854] Il est important que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>grand-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6861] [0.98] Il est important que vous partagiez mon heure d'arrivée avec ma <PS_RELATION:RECIPIENT>fille</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6873] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> mon heure d'arrivée en votre possession, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6875] [0.98] Il est crucial que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+-----------------
+[Dòng 6866] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> de l'heure à laquelle j'arrive, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6868] [0.97] Il est indispensable que vous informiez ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> de l'heure de mon arrivée, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6872] [0.98] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> de l'heure à laquelle je vais arriver, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6875] [0.98] Il est crucial que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6876] [0.98] Il est indispensable que vous informiez ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> de l'heure à laquelle j'arrive, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6878] [0.98] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> de l'heure de mon arrivée, pouvez-vous le faire, s'il vous plaît ?
+-----------------
+[Dòng 6867] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6869] [0.98] Il est crucial que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6871] [0.98] Il est indispensable que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> l'heure de mon arrivée, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6877] [0.97] Serait-il important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> mon heure d'arrivée, pouvez-vous le faire, je vous prie ?
+	[Dòng 6879] [0.98] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous prie ?
+-----------------
+[Dòng 6869] Il est crucial que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-soeur</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6871] [0.98] Il est indispensable que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-fille</PS_RELATION:RECIPIENT> l'heure de mon arrivée, pouvez-vous le faire, je vous en prie ?
+	[Dòng 6875] [0.97] Il est crucial que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6879] [0.99] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous prie ?
+-----------------
+[Dòng 6875] Il est crucial que vous partagiez l'heure à laquelle j'arrive avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT>, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6876] [0.97] Il est indispensable que vous informiez ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> de l'heure à laquelle j'arrive, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6878] [0.97] Il est crucial que vous informiez ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> de l'heure de mon arrivée, pouvez-vous le faire, s'il vous plaît ?
+	[Dòng 6879] [0.97] Il est important que vous partagiez avec ma <PS_RELATION:RECIPIENT>belle-mère</PS_RELATION:RECIPIENT> l'heure à laquelle j'arrive, pouvez-vous le faire, je vous prie ?

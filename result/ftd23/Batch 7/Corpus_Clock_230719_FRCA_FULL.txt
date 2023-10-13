@@ -1,0 +1,398 @@
+
+-----------------
+[Dòng 204] Alarme de <DT_HOUR:DATETIME>8 heures</DT_HOUR:DATETIME> le <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME>
+	[Dòng 220] [0.98] Alarme de <DT_HOUR:DATETIME>8 heures</DT_HOUR:DATETIME> le <DT_WEEKDAY:DATETIME>lundi</DT_WEEKDAY:DATETIME>
+	[Dòng 244] [0.98] Alarme pour <DT_HOUR:DATETIME>8 heures</DT_HOUR:DATETIME> le <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME>
+	[Dòng 250] [0.97] Alarme de <DT_HOUR:DATETIME>8 heures</DT_HOUR:DATETIME> le <DT_WEEKDAY:DATETIME>mercredi</DT_WEEKDAY:DATETIME>
+-----------------
+[Dòng 357] Régler le minuteur pour <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>53 minutes</DT_MIN:DATETIME>
+	[Dòng 364] [0.98] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>55 minutes</DT_MIN:DATETIME>
+	[Dòng 370] [0.98] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>57 minutes</DT_MIN:DATETIME>
+	[Dòng 400] [0.97] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>51 minutes</DT_MIN:DATETIME>
+-----------------
+[Dòng 364] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>55 minutes</DT_MIN:DATETIME>
+	[Dòng 370] [0.99] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>57 minutes</DT_MIN:DATETIME>
+	[Dòng 376] [0.98] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>59 minutes</DT_MIN:DATETIME>
+	[Dòng 400] [0.99] Régler le minuteur à <DT_HOUR:DATETIME>2 heures</DT_HOUR:DATETIME> <DT_MIN:DATETIME>51 minutes</DT_MIN:DATETIME>
+-----------------
+[Dòng 612] Trouve des informations concernant les alarmes.
+	[Dòng 642] [0.97] Recherche des informations concernant les alarmes.
+	[Dòng 661] [0.98] Cherche des informations concernant les alarmes.
+	[Dòng 669] [0.98] Trouve des informations relatives aux alarmes.
+-----------------
+[Dòng 906] Quelle est l'heure en ce moment ?
+	[Dòng 915] [0.98] Quelle est l'heure à l'heure actuelle ?
+	[Dòng 926] [0.97] Quelle est l'heure précise en ce moment ?
+	[Dòng 950] [0.99] Quelle est l'heure en ce moment précis ?
+-----------------
+[Dòng 1157] Quel est le décompte des jours avant <DT_EVENT:DATELINE>le jour de la Terre</DT_EVENT:DATELINE>, svp ?
+	[Dòng 1177] [0.99] Quel est le décompte des jours avant <DT_EVENT:DATELINE>la Journée de la Terre</DT_EVENT:DATELINE>, svp ?
+	[Dòng 1257] [0.99] Quel est le décompte des jours avant <DT_EVENT:DATELINE>le jour de la Terre</DT_EVENT:DATELINE> ?
+	[Dòng 1277] [0.98] Quel est le décompte des jours avant la <DT_EVENT:DATELINE>Journée de la Terre</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 1352] Quelle est la date, <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 1354] [0.99] Quelle est la date d'<DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 1368] [0.98] Quelle date est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2954] [0.97] Quelle est la date d'<DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3021] [0.97] C'est quelle date <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 1354] Quelle est la date d'<DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 1368] [0.98] Quelle date est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2954] [0.98] Quelle est la date d'<DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3021] [0.97] C'est quelle date <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 1375] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois ?
+	[Dòng 1410] [0.97] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois <DT_NOW:DATETIME>actuellement</DT_NOW:DATETIME> ?
+	[Dòng 3012] [0.98] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois, svp ?
+	[Dòng 3030] [0.98] Quel jour du mois est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 3041] [0.98] Svp, <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois ?
+-----------------
+[Dòng 1384] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois en ce moment, svp ?
+	[Dòng 1396] [0.99] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois en ce moment ?
+	[Dòng 1410] [0.98] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois <DT_NOW:DATETIME>actuellement</DT_NOW:DATETIME> ?
+	[Dòng 1440] [0.98] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois à ce moment exact ?
+	[Dòng 3012] [0.97] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois, svp ?
+-----------------
+[Dòng 1451] Quel mois et combien de jours correspondent au <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1453] [0.98] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le calendrier lunaire, svp ?
+	[Dòng 1477] [0.97] Quel mois et combien de jours sont associés au <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1478] [0.98] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1479] [0.98] Combien de jours et à quel mois correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> en <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1482] [0.97] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> ?
+-----------------
+[Dòng 1452] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME>, svp ?
+	[Dòng 1453] [0.97] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le calendrier lunaire, svp ?
+	[Dòng 1460] [0.97] Dans le calendrier lunaire, à quelle date correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> et combien de jours ?
+	[Dòng 1479] [0.98] Combien de jours et à quel mois correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> en <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1482] [1.00] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> ?
+	[Dòng 1505] [0.98] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>janvier</DT_MONTH:DATETIME> ?
+-----------------
+[Dòng 1453] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le calendrier lunaire, svp ?
+	[Dòng 1478] [1.00] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1479] [0.98] Combien de jours et à quel mois correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> en <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1482] [0.98] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> ?
+-----------------
+[Dòng 1454] Dans le calendrier lunaire, le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> est quel mois et combien de jours ?
+	[Dòng 1478] [0.97] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> correspond à quel mois et combien de jours dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1479] [0.97] Combien de jours et à quel mois correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> en <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 1482] [0.97] En calendrier lunaire, à quel mois et à combien de jours correspond le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mars</DT_MONTH:DATETIME> ?
+-----------------
+[Dòng 1463] En calendrier lunaire, le <DT_DAY:DATETIME>5</DT_DAY:DATETIME> <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> correspond à quel mois et combien de jours, svp ?
+	[Dòng 1468] [0.97] Dans le calendrier lunaire, à quelle date correspond le <DT_DAY:DATETIME>5</DT_DAY:DATETIME> <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> et combien de jours, svp ?
+	[Dòng 1488] [1.00] En calendrier lunaire, le <DT_DAY:DATETIME>5</DT_DAY:DATETIME> <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> correspond à quel mois et combien de jours ?
+	[Dòng 1493] [0.97] Dans le calendrier lunaire, à quelle date correspond le <DT_DAY:DATETIME>5</DT_DAY:DATETIME> <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> et combien de jours ?
+-----------------
+[Dòng 2001] Quel jour est le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2005] [0.97] Dans le calendrier lunaire, quel jour correspond au <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> ?
+	[Dòng 2006] [0.99] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> est quel jour dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2032] [0.98] Le 1er mai dans le calendrier lunaire, c'est quel jour ?
+	[Dòng 2049] [0.98] Quel jour est le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> mai aujourd'hui dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+-----------------
+[Dòng 2026] Quel jour du <DT_CALENDAR_TYPE:TARGET_DATETIME>mois lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> est le Nouvel An chinois ?
+	[Dòng 2041] [0.97] Quel est le jour du Nouvel An chinois dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>mois lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2044] [0.99] Le Nouvel An chinois est quel jour du <DT_CALENDAR_TYPE:TARGET_DATETIME>mois lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2045] [0.99] Quel jour du <DT_CALENDAR_TYPE:TARGET_DATETIME>mois lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> est le Nouvel An chinois, svp ?
+-----------------
+[Dòng 2126] Quelle est la date actuelle en <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE>, svp ?
+	[Dòng 2134] [0.98] Bonsoir, quelle est la date actuelle en <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE>, svp ?
+	[Dòng 2142] [0.98] Quelle est la date actuelle en <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE> ?
+	[Dòng 2150] [0.98] Bonjour, quelle est la date actuelle en <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE>, svp ?
+-----------------
+[Dòng 2143] Quelle est la date en <LC_COUNTRY:BASE>Australie</LC_COUNTRY:BASE> ?
+	[Dòng 2151] [0.99] Quelle est la date en <LC_COUNTRY:BASE>Australie</LC_COUNTRY:BASE>, svp ?
+	[Dòng 2179] [0.97] Quelle date est-ce en <LC_COUNTRY:BASE>Australie</LC_COUNTRY:BASE> ?
+	[Dòng 3523] [0.98] Quelle est la date du jour en <LC_COUNTRY:BASE>Australie</LC_COUNTRY:BASE>?
+-----------------
+[Dòng 2212] Quel est le signe astrologique du moment, svp ?
+	[Dòng 2218] [0.99] Quel est le signe astrologique du moment ?
+	[Dòng 2228] [0.98] Quel est le signe astrologique en ce moment ?
+	[Dòng 2248] [0.98] Quel est le signe astrologique actuellement ?
+-----------------
+[Dòng 2351] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2354] [0.98] Existe-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2357] [0.99] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2363] [0.97] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2369] [0.99] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2381] [0.98] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2384] [0.99] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2396] [0.99] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2352] Quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2370] [0.99] Bonjour, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2379] [0.99] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2382] [0.99] Bonjour, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2388] [0.99] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2400] [0.99] Quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+-----------------
+[Dòng 2353] Pourriez-vous me dire le décalage horaire entre le <LC_COUNTRY:BASE>Canada</LC_COUNTRY:BASE> et la <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE>, svp ?
+	[Dòng 2362] [0.98] Pourriez-vous m'indiquer le décalage horaire entre le <LC_COUNTRY:BASE>Canada</LC_COUNTRY:BASE> et la <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE>, svp ?
+	[Dòng 2386] [0.98] Pourriez-vous m'indiquer le décalage horaire entre le <LC_COUNTRY:BASE>Canada</LC_COUNTRY:BASE> et la <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE> ?
+	[Dòng 2398] [1.00] Pourriez-vous me dire le décalage horaire entre le <LC_COUNTRY:BASE>Canada</LC_COUNTRY:BASE> et la <LC_COUNTRY:BASE>France</LC_COUNTRY:BASE> ?
+-----------------
+[Dòng 2354] Existe-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2357] [0.98] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2363] [0.99] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2369] [0.98] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2381] [0.97] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2384] [0.98] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2396] [0.98] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2399] [0.99] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2357] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2363] [0.98] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2369] [0.99] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2381] [0.98] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2384] [0.99] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2396] [0.99] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2399] [0.97] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2358] Quel est l'écart de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2364] [0.97] Quel est l'écart temporel entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2367] [0.99] Bonjour, quel est l'écart de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2385] [0.99] Quel est l'écart de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+-----------------
+[Dòng 2360] Y a-t-il une différence de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2366] [0.99] Existe-t-il une différence de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2378] [0.98] Est-ce qu'il existe une différence de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2387] [0.98] Existe-t-il une différence de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2363] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2384] [0.97] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2396] [0.97] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2399] [0.99] Est-ce qu'il existe un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2364] Quel est l'écart temporel entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2367] [0.97] Bonjour, quel est l'écart de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2385] [0.98] Quel est l'écart de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2397] [0.99] Quel est l'écart temporel entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+-----------------
+[Dòng 2369] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2381] [0.99] Bonsoir, y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2384] [0.98] Est-ce qu'il y a un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2396] [0.98] Y a-t-il un décalage horaire entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2370] Bonjour, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2379] [1.00] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2382] [0.99] Bonjour, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2388] [0.99] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2400] [0.98] Quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+-----------------
+[Dòng 2372] Est-ce qu'il y a un décalage de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE>, svp ?
+	[Dòng 2375] [0.97] Bonjour, existe-t-il un décalage de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2390] [0.99] Est-ce qu'il y a un décalage de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2393] [0.98] Existe-t-il un décalage de temps entre <LC_CITY:BASE>Vancouver</LC_CITY:BASE> et <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2379] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE>, svp ?
+	[Dòng 2382] [0.99] Bonjour, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2388] [0.99] Bonsoir, quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+	[Dòng 2400] [0.98] Quelle est la différence de temps entre <LC_CITY:BASE>Beijing</LC_CITY:BASE> et <LC_CITY:BASE>Tokyo</LC_CITY:BASE> ?
+-----------------
+[Dòng 2960] À quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2969] [0.98] Bonjour, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2999] [0.98] Bonsoir, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3036] [0.98] Svp, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 3040] [0.97] Bonjour, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 3049] [0.97] À quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2961] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, quel jour est-ce ?
+	[Dòng 2986] [0.99] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour ?
+	[Dòng 2991] [1.00] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, quel jour est-il ?
+	[Dòng 2994] [0.97] Quel jour est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2962] Quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2971] [0.99] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2974] [0.97] Bonjour, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2980] [0.97] Bonsoir, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2995] [0.99] Quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2996] [0.97] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour de la semaine ?
+	[Dòng 3018] [0.97] Bonsoir, quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3039] [1.00] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2969] Bonjour, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2999] [1.00] Bonsoir, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3036] [0.98] Svp, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 3040] [0.99] Bonjour, à quelle date sommes-nous <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2971] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2974] [0.99] Bonjour, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2980] [0.99] Bonsoir, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2995] [1.00] Quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3018] [0.99] Bonsoir, quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3039] [0.99] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2974] Bonjour, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2980] [1.00] Bonsoir, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2995] [0.99] Quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3018] [1.00] Bonsoir, quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3039] [0.97] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2980] Bonsoir, quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 2995] [0.99] Quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3018] [1.00] Bonsoir, quel jour de la semaine est-il <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3039] [0.97] Quel jour de la semaine est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 3009] Quel jour du mois est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, svp ?
+	[Dòng 3012] [0.98] <DT_REL_DAY:DATETIME>Aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois, svp ?
+	[Dòng 3030] [0.98] Quel jour du mois est-ce <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 3035] [0.97] Bonjour, <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois, svp ?
+	[Dòng 3041] [0.97] Svp, <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME>, c'est quel jour du mois ?
+-----------------
+[Dòng 3051] Quel jour de la semaine est le jour de Victoria ?
+	[Dòng 3055] [0.97] Quel est le jour de la semaine pour la <DT_EVENT:DATETIME>Journée de Victoria</DT_EVENT:DATETIME> ?
+	[Dòng 3302] [0.99] Quel jour de la semaine précis est <DT_EVENT:DATELINE>le Jour de Victoria</DT_EVENT:DATELINE> ?
+	[Dòng 3402] [0.98] Le <DT_EVENT:DATELINE>Jour de Victoria</DT_EVENT:DATELINE> est quel jour de la semaine exactement?
+-----------------
+[Dòng 3065] À quelle journée de la semaine correspond la fête nationale du Canada ?
+	[Dòng 3073] [0.98] À quel jour de la semaine correspond la fête nationale du Canada, svp ?
+	[Dòng 3081] [0.99] À quelle journée de la semaine est attribuée la fête nationale du Canada ?
+	[Dòng 3098] [0.99] À quel jour de la semaine correspond la fête nationale du Canada ?
+	[Dòng 3107] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3115] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale canadienne</DT_EVENT:DATELINE> ?
+	[Dòng 3123] [0.98] Bonjour, à quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [0.99] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [1.00] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [0.99] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3072] Pourriez-vous me donner la date exacte de mon anniversaire, svp ?
+	[Dòng 3092] [0.99] Pourriez-vous me donner la date exacte de mon anniversaire ?
+	[Dòng 3114] [0.99] Pouvez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire</DT_EVENT:DATELINE> ?
+	[Dòng 3122] [0.99] Bonjour, pourriez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3142] [0.99] Pourriez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3073] À quel jour de la semaine correspond la fête nationale du Canada, svp ?
+	[Dòng 3081] [0.97] À quelle journée de la semaine est attribuée la fête nationale du Canada ?
+	[Dòng 3098] [0.99] À quel jour de la semaine correspond la fête nationale du Canada ?
+	[Dòng 3107] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3123] [0.99] Bonjour, à quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [0.97] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [0.98] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [0.99] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3081] À quelle journée de la semaine est attribuée la fête nationale du Canada ?
+	[Dòng 3098] [0.98] À quel jour de la semaine correspond la fête nationale du Canada ?
+	[Dòng 3107] [0.98] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3115] [0.97] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale canadienne</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [1.00] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [0.98] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3089] Quel jour de la semaine célèbre-t-on la fête nationale du Canada ?
+	[Dòng 3111] [0.98] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ? svp ?
+	[Dòng 3119] [0.99] Svp, quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3127] [0.99] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3139] [1.00] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3092] Pourriez-vous me donner la date exacte de mon anniversaire ?
+	[Dòng 3114] [1.00] Pouvez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire</DT_EVENT:DATELINE> ?
+	[Dòng 3122] [0.98] Bonjour, pourriez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3142] [1.00] Pourriez-vous me donner <DT_EVENT:DATELINE>la date exacte de mon anniversaire</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3098] À quel jour de la semaine correspond la fête nationale du Canada ?
+	[Dòng 3107] [0.97] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3115] [0.97] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale canadienne</DT_EVENT:DATELINE> ?
+	[Dòng 3123] [0.98] Bonjour, à quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [0.98] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [1.00] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3107] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3115] [0.98] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale canadienne</DT_EVENT:DATELINE> ?
+	[Dòng 3123] [0.98] Bonjour, à quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [0.98] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [0.97] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3111] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ? svp ?
+	[Dòng 3119] [0.98] Svp, quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3127] [1.00] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada, svp</DT_EVENT:DATELINE> ?
+	[Dòng 3139] [0.98] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3115] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale canadienne</DT_EVENT:DATELINE> ?
+	[Dòng 3131] [0.97] À quelle journée de la semaine est attribuée <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3143] [0.99] À quelle journée de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3148] [0.97] À quel jour de la semaine correspond <DT_EVENT:DATELINE>la fête nationale du Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 3200] Est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp ?
+	[Dòng 3248] [0.98] Bonjour, est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3249] [0.98] Bonsoir, est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3250] [1.00] Est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3300] [0.99] Est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine?
+-----------------
+[Dòng 3248] Bonjour, est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3249] [1.00] Bonsoir, est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3250] [0.98] Est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine, svp?
+	[Dòng 3300] [0.97] Est-ce que la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> a lieu un jour de la semaine?
+-----------------
+[Dòng 3556] Arrêtez l'alarme pour <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME>.
+	[Dòng 3557] [0.97] Éteignez l'alarme pour <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME>.
+	[Dòng 3559] [0.99] Arrête l'alarme pour <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME>.
+	[Dòng 3591] [0.99] Arrêtez l'alarme à partir de <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME>.
+	[Dòng 3594] [0.98] Arrête l'alarme à partir de <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME>.
+-----------------
+[Dòng 3566] Arrêtez l'alarme maintenant.
+	[Dòng 3569] [0.99] Arrête l'alarme maintenant.
+	[Dòng 3581] [0.98] Arrêtez l'alarme dès maintenant.
+	[Dòng 3584] [0.97] Arrête l'alarme dès maintenant.
+-----------------
+[Dòng 3639] Supprimez l'alarme de <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> matin.
+	[Dòng 3876] [1.00] Supprimez l'alarme pour demain matin.
+	[Dòng 3880] [0.97] Retirez l'alarme pour <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> matin.
+	[Dòng 3890] [0.98] Supprimez l'alarme prévue pour <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> matin.
+-----------------
+[Dòng 961] Combien de jours restent-ils avant la célébration de la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+	[Dòng 977] [0.98] Combien de jours restent-ils avant de fêter la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+	[Dòng 981] [0.99] Combien de jours restent-ils avant de célébrer la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+	[Dòng 1238] [0.97] Combien de jours restent-il avant la <DT_EVENT:DATELINE>fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 1298] [0.97] Combien de jours restent-il avant la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+-----------------
+[Dòng 977] Combien de jours restent-ils avant de fêter la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+	[Dòng 981] [0.98] Combien de jours restent-ils avant de célébrer la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+	[Dòng 1238] [0.97] Combien de jours restent-il avant la <DT_EVENT:DATELINE>fête nationale du Canada</DT_EVENT:DATELINE> ?
+	[Dòng 1298] [0.98] Combien de jours restent-il avant la <DT_EVENT:DATETIME>Fête du Canada</DT_EVENT:DATETIME> ?
+-----------------
+[Dòng 1027] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée de l'émancipation</DT_EVENT:DATELINE> ?
+	[Dòng 1061] [0.98] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée nationale de l'enseignement</DT_EVENT:DATELINE> ?
+	[Dòng 1069] [0.97] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée nationale de l'innovation</DT_EVENT:DATELINE> ?
+	[Dòng 1077] [0.97] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée de la Réconciliation</DT_EVENT:DATELINE> ?
+	[Dòng 1110] [0.97] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée de l'environnement</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 1051] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée nationale des aînés</DT_EVENT:DATELINE> ?
+	[Dòng 1061] [0.98] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée nationale de l'enseignement</DT_EVENT:DATELINE> ?
+	[Dòng 1069] [0.97] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée nationale de l'innovation</DT_EVENT:DATELINE> ?
+	[Dòng 1110] [0.98] Combien de jours restent-ils avant la <DT_EVENT:DATELINE>Journée de l'environnement</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 1686] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'Environnement</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1704] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'alimentation</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1710] [0.99] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'enfance</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1728] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de la presse</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1734] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'environnement et de la propreté</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1945] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'eau au Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 1704] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'alimentation</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1710] [0.99] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'enfance</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1728] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de la presse</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1740] [0.97] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de la santé mentale</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1945] [0.98] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'eau au Canada</DT_EVENT:DATELINE> ?
+	[Dòng 3239] [0.97] Quel jour de la semaine célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'alimentation au Canada</DT_EVENT:DATELINE>?
+-----------------
+[Dòng 1710] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'enfance</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1728] [0.99] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de la presse</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1740] [0.97] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de la santé mentale</DT_EVENT:DATELINE> au Canada ?
+	[Dòng 1945] [0.99] Quand célèbre-t-on <DT_EVENT:DATELINE>la Journée mondiale de l'eau au Canada</DT_EVENT:DATELINE> ?
+-----------------
+[Dòng 2001] Quel jour est le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2006] [0.99] Le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> est quel jour dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+	[Dòng 2039] [0.98] Quel jour est le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> <DT_MONTH:DATETIME>mai</DT_MONTH:DATETIME> dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> chinois ?
+	[Dòng 2049] [0.97] Quel jour est le <DT_DAY:DATETIME>1er</DT_DAY:DATETIME> mai aujourd'hui dans le <DT_CALENDAR_TYPE:TARGET_DATETIME>calendrier lunaire</DT_CALENDAR_TYPE:TARGET_DATETIME> ?
+-----------------
+[Dòng 2302] Le mois de décembre compte combien de jours ?
+	[Dòng 2306] [0.97] Pour le mois de décembre, combien de jours compte-t-on ?
+	[Dòng 2310] [0.98] Le mois de décembre a-t-il combien de jours ?
+	[Dòng 2314] [0.98] Combien de jours dure le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+	[Dòng 2330] [0.99] Combien de jours compte le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+	[Dòng 2338] [0.97] Combien de jours comprend le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+-----------------
+[Dòng 2314] Combien de jours dure le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+	[Dòng 2330] [0.99] Combien de jours compte le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+	[Dòng 2338] [0.98] Combien de jours comprend le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?
+	[Dòng 2346] [0.97] Combien de jours se trouvent dans le mois de <DT_MONTH:DATETIME>décembre</DT_MONTH:DATETIME> ?

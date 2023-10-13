@@ -1,0 +1,525 @@
+
+-----------------
+[Dòng 102] ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 130] [0.99] Hey, ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 137] [1.00] Hola, ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 1942] [0.99] ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE>?
+	[Dòng 1986] [0.97] Hey, ¿a qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE>?
+-----------------
+[Dòng 130] Hey, ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 137] [0.99] Hola, ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE> el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>?
+	[Dòng 1942] [0.97] ¿A qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE>?
+	[Dòng 1966] [0.98] Hey, ¿a qué hora se pone el sol <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Playa del Puerto</POI:BASE>?
+	[Dòng 1986] [0.99] Hey, ¿a qué hora se pone el sol en la <POI:BASE>Playa del Puerto</POI:BASE>?
+-----------------
+[Dòng 157] ¿A qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE> el <DT_REL_WEEK:DATETIME>próximo</DT_REL_WEEK:DATETIME> <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 881] [0.99] ¿A qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 896] [0.98] Hey, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 911] [0.98] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 931] [0.97] ¿A qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 496] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 499] [0.99] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 502] [0.97] Hola, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 508] [0.98] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 499] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 502] [0.97] Hola, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 508] [0.98] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.98] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 501] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 504] [0.97] Hola, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 507] [0.97] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 510] [0.98] Buenas, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+-----------------
+[Dòng 508] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.99] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.99] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 515] [0.98] Buenas, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 556] ¿Sabes si caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 557] [0.99] ¿Sabes si caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 558] [0.98] ¿Sabes si caerá aguanieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 559] [0.98] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 560] [0.99] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 561] [0.99] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 557] ¿Sabes si caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 558] [0.98] ¿Sabes si caerá aguanieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 559] [0.99] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 560] [0.98] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 561] [0.98] ¿Sabes si va a caer aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 563] Hola, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 564] [0.97] Hola, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 569] [0.99] Buenas, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 570] [0.98] Buenas, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 565] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 566] [0.99] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 567] [0.99] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 571] [0.98] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 573] [0.97] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 574] [0.98] Oye, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 566] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 567] [0.98] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 571] [0.99] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 574] [0.97] Oye, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 567] Hey, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 571] [0.98] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 573] [0.99] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 574] [0.97] Oye, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 571] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 572] [0.98] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 573] [0.98] Aló, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 574] [0.98] Oye, ¿caerá aguanieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 578] Hola, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Santa Monica</LC_CITY:BASE>?
+	[Dòng 580] [1.00] Hola, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Santa Monica</LC_CITY:BASE>?
+	[Dòng 584] [0.99] Hey, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Santa Monica</LC_CITY:BASE>?
+	[Dòng 588] [0.99] Buenas, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Santa Monica</LC_CITY:BASE>?
+-----------------
+[Dòng 579] Hola, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 583] [0.98] Hey, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 586] [0.98] Buenas, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 590] [0.97] Aló, ¿cómo estará el clima para hacer muñecos de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+-----------------
+[Dòng 638] Hola, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>?
+	[Dòng 642] [0.99] Hola, Hey, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+	[Dòng 646] [0.99] Buenas, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+	[Dòng 654] [0.99] ¿Cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 642] Hola, Hey, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+	[Dòng 646] [0.99] Buenas, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+	[Dòng 653] [0.98] Aló, ¿cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>?
+	[Dòng 654] [0.98] ¿Cree que habrá una tormenta de nieve en <LC_CITY:BASE>Ponce</LC_CITY:BASE> el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 717] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 720] [0.99] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 720] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 723] [0.97] Hola, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 722] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 725] [0.98] Hola, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 728] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 731] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+-----------------
+[Dòng 723] Hola, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 736] [0.99] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1356] [0.98] Hola, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 729] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 736] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 784] Hola, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 785] [0.98] Hola, ¿lloverá el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 788] [0.97] Hey, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 789] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 790] [0.98] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 791] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 786] Hey, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 787] [0.99] Hey, ¿lloverá el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 788] [0.99] Hey, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 791] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 792] [0.98] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 793] [0.97] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 794] [0.97] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 795] [0.97] Oye, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 788] Hey, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 790] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 792] [0.97] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 794] [0.99] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 792] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 793] [0.98] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 794] [0.98] Aló, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 795] [0.97] Oye, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 877] ¿A qué hora sale el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 892] [0.99] Hey, ¿a qué hora sale el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 907] [0.99] Hola, ¿a qué hora sale el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 927] [0.98] ¿A qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 942] [0.97] Hey, ¿a qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 957] [0.97] Hola, ¿a qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+-----------------
+[Dòng 878] ¿A qué hora sale el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 893] [0.98] Hey, ¿a qué hora sale el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 908] [0.99] Hola, ¿a qué hora sale el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 928] [0.98] ¿A qué hora se pone el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 958] [0.97] Hola, ¿a qué hora se pone el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+-----------------
+[Dòng 881] ¿A qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 896] [0.99] Hey, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 911] [0.99] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 931] [0.99] ¿A qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 946] [0.97] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 961] [0.98] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 882] ¿A qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 897] [0.98] Hey, ¿a qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 912] [0.99] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 932] [0.99] ¿A qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 947] [0.97] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 962] [0.98] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+-----------------
+[Dòng 890] ¿A qué hora amanecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 905] [0.98] Hey, ¿a qué hora amanecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 920] [0.99] Hola, ¿a qué hora amanecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 925] [0.98] Buenas, ¿a qué hora amanecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 896] Hey, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 911] [0.99] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 931] [0.97] ¿A qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 946] [0.99] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 961] [0.97] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 897] Hey, ¿a qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 912] [0.99] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 932] [0.97] ¿A qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 947] [0.99] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 962] [0.97] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+-----------------
+[Dòng 907] Hola, ¿a qué hora sale el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 927] [0.98] ¿A qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 942] [0.97] Hey, ¿a qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 957] [0.98] Hola, ¿a qué hora se pone el sol en <POI:BASE>Playa de Jobos</POI:BASE>?
+-----------------
+[Dòng 908] Hola, ¿a qué hora sale el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 928] [0.98] ¿A qué hora se pone el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 943] [0.97] Hey, ¿a qué hora se pone el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+	[Dòng 958] [0.98] Hola, ¿a qué hora se pone el sol en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+-----------------
+[Dòng 911] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 931] [0.98] ¿A qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 946] [0.98] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 961] [0.99] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 912] Hola, ¿a qué hora saldrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 932] [0.98] ¿A qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 947] [0.98] Hey, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+	[Dòng 962] [0.99] Hola, ¿a qué hora se pondrá el sol en el <POI:BASE>Paseo de la Princesa</POI:BASE>?
+-----------------
+[Dòng 940] ¿A qué hora anochecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 955] [0.98] Hey, ¿a qué hora anochecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 970] [0.99] Hola, ¿a qué hora anochecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+	[Dòng 975] [0.98] Buenas, ¿a qué hora anochecerá en el <POI:BASE>Balneario de Carolina</POI:BASE>?
+-----------------
+[Dòng 1120] Hey, ¿se espera lluvia en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1125] [0.97] Hola, ¿se espera lluvia en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1128] [0.99] Aló, ¿se espera lluvia en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1130] [0.98] Oye, ¿se espera lluvia en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+-----------------
+[Dòng 1266] ¿Qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1298] [0.99] ¿Me dices qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1316] [0.98] ¿Podrías decirme qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1331] [0.98] Cuéntame, ¿qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+-----------------
+[Dòng 1267] ¿Qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1299] [0.98] ¿Me dices qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1317] [0.98] ¿Podrías decirme qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1332] [0.98] Cuéntame, ¿qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+-----------------
+[Dòng 1270] Hola, ¿A qué temperatura se supone que está <POI:BASE>Castillo Serrallés</POI:BASE>?
+	[Dòng 1302] [0.98] Hola, ¿me puedes decir a qué temperatura se supone que está <POI:BASE>Castillo Serrallés</POI:BASE>?
+	[Dòng 1335] [0.97] Hola, ¿me podrías decir A qué temperatura se supone que está <POI:BASE>Castillo Serrallés</POI:BASE>?
+	[Dòng 1342] [0.97] Hola, ¿me sabes decir A qué temperatura se supone que está <POI:BASE>Castillo Serrallés</POI:BASE>?
+-----------------
+[Dòng 1272] Hola, ¿Cuál se supone que es la temperatura en <LC_CITY:BASE>Floral Park</LC_CITY:BASE>?
+	[Dòng 1322] [0.97] ¿Puedes decirme cuál se supone que es la temperatura en <LC_CITY:BASE>Floral Park</LC_CITY:BASE>?
+	[Dòng 1337] [0.97] Hola, ¿me sabrías decir cuál se supone que es la temperatura en <LC_CITY:BASE>Floral Park</LC_CITY:BASE>?
+	[Dòng 1344] [0.98] Hola, ¿me sabes decir cuál se supone que es la temperatura en <LC_CITY:BASE>Floral Park</LC_CITY:BASE>?
+-----------------
+[Dòng 1273] Hola ¿Cuál es la temperatura en <POI:BASE>Cerro de Nandy</POI:BASE>?
+	[Dòng 1277] [0.98] Buenas, ¿Cuál es la temperatura en <POI:BASE>Cerro de Nandy</POI:BASE>?
+	[Dòng 1323] [0.97] ¿Puedes decirme cuál es la temperatura en <POI:BASE>Cerro de Nandy</POI:BASE>?
+	[Dòng 1345] [0.98] Hola, ¿me dices cuál es la temperatura en <POI:BASE>Cerro de Nandy</POI:BASE>?
+-----------------
+[Dòng 1275] Hey, ¿Qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1279] [0.99] Buenas, ¿Qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1325] [0.97] ¿Me dices qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1329] [0.99] Dime, ¿qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+-----------------
+[Dòng 1276] Hey, ¿Qué temperatura está pronosticada en el <POI:BASE>Parque Recreativo Isla de Cabras</POI:BASE>?
+	[Dòng 1280] [0.98] Oye, ¿Qué temperatura está pronosticada en el <POI:BASE>Parque Recreativo Isla de Cabras</POI:BASE>?
+	[Dòng 1326] [0.98] ¿Me dices qué temperatura está pronosticada en el <POI:BASE>Parque Recreativo Isla de Cabras</POI:BASE>?
+	[Dòng 1330] [0.98] Cuéntame, ¿qué temperatura está pronosticada en el <POI:BASE>Parque Recreativo Isla de Cabras</POI:BASE>?
+	[Dòng 1348] [0.97] Hola, ¿me dices qué temperatura está pronosticada en el <POI:BASE>Parque Recreativo Isla de Cabras</POI:BASE>?
+-----------------
+[Dòng 1278] Buenas, ¿Cuál es la temperatura para <POI:BASE>Cuartel de Ballajá</POI:BASE>?
+	[Dòng 1324] [0.97] ¿Me dices cuál es la temperatura para <POI:BASE>Cuartel de Ballajá</POI:BASE>?
+	[Dòng 1328] [0.98] Dime, ¿cuál es la temperatura para <POI:BASE>Cuartel de Ballajá</POI:BASE>?
+	[Dòng 1346] [0.98] Hola, ¿me dices cuál es la temperatura para <POI:BASE>Cuartel de Ballajá</POI:BASE>?
+-----------------
+[Dòng 1279] Buenas, ¿Qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1325] [0.97] ¿Me dices qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1329] [0.98] Dime, ¿qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+	[Dòng 1347] [0.98] Hola, ¿me dices qué temperatura está pronosticada en <LC_CITY:BASE>San Juan Capistrano</LC_CITY:BASE>?
+
+-----------------
+[Dòng 1298] ¿Me dices qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1316] [0.99] ¿Podrías decirme qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1331] [0.98] Cuéntame, ¿qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+	[Dòng 1338] [0.98] Hola, ¿me sabrías decir qué temperatura se pronostica en <POI:BASE>Cementerio de Santa María Magdalena de Pazzis</POI:BASE>?
+-----------------
+[Dòng 1299] ¿Me dices qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1317] [0.99] ¿Podrías decirme qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1332] [0.98] Cuéntame, ¿qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+	[Dòng 1339] [0.98] Hola, ¿me puedes decir qué temperatura se pronostica en <POI:BASE>Placita de Santurce</POI:BASE>?
+-----------------
+[Dòng 1300] ¿Me dices qué temperatura se supone que hará en la <POI:BASE>Plaza de Armas</POI:BASE>?
+	[Dòng 1318] [0.99] ¿Sabes decirme qué temperatura se supone que hará en la <POI:BASE>Plaza de Armas</POI:BASE>?
+	[Dòng 1333] [0.98] Hola, ¿me podrías decir qué temperatura se supone que hará en la <POI:BASE>Plaza de Armas</POI:BASE>?
+	[Dòng 1340] [0.98] Hola, ¿me puedes decir qué temperatura se supone que hará en la <POI:BASE>Plaza de Armas</POI:BASE>?
+-----------------
+[Dòng 1301] Hola, ¿me puedes decir qué temperatura va a hacer en el <POI:BASE>Bosque El Yunque</POI:BASE>?
+	[Dòng 1319] [0.97] ¿Sabes decirme qué temperatura va a hacer en el <POI:BASE>Bosque El Yunque</POI:BASE>?
+	[Dòng 1334] [1.00] Hola, ¿me podrías decir qué temperatura va a hacer en el <POI:BASE>Bosque El Yunque</POI:BASE>?
+	[Dòng 1341] [0.97] Hola, ¿me puedes decir qué temperatura va a hacer  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE>  el <POI:BASE>Bosque El Yunque</POI:BASE>?
+-----------------
+[Dòng 1303] Hola, ¿me puedes decir a qué temperatura se supone que está <POI:BASE>Reserva los Cayos de la Cordillera</POI:BASE>?
+	[Dòng 1321] [0.97] ¿Puedes decirme A qué temperatura se supone que está <POI:BASE>Reserva los Cayos de la Cordillera</POI:BASE>?
+	[Dòng 1336] [0.98] Hola, ¿me sabrías decir A qué temperatura se supone que está <POI:BASE>Reserva los Cayos de la Cordillera</POI:BASE>?
+	[Dòng 1343] [0.98] Hola, ¿me sabes decir A qué temperatura se supone que está <POI:BASE>Reserva los Cayos de la Cordillera</POI:BASE>?
+-----------------
+[Dòng 1353] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1356] [0.98] Hola, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 1355] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 1358] [0.98] Hola, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 1361] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 1364] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+-----------------
+[Dòng 1362] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1367] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 1417] ¿Es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1419] [0.98] ¿Es buen momento para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1430] [0.98] Hola. Aló. ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1439] [0.98] Buenas tardes, ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1834] [0.98] ¿Es buen momento para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa Isla Verde</POI:BASE> ?
+-----------------
+[Dòng 1420] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1433] [0.98] Hola. ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1440] [0.97] Buenas tardes, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1448] [0.98] Dime, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1839] [1.00] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE> ?
+-----------------
+[Dòng 1430] Hola. Aló. ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1439] [0.99] Buenas tardes, ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1444] [0.98] Buenos días, ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+	[Dòng 1447] [0.98] Dime, ¿es buen momento para lavar el coche en la <POI:BASE>Playa Isla Verde</POI:BASE>?
+-----------------
+[Dòng 1433] Hola. ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1440] [0.99] Buenas tardes, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1445] [0.98] Buenos días, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1448] [0.98] Dime, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1839] [0.98] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE> ?
+-----------------
+[Dòng 1440] Buenas tardes, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1445] [0.99] Buenos días, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1448] [0.98] Dime, ¿crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1839] [0.97] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE> ?
+-----------------
+[Dòng 1500] ¿A que hora se pondrá el solel <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 1507] [0.99] ¿A que hora se pondrá el sol el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 1991] [0.98] ¿A que hora saldrá el solel <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 1998] [0.97] ¿A que hora saldrá el sol el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 1562] Hey, ¿se espera nieve en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1567] [0.97] Hola, ¿se espera nieve en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1570] [0.99] Aló, ¿se espera nieve en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+	[Dòng 1572] [0.98] Oye, ¿se espera nieve en <LC_CITY:BASE>Miami</LC_CITY:BASE>?
+-----------------
+[Dòng 2930] ¿Se espera un aumento de temperatura en <LC_CUR>la costa norte de Puerto Rico</LC_CUR>?
+	[Dòng 2950] [0.98] ¿Se espera un aumento de temperatura en <LC_CUR>la costa sur de Puerto Rico</LC_CUR>?
+	[Dòng 2970] [0.98] ¿Se espera un aumento de temperatura en <LC_CUR>la costa este de Puerto Rico</LC_CUR>?
+	[Dòng 2988] [0.98] ¿Se espera un aumento de temperatura en <LC_CUR>la costa oeste de Puerto Rico</LC_CUR>?
+-----------------
+[Dòng 423] Hola, ¿dónde puedo lavar mi coche en <LC_CITY:BASE>San Juan</LC_CITY:BASE> el <DT_REL_DAY:DATETIME>domingo</DT_REL_DAY:DATETIME>?
+	[Dòng 424] [0.97] Hola, ¿dónde puedo lavar mi coche en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE><DT_REL_DAY:DATETIME>mañana</DT_REL_DAY:DATETIME>?
+	[Dòng 1809] [0.98] Hola, ¿dónde puedo lavar mi coche en <LC_CITY:BASE>San Juan</LC_CITY:BASE><DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1810] [0.98] Hola, ¿dónde puedo lavar mi coche en <LC_CITY:BASE>San Sebastián</LC_CITY:BASE>?
+-----------------
+[Dòng 434] ¿Será un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Isla Grande</POI:BASE> el <DT_REL_WEEK:DATETIME>próximo</DT_REL_WEEK:DATETIME> <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 435] [0.98] ¿Será un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Isla Grande</POI:BASE> el <DT_REL_WEEK:DATETIME>próximo</DT_REL_WEEK:DATETIME> <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME>?
+	[Dòng 1411] [0.97] ¿Será un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Isla Grande</POI:BASE>?
+	[Dòng 1820] [0.97] ¿Será un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Isla Grande</POI:BASE> ?
+-----------------
+[Dòng 453] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Playa de Jobos</POI:BASE> el <DT_REL_WEEK:DATETIME>próximo</DT_REL_WEEK:DATETIME> <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 454] [0.99] ¿Crees que será un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Playa de Jobos</POI:BASE> el <DT_REL_WEEK:DATETIME>próximo</DT_REL_WEEK:DATETIME> <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME>?
+	[Dòng 1420] [0.98] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE>?
+	[Dòng 1839] [0.98] ¿Crees que es un buen día para lavar el coche <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Playa de Jobos</POI:BASE> ?
+-----------------
+[Dòng 496] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 499] [0.99] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 717] [0.97] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 499] ¿Cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 508] [0.97] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.99] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.98] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 502] Hola, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 508] [0.97] Hey, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 511] [0.97] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.98] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 723] [0.98] Hola, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 511] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 513] [0.99] Aló, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 515] [0.97] Buenas, ¿cuáles van a ser los niveles de nieve el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 716] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 718] [0.98] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 1351] [0.98] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 1366] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Plaza del Puerto</POI:BASE>?
+-----------------
+[Dòng 717] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 720] [0.99] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1350] [0.98] ¿Cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1353] [0.99] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1356] [0.97] Hola, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1367] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 718] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 1349] [0.97] ¿Cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 1351] [0.98] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Plaza del Puerto</POI:BASE>?
+	[Dòng 1366] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Plaza del Puerto</POI:BASE>?
+-----------------
+[Dòng 720] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 732] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1350] [0.97] ¿Cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1353] [0.99] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 721] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Catedral San Juan</POI:BASE>?
+	[Dòng 726] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Catedral San Juan</POI:BASE>?
+	[Dòng 727] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Catedral San Juan</POI:BASE>?
+	[Dòng 730] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Catedral San Juan</POI:BASE>?
+	[Dòng 1354] [0.98] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Catedral San Juan</POI:BASE>?
+	[Dòng 1360] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Catedral San Juan</POI:BASE>?
+-----------------
+[Dòng 722] ¿Cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 731] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 1355] [0.99] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+	[Dòng 1364] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Playa Combate</POI:BASE>?
+-----------------
+[Dòng 723] Hola, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 729] [0.97] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1356] [0.99] Hola, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 729] Hey, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 736] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 732] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 734] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 736] [0.97] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1353] [0.97] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1367] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 734] Aló, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 736] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME> en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1353] [0.97] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1367] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 789] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 790] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 791] [0.97] Buenas, ¿lloverá el <DT_WEEKDAY:DATETIME>lunes</DT_WEEKDAY:DATETIME> en <POI:BASE>Condado Beach</POI:BASE>?
+	[Dòng 1384] [0.97] Buenas, ¿lloverá en <POI:BASE>Condado Beach</POI:BASE>?
+-----------------
+[Dòng 1350] ¿Cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1353] [0.97] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.97] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1367] [0.99] Aló, ¿cuáles van a ser los niveles de lluvia  <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> el <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 1353] ¿Cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1362] [0.98] Hey, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1365] [0.98] Aló, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+	[Dòng 1369] [0.98] Buenas, ¿cuáles van a ser los niveles de lluvia en <POI:BASE>Parque Piedra Dura</POI:BASE>?
+-----------------
+[Dòng 1459] Hey, ¿pronóstico de polvo <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Catedral de Nuestra Señora de Guadalupe deponce</POI:BASE> ?
+	[Dòng 1461] [0.98] Hey, ¿pronóstico de polvo en <POI:BASE>Catedral de Nuestra Señora de Guadalupe deponce</POI:BASE> ?
+	[Dòng 1486] [0.98] Hey, ¿pronóstico de partículas de polvo <QT_REL_DISTANCE:DISTANCE>cerca de</QT_REL_DISTANCE:DISTANCE> la <POI:BASE>Catedral de Nuestra Señora de Guadalupe deponce</POI:BASE> ?
+	[Dòng 1488] [0.97] Hey, ¿pronóstico de partículas de polvo en <POI:BASE>Catedral de Nuestra Señora de Guadalupe deponce</POI:BASE> ?
+-----------------
+[Dòng 2929] ¿Cuál es la temperatura actual en <LC_POST_CODE>00936</LC_POST_CODE>?
+	[Dòng 2939] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00617</LC_POST_CODE>?
+	[Dòng 2949] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00757</LC_POST_CODE>?
+	[Dòng 2959] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00907</LC_POST_CODE>?
+	[Dòng 2969] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00674</LC_POST_CODE>?
+	[Dòng 2987] [0.97] ¿Cuál es la temperatura actual en <LC_POST_CODE>00685</LC_POST_CODE>?
+	[Dòng 2997] [0.97] ¿Cuál es la temperatura actual en <LC_POST_CODE>00641</LC_POST_CODE>?
+-----------------
+[Dòng 2930] ¿Se espera un aumento de temperatura en <LC_CUR>la costa norte de Puerto Rico</LC_CUR>?
+	[Dòng 2950] [0.99] ¿Se espera un aumento de temperatura en <LC_CUR>la costa sur de Puerto Rico</LC_CUR>?
+	[Dòng 2970] [0.99] ¿Se espera un aumento de temperatura en <LC_CUR>la costa este de Puerto Rico</LC_CUR>?
+	[Dòng 2988] [0.99] ¿Se espera un aumento de temperatura en <LC_CUR>la costa oeste de Puerto Rico</LC_CUR>?
+-----------------
+[Dòng 2939] ¿Cuál es la temperatura actual en <LC_POST_CODE>00617</LC_POST_CODE>?
+	[Dòng 2949] [0.97] ¿Cuál es la temperatura actual en <LC_POST_CODE>00757</LC_POST_CODE>?
+	[Dòng 2959] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00907</LC_POST_CODE>?
+	[Dòng 2969] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00674</LC_POST_CODE>?
+	[Dòng 2987] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00685</LC_POST_CODE>?
+-----------------
+[Dòng 2949] ¿Cuál es la temperatura actual en <LC_POST_CODE>00757</LC_POST_CODE>?
+	[Dòng 2959] [0.99] ¿Cuál es la temperatura actual en <LC_POST_CODE>00907</LC_POST_CODE>?
+	[Dòng 2969] [0.99] ¿Cuál es la temperatura actual en <LC_POST_CODE>00674</LC_POST_CODE>?
+	[Dòng 2987] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00685</LC_POST_CODE>?
+	[Dòng 2997] [0.97] ¿Cuál es la temperatura actual en <LC_POST_CODE>00641</LC_POST_CODE>?
+-----------------
+[Dòng 2959] ¿Cuál es la temperatura actual en <LC_POST_CODE>00907</LC_POST_CODE>?
+	[Dòng 2969] [0.99] ¿Cuál es la temperatura actual en <LC_POST_CODE>00674</LC_POST_CODE>?
+	[Dòng 2987] [0.98] ¿Cuál es la temperatura actual en <LC_POST_CODE>00685</LC_POST_CODE>?
+	[Dòng 2997] [0.97] ¿Cuál es la temperatura actual en <LC_POST_CODE>00641</LC_POST_CODE>?

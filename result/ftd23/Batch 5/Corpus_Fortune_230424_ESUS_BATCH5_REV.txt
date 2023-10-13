@@ -1,0 +1,565 @@
+
+-----------------
+[Dòng 373] ¿Podrías mostrarme la predicción de mi suerte para <DT_REL_MONTH:DATETIME>este mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 377] [0.97] ¿Podrías darme mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 387] [0.98] ¿Podrías revelarme mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes siguiente</DT_REL_MONTH:DATETIME>?
+	[Dòng 409] [0.98] ¿Podrías mostrarme mi predicción de suerte para el <DT_REL_MONTH:DATETIME>mes actual</DT_REL_MONTH:DATETIME>?
+-----------------
+[Dòng 376] Necesito saber mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes</DT_REL_MONTH:DATETIME>, ¿puedes mostrármela?
+	[Dòng 381] [0.99] Quiero saber mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes próximo</DT_REL_MONTH:DATETIME>, ¿puedes mostrármela?
+	[Dòng 383] [0.97] Me gustaría saber cuál es mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes siguiente</DT_REL_MONTH:DATETIME>, ¿puedes mostrármela?
+	[Dòng 386] [0.97] Quiero conocer mi predicción de suerte para <DT_REL_MONTH:DATETIME>este mes siguiente</DT_REL_MONTH:DATETIME>, ¿puedes mostrármela?
+-----------------
+[Dòng 399] ¿Podrías decirme cuál es mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 407] [0.99] ¿Me podrías decir cuál es mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 410] [0.98] Quiero saber cuál es mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías decirme?
+	[Dòng 426] [0.98] ¿Podrías decirme cuál es mi pronóstico de suerte para el <DT_REL_MONTH:DATETIME>mes actual</DT_REL_MONTH:DATETIME>?
+-----------------
+[Dòng 401] Quiero conocer mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este mes que viene</DT_REL_MONTH:DATETIME>, ¿puedes mostrármelo?
+	[Dòng 405] [0.97] Quiero saber mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este mes que vendrá</DT_REL_MONTH:DATETIME>, ¿puedes mostrármelo?
+	[Dòng 408] [0.98] Necesito conocer mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías mostrármelo?
+	[Dòng 425] [0.98] Quiero conocer mi pronóstico de suerte para <DT_REL_MONTH:DATETIME>este siguiente mes</DT_REL_MONTH:DATETIME>, ¿podrías indicármelo?
+-----------------
+[Dòng 517] ¿Hay alguna actualización reciente en mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> que pueda saber?
+	[Dòng 527] [0.98] Hola, ¿hay alguna actualización reciente en mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> que deba saber?
+	[Dòng 536] [0.97] ¿Hay alguna actualización reciente que deba saber sobre mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE>?
+	[Dòng 556] [0.99] ¿Hay alguna actualización reciente en mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> que deba saber?
+-----------------
+[Dòng 563] ¿Tienes alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>?
+	[Dòng 565] [0.98] ¿Podrías darme alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 567] [0.99] ¿Hay alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 569] [0.99] ¿Tienes alguna predicción sobre mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 571] [0.98] ¿Podrías decirme si tienes alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>?
+-----------------
+[Dòng 565] ¿Podrías darme alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 567] [0.97] ¿Hay alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 569] [0.97] ¿Tienes alguna predicción sobre mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>siguiente mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 571] [0.98] ¿Podrías decirme si tienes alguna predicción para mi <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> en el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>?
+-----------------
+[Dòng 959] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 961] [0.97] Hola, quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 962] [0.99] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 963] [0.97] Me gustaría recibir una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 967] [0.98] Hola, ¿podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 970] [1.00] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [1.00] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 974] [0.98] ¿Qué predicción detallada puedes brindarme acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>?
+	[Dòng 976] [0.99] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.99] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 961] Hola, quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 962] [0.98] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 963] [0.98] Me gustaría recibir una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 967] [0.98] Hola, ¿podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 970] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [0.97] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 975] [0.97] Me interesaría conocer una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 979] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.97] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.99] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.97] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 998] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.97] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [1.00] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [0.99] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 962] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 963] [0.97] Me gustaría recibir una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 967] [0.98] Hola, ¿podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 970] [1.00] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 974] [0.98] ¿Qué predicción detallada puedes brindarme acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>?
+	[Dòng 976] [0.99] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.99] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [1.00] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 963] Me gustaría recibir una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 969] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 970] [0.97] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [0.97] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 982] [0.98] Me gustaría recibir una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 985] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.99] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.97] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [0.99] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 964] ¿Qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> de manera detallada para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 981] [0.99] ¿Qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> de manera detallada, por favor?
+	[Dòng 993] [0.98] ¿Qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> de manera pormenorizada para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1008] [0.99] ¿Qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> de manera exhaustiva, por favor?
+-----------------
+[Dòng 965] Por favor, infórmame acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> de manera detallada.
+	[Dòng 973] [0.99] Por favor, infórmame de manera detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 980] [0.99] Por favor, infórmame detalladamente sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 986] [0.99] Por favor, infórmame con detalle acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 999] [0.99] Por favor, infórmame acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> con detalle.
+	[Dòng 1006] [0.97] Por favor, infórmame de manera exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+-----------------
+[Dòng 967] Hola, ¿podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 970] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 976] [0.98] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 982] [0.98] Me gustaría recibir una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 985] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 995] [0.98] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.97] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+-----------------
+[Dòng 969] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 975] [0.99] Me interesaría conocer una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.97] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 970] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [1.00] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 974] [0.98] ¿Qué predicción detallada puedes brindarme acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>?
+	[Dòng 976] [0.99] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.99] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 972] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 974] [0.98] ¿Qué predicción detallada puedes brindarme acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>?
+	[Dòng 976] [0.99] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.99] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 973] Por favor, infórmame de manera detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 980] [0.99] Por favor, infórmame detalladamente sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 986] [0.98] Por favor, infórmame con detalle acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 999] [0.98] Por favor, infórmame acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> con detalle.
+-----------------
+[Dòng 974] ¿Qué predicción detallada puedes brindarme acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>?
+	[Dòng 976] [0.98] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 995] [0.98] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+-----------------
+[Dòng 975] Me interesaría conocer una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1004] [0.97] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 976] ¿Podrías proporcionarme una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 979] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.97] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 979] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.99] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [1.00] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [1.00] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.97] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 982] Me gustaría recibir una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.97] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+-----------------
+[Dòng 983] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 995] [0.97] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.97] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.97] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 985] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 988] [0.99] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.99] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.99] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 988] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 990] [0.98] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [1.00] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.99] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 990] Quiero conocer una predicción exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.98] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.98] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.99] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.99] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 991] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 994] [0.97] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.98] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.99] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.98] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.98] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 994] Me gustaría recibir una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 995] [0.98] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.98] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.97] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [0.98] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 995] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1000] [0.97] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [1.00] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+-----------------
+[Dòng 1000] Me gustaría conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1002] [0.97] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.99] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1007] [1.00] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 1002] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1004] [0.97] Quiero conocer una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la semana siguiente, ¿puedes ayudarme?
+	[Dòng 1005] [0.99] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1007] [0.97] Me interesaría conocer una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, ¿puedes ayudarme?
+-----------------
+[Dòng 1012] Tal vez puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el mes siguiente, ¿puedes ayudarme?
+	[Dòng 1017] [0.99] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1019] [0.98] ¿Podrías proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, por favor?
+	[Dòng 1021] [0.98] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1024] [0.98] ¿Podrías quizás proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 1027] [0.97] Tal vez puedas proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1028] [0.98] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [1.00] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.98] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.98] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.99] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1013] Por favor, infórmame si podrías compartir conmigo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1015] [0.97] Tal vez puedas ayudarme compartiendo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1018] [0.97] Por favor, dime si podrías compartir conmigo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>.
+	[Dòng 1022] [0.99] Por favor, infórmame si puedes compartir conmigo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1029] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1037] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1040] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+	[Dòng 1044] [0.98] Por favor, infórmame si puedes proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1050] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+-----------------
+[Dòng 1014] ¿Podrías quizás proporcionarme una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1021] [0.98] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1028] [0.99] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1042] [0.99] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+-----------------
+[Dòng 1017] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1019] [0.98] ¿Podrías proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, por favor?
+	[Dòng 1021] [0.97] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1024] [0.98] ¿Podrías quizás proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 1027] [0.98] Tal vez puedas proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1028] [0.97] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.99] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.98] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.97] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.98] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1019] ¿Podrías proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, por favor?
+	[Dòng 1021] [0.97] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1024] [0.98] ¿Podrías quizás proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 1028] [0.98] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.97] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1042] [0.98] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+-----------------
+[Dòng 1020] Tal vez puedas compartir conmigo una predicción detallada para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, ¿puedes ayudarme?
+	[Dòng 1023] [0.98] Tal vez puedas ayudarme compartiendo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1035] [0.97] ¿Podrías ayudarme compartiendo una predicción detallada para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>?
+	[Dòng 1039] [0.97] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1049] [0.97] ¿Podrías ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, quizás?
+-----------------
+[Dòng 1021] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1024] [0.98] ¿Podrías quizás proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 1027] [0.97] Tal vez puedas proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1028] [0.99] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.98] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.97] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.99] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.98] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1022] Por favor, infórmame si puedes compartir conmigo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1029] [0.99] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1037] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1040] [0.99] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+	[Dòng 1044] [0.97] Por favor, infórmame si puedes proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1048] [0.97] Tal vez puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, por favor.
+	[Dòng 1050] [0.99] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+-----------------
+[Dòng 1024] ¿Podrías quizás proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>?
+	[Dòng 1027] [0.99] Tal vez puedas proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1028] [0.97] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.99] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.98] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.98] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.97] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.98] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1026] ¿Podrías ayudarme compartiendo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, por favor?
+	[Dòng 1033] [0.99] ¿Podrías ayudarme compartiendo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, por favor?
+	[Dòng 1035] [0.98] ¿Podrías ayudarme compartiendo una predicción detallada para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>?
+	[Dòng 1039] [0.97] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1049] [0.98] ¿Podrías ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes venidero</DT_REL_MONTH:DATETIME>, quizás?
+-----------------
+[Dòng 1027] Tal vez puedas proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1031] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.98] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.99] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1045] [0.98] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1028] ¿Podrías quizás brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>?
+	[Dòng 1031] [0.98] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.98] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1042] [1.00] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+-----------------
+[Dòng 1031] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, quizás?
+	[Dòng 1036] [0.98] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.97] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.98] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.99] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1036] Quizás puedas brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+	[Dòng 1041] [0.98] Tal vez puedas ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, ¿podrías?
+	[Dòng 1042] [0.98] ¿Podrías brindarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes que viene</DT_REL_MONTH:DATETIME>, tal vez?
+	[Dòng 1045] [0.99] Tal vez puedas brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, ¿podrías ayudarme?
+-----------------
+[Dòng 1037] Por favor, infórmame si puedes compartir conmigo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1040] [0.97] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+	[Dòng 1044] [0.97] Por favor, infórmame si puedes proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1047] [0.98] Por favor, infórmame si puedes ayudarme compartiendo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+-----------------
+[Dòng 1987] ¿Puedes proporcionarme alguna información sobre la fortuna del <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE> para el año de la <CH_ZODIAC_SIGN:FORTUNE>rata</CH_ZODIAC_SIGN:FORTUNE>?
+	[Dòng 1995] [0.98] ¿Tienes alguna información sobre la fortuna del <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE> en el año de la <CH_ZODIAC_SIGN:FORTUNE>rata</CH_ZODIAC_SIGN:FORTUNE>?
+	[Dòng 1999] [0.99] ¿Puedes proporcionarme detalles sobre la fortuna del <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE> para el año de la <CH_ZODIAC_SIGN:FORTUNE>rata</CH_ZODIAC_SIGN:FORTUNE>?
+	[Dòng 2015] [0.98] ¿Podrías brindarme detalles sobre la fortuna del <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE> en el año de la <CH_ZODIAC_SIGN:FORTUNE>rata</CH_ZODIAC_SIGN:FORTUNE>?
+-----------------
+[Dòng 2057] ¿Podrías mostrarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo chino del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2073] [0.97] ¿Podrías mostrarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2121] [0.98] ¿Podrías proporcionarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del signo del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2129] [0.98] ¿Podrías mostrarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>?
+-----------------
+[Dòng 2071] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2095] [0.99] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2103] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2119] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el zodiaco de la astrología china, por favor?
+-----------------
+[Dòng 2097] ¿Podrías proporcionarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2105] [0.98] ¿Podrías proporcionarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el zodiaco de la astrología china, por favor?
+	[Dòng 2113] [0.98] ¿Podrías darme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2121] [0.98] ¿Podrías proporcionarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del signo del <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2169] [0.99] ¿Podrías proporcionarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+-----------------
+[Dòng 170] Me gustaría saber cuál es mi suerte para el día de <DT_REL_DAY:DATETIME>pasado mañana</DT_REL_DAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 180] [0.97] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>martes</DT_WEEKDAY:DATETIME> en el transcurso del día. ¿Me lo puedes decir, por favor?
+	[Dòng 188] [0.97] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 199] [0.98] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 207] [0.97] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>día lunes</DT_WEEKDAY:DATETIME> en las finanzas. ¿Me lo puedes decir, por favor?
+-----------------
+[Dòng 185] ¿Me podrías informar sobre mi buena estrella para el <DT_WEEKDAY:DATETIME>miércoles</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 189] [0.99] ¿Me podrías informar sobre mi buena estrella para el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 192] [0.98] ¿Me podrías informar sobre mi buena estrella para el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 196] [0.98] ¿Me podrías informar sobre mi buena estrella para el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 188] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>jueves</DT_WEEKDAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 195] [0.99] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 199] [0.99] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME>. ¿Me lo puedes decir, por favor?
+	[Dòng 207] [0.97] Me gustaría saber cuál es mi suerte para el <DT_WEEKDAY:DATETIME>día lunes</DT_WEEKDAY:DATETIME> en las finanzas. ¿Me lo puedes decir, por favor?
+-----------------
+[Dòng 267] ¿Podrías brindarme un resumen de mi buena estrella para el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor?
+	[Dòng 285] [0.98] ¿Podrías brindarme un resumen claro de mi buena estrella para el <DT_REL_WEEKDAY:DATETIME>fin de semana venidero</DT_REL_WEEKDAY:DATETIME>, por favor?
+	[Dòng 298] [0.97] ¿Podrías brindarme un resumen de mi buena estrella para el <DT_REL_WEEKDAY:DATETIME>fin de semana sucesivo</DT_REL_WEEKDAY:DATETIME> en unas pocas palabras, por favor?
+	[Dòng 304] [0.98] ¿Podrías brindarme un resumen claro y breve de mi buena estrella para el <DT_REL_WEEKDAY:DATETIME>fin de semana por venir</DT_REL_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 959] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 972] [1.00] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1005] [0.97] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1019] [0.97] ¿Podrías proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, por favor?
+-----------------
+[Dòng 960] Por favor, dime qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> de manera detallada.
+	[Dòng 968] [0.99] Por favor, dime qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> de manera pormenorizada para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 977] [0.97] Por favor, dime con detalle qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>.
+	[Dòng 989] [0.99] Por favor, dime de manera detallada qué me depara mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>.
+-----------------
+[Dòng 962] ¿Podrías brindarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 970] [0.98] ¿Podrías brindarme una predicción detallada sobre mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 983] [0.98] ¿Podrías brindarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 995] [0.99] ¿Podrías brindarme una predicción completa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1002] [0.98] ¿Podrías brindarme una predicción pormenorizada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+-----------------
+[Dòng 972] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana próxima</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 985] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana siguiente</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 991] [0.98] ¿Podrías proporcionarme una predicción detallada de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana que viene</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 998] [0.97] ¿Podrías proporcionarme una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>semana venidera</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1005] [0.97] ¿Podrías proporcionarme una predicción minuciosa acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>, por favor?
+	[Dòng 1019] [0.97] ¿Podrías proporcionarme una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>, por favor?
+-----------------
+[Dòng 973] Por favor, infórmame de manera detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 986] [0.97] Por favor, infórmame con detalle acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+	[Dòng 999] [0.97] Por favor, infórmame acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME> con detalle.
+	[Dòng 1006] [0.97] Por favor, infórmame de manera exhaustiva acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para la <DT_REL_WEEK:DATETIME>próxima semana</DT_REL_WEEK:DATETIME>.
+-----------------
+[Dòng 1022] Por favor, infórmame si puedes compartir conmigo una predicción acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1029] [0.99] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>.
+	[Dòng 1037] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción detallada acerca de mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>próximo mes</DT_REL_MONTH:DATETIME>.
+	[Dòng 1040] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> para el <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+	[Dòng 1050] [0.98] Por favor, infórmame si puedes compartir conmigo una predicción para mi carta del <FORTUNE_TYPE:FORTUNE>tarot</FORTUNE_TYPE:FORTUNE> del <DT_REL_MONTH:DATETIME>mes siguiente</DT_REL_MONTH:DATETIME>, por favor.
+-----------------
+[Dòng 1318] Necesito que me des una predicción de fortuna, ya que nací en <DT_YEAR:BIRTH_DATETIME>1948</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1337] [0.99] Necesito que me des una predicción de fortuna para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1957</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1360] [0.97] Necesito que me des una predicción de fortuna específica para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1968</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1373] [0.98] Necesito que me des una predicción de fortuna personalizada para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1961</DT_YEAR:BIRTH_DATETIME>.
+-----------------
+[Dòng 1337] Necesito que me des una predicción de fortuna para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1957</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1350] [0.97] Necesito que me des una predicción de fortuna específica para mí, nacido en <DT_YEAR:BIRTH_DATETIME>2001</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1360] [0.99] Necesito que me des una predicción de fortuna específica para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1968</DT_YEAR:BIRTH_DATETIME>.
+	[Dòng 1373] [0.99] Necesito que me des una predicción de fortuna personalizada para mí, ya que nací en <DT_YEAR:BIRTH_DATETIME>1961</DT_YEAR:BIRTH_DATETIME>.
+-----------------
+[Dòng 2071] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2095] [0.99] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2122] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2149] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2173] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+-----------------
+[Dòng 2076] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo chino del <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2093] [0.97] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2098] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2103] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2164] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+-----------------
+[Dòng 2081] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el <CH_ZODIAC_SIGN:FORTUNE>tigre</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2095] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2122] [0.97] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2124] [0.97] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2149] [0.97] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2173] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+-----------------
+[Dòng 2093] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2098] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2103] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2109] [0.99] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2164] [0.99] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+-----------------
+[Dòng 2098] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2103] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el signo del <CH_ZODIAC_SIGN:FORTUNE>caballo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2109] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+	[Dòng 2164] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE>, por favor?
+-----------------
+[Dòng 2122] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>perro</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2124] [0.98] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> chino para el <CH_ZODIAC_SIGN:FORTUNE>buey</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2149] [0.99] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> para el signo del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?
+	[Dòng 2173] [0.97] ¿Podrías enseñarme el <FORTUNE_TYPE:FORTUNE>horóscopo</FORTUNE_TYPE:FORTUNE> del <CH_ZODIAC_SIGN:FORTUNE>cerdo</CH_ZODIAC_SIGN:FORTUNE> en el <FORTUNE_TYPE:FORTUNE>zodiaco chino</FORTUNE_TYPE:FORTUNE>, por favor?

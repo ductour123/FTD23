@@ -1,0 +1,912 @@
+
+-----------------
+[Dòng 1702] Quisiera ver un partido de béisbol, ¿hay alguno en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>?
+	[Dòng 1709] [0.98] Me apetecería ver un partido de béisbol, ¿hay alguno en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>?
+	[Dòng 1713] [0.98] Me encantaría ver un partido de béisbol, ¿hay alguno en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>?
+	[Dòng 1718] [0.98] Me interesa ver un partido de béisbol, ¿hay alguno en los canales <GENRE:CHANNEL_GENRE>deportivos</GENRE:CHANNEL_GENRE>?
+-----------------
+[Dòng 1707] Si hay un partido de béisbol en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>, me gustaría verlo.
+	[Dòng 1714] [0.99] Si hay un partido de béisbol en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>, me encantaría verlo.
+	[Dòng 1717] [0.98] Si hay un partido de béisbol en un canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>, estaría genial verlo.
+	[Dòng 1724] [0.97] Si está pasando un partido de béisbol en algún canal <GENRE:CHANNEL_GENRE>deportivo</GENRE:CHANNEL_GENRE>, me gustaría verlo.
+-----------------
+[Dòng 2004] Dirígete al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2005] [0.98] Muévete al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2008] [0.97] Conduce al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2010] [0.98] Desplázate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2015] [0.98] Acércate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2016] [0.98] Adéntrate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2024] [0.97] Acomódate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2026] [0.98] Llévame al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2028] [0.97] Trasládate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2030] [0.98] Adelántate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2005] Muévete al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2010] [0.98] Desplázate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2016] [0.97] Adéntrate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2026] [0.98] Llévame al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2027] [0.97] Migrar al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2028] [0.98] Trasládate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2029] [0.97] Despliega el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2030] [0.97] Adelántate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2008] Conduce al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2010] [0.97] Desplázate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2012] [0.99] Conduce hacia el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2026] [0.97] Llévame al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2028] [0.97] Trasládate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2030] [0.98] Adelántate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2010] Desplázate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2016] [0.98] Adéntrate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2018] [0.98] Deslízate hacia el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2026] [0.98] Llévame al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2027] [0.97] Migrar al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2028] [0.98] Trasládate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2029] [0.98] Despliega el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2030] [0.98] Adelántate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2016] Adéntrate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2024] [0.98] Acomódate en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2026] [0.97] Llévame al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2027] [0.97] Migrar al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2030] [0.97] Adelántate al canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2061] Sería genial si colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2072] [0.99] Sería estupendo que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2093] [0.98] Me encantaría que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2099] [0.98] Sería grandioso si pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2062] Me agradaría que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2073] [0.98] Me complacería que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2082] [0.99] Estaría bien que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2088] [0.98] Me gustaría que activaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2093] [0.97] Me encantaría que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2099] [0.98] Sería grandioso si pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2100] [0.98] Me gustaría que habilitaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2064] Desearía que activaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2071] [0.99] Solicitaría que activaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2088] [0.98] Me gustaría que activaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2098] [0.97] Desearía que sintonizaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2100] [0.97] Me gustaría que habilitaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2066] Me gustaría tener acceso a un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2074] [0.98] Desearía tener acceso a un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2083] [0.98] Solicitaría tener acceso a un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2097] [0.98] Me complacería tener acceso a un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2072] Sería estupendo que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2082] [0.97] Estaría bien que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2093] [0.99] Me encantaría que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2099] [0.97] Sería grandioso si pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2073] Me complacería que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2085] [0.97] Me complacería habilitar un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2090] [0.97] Sería de mi interés que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2096] [0.98] Sería de mi deseo que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 2082] Estaría bien que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2087] [0.98] Sería óptimo que pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2088] [0.97] Me gustaría que activaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2093] [0.97] Me encantaría que colocaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2099] [0.98] Sería grandioso si pusieras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+	[Dòng 2100] [0.98] Me gustaría que habilitaras un canal de <GENRE:CHANNEL_GENRE>documentales</GENRE:CHANNEL_GENRE>, por favor.
+-----------------
+[Dòng 3312] Por favor, comienza a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3318] [1.00] Por favor, empieza a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3324] [0.98] Por favor, empieza ya a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3334] [0.98] Por favor, comienza a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+-----------------
+[Dòng 3319] Sería fantástico si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3325] [0.99] Sería maravilloso si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3331] [0.99] Sería genial si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3337] [0.99] Sería estupendo si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+-----------------
+[Dòng 3342] ¿Podrías poner ahora en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3360] [0.99] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3368] [0.99] ¿Podrías poner en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3374] [0.98] ¿Podrías iniciar la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 3348] Sería genial si pudieras reproducirme el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3354] [0.99] Sería estupendo si pudieras reproducirme el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3362] [0.99] Sería genial si pudieras reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3370] [0.98] Sería estupendo si pudieras reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 3352] ¿Podrías ponerme en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3360] [0.97] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3366] [0.98] ¿Podrías iniciarme la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3368] [0.97] ¿Podrías poner en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 3358] ¿Podrías iniciar ya la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3360] [0.98] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3366] [0.98] ¿Podrías iniciarme la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3368] [0.97] ¿Podrías poner en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3374] [0.99] ¿Podrías iniciar la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 3360] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3366] [0.97] ¿Podrías iniciarme la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3368] [0.99] ¿Podrías poner en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3374] [0.98] ¿Podrías iniciar la reproducción del concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 3495] ¿Podrías reproducir para mí una entrevista interesante que hayan puesto este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>?
+	[Dòng 3503] [0.99] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>?
+	[Dòng 3511] [0.98] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3535] [0.97] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado?
+-----------------
+[Dòng 3502] Me encantaría ver una entrevista interesante que haya sido puesta este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3510] [1.00] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3518] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3526] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3534] [0.99] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3510] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3518] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3526] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3534] [0.99] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3537] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3545] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3553] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado.
+	[Dòng 3561] [0.99] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3569] [0.99] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3540] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3548] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3556] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3564] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>?
+	[Dòng 3572] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco?
+-----------------
+[Dòng 3541] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3549] [0.98] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3557] [0.97] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3565] [0.98] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>.
+	[Dòng 3573] [0.99] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco.
+-----------------
+[Dòng 3542] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3550] [1.00] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3558] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3566] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3574] [1.00] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3543] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3551] [0.98] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3559] [0.97] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3575] [0.97] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 3545] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3553] [1.00] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado.
+	[Dòng 3561] [0.99] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3569] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3546] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>? Me gustaría verla.
+	[Dòng 3554] [0.99] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>? Me gustaría verla.
+	[Dòng 3562] [0.99] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>? Me gustaría verla.
+	[Dòng 3570] [0.99] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco? Me gustaría verla.
+-----------------
+[Dòng 3547] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3555] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3563] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3571] [1.00] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3548] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3556] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3564] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>?
+	[Dòng 3572] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco?
+-----------------
+[Dòng 3549] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3557] [0.99] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3565] [0.98] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>.
+	[Dòng 3573] [0.98] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco.
+-----------------
+[Dòng 3550] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3558] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3566] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3574] [1.00] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3551] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3559] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3567] [0.98] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días y reproducirla?
+	[Dòng 3575] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 4811] ¿Podrías darme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4813] [0.99] ¿Puedes proporcionarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4815] [0.99] ¿Podrías facilitarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4818] [0.99] ¿Podrías proporcionar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, por favor?
+	[Dòng 4819] [1.00] ¿Me podrías dar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4821] [0.97] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4822] [0.99] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4827] [0.99] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.97] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4813] ¿Puedes proporcionarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4815] [0.99] ¿Podrías facilitarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4818] [0.99] ¿Podrías proporcionar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, por favor?
+	[Dòng 4819] [0.99] ¿Me podrías dar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4821] [0.97] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4822] [0.99] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4827] [0.99] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [1.00] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4815] ¿Podrías facilitarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4818] [0.99] ¿Podrías proporcionar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, por favor?
+	[Dòng 4819] [0.99] ¿Me podrías dar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4821] [0.98] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4822] [0.99] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4827] [0.99] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4817] Me interesa la información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿puedes ayudarme?
+	[Dòng 4818] [0.97] ¿Podrías proporcionar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, por favor?
+	[Dòng 4821] [0.98] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4828] [0.97] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4818] ¿Podrías proporcionar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, por favor?
+	[Dòng 4819] [0.99] ¿Me podrías dar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4821] [0.98] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4822] [0.98] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4827] [0.99] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4819] ¿Me podrías dar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4821] [0.97] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4822] [0.98] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4827] [0.98] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.97] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4821] Busco información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>, ¿me puedes ayudar?
+	[Dòng 4828] [0.97] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.98] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.97] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4822] ¿Podrías ofrecerme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4825] [0.98] ¿Podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE> para mí?
+	[Dòng 4827] [0.99] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.97] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.98] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.98] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4827] ¿Podrías proporcionarme alguna información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4828] [0.99] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.98] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4840] [0.97] ¿Puedes mostrarme alguna breve información interesante sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 4828] ¿Puedes conseguirme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4831] [0.98] ¿Podrías ayudarme a encontrar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4833] [0.99] ¿Podrías mostrarme información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4834] [0.99] ¿Me podrías buscar información sobre <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+	[Dòng 4838] [0.99] ¿Puedes darme información acerca de <GENRE:GENRE>películas</GENRE:GENRE> <GENRE:GENRE>románticas</GENRE:GENRE>?
+-----------------
+[Dòng 7845] Necesito saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7853] [0.99] Necesito averiguar ahora cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7856] [0.99] Necesito saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7860] [0.97] Me interesa saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7865] [0.99] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [1.00] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7871] [0.98] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7874] [0.99] Necesito descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 7848] Me interesa saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7851] [0.98] Me gustaría saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7857] [0.98] Me gustaría descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7863] [0.98] Me gustaría descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7866] [0.98] Me interesa conocer cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7873] [0.97] Quisiera averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+-----------------
+[Dòng 7849] Quisiera obtener información sobre la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7858] [0.98] Quiero obtener información sobre la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7864] [1.00] Quiero obtener información acerca de la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7867] [0.99] Quisiera obtener información sobre la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+-----------------
+[Dòng 7851] Me gustaría saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7857] [0.98] Me gustaría descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7860] [0.97] Me interesa saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7863] [0.99] Me gustaría descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> más exitosa del <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+-----------------
+[Dòng 7853] Necesito averiguar ahora cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7856] [0.98] Necesito saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7865] [0.99] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [0.99] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7871] [0.98] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7874] [0.99] Necesito descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 7856] Necesito saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7860] [0.98] Me interesa saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+	[Dòng 7865] [0.98] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [0.99] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7871] [0.99] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7874] [0.99] Necesito descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 7858] Quiero obtener información sobre la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7864] [0.98] Quiero obtener información acerca de la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7867] [0.98] Quisiera obtener información sobre la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, actívala.
+	[Dòng 7872] [0.97] Me interesa obtener información acerca de la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Por favor, ponla en reproducción.
+-----------------
+[Dòng 7865] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [0.99] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7871] [0.98] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año anterior, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7874] [0.98] Necesito descubrir cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> con mayor éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 8986] Me encantaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla?
+	[Dòng 8994] [0.99] Me gustaría escuchar ahora la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla?
+	[Dòng 9002] [0.99] Me gustaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla ahora?
+	[Dòng 9010] [0.99] Me gustaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla?
+-----------------
+[Dòng 9225] Me agradaría si encuentras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+	[Dòng 9232] [0.98] Me agradaría si encontrases <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+	[Dòng 9239] [0.97] Me agradaría si encontraras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+	[Dòng 9260] [0.99] Me agradaría si encuentras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+-----------------
+[Dòng 9229] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías ponerlas en reproducción?
+	[Dòng 9236] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas?
+	[Dòng 9243] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y reproducirlas?
+	[Dòng 9250] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y ponerlas en reproducción?
+	[Dòng 9257] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas por favor?
+-----------------
+[Dòng 9231] ¿Podrías buscar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas perfectas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y ponerlas?
+	[Dòng 9245] [0.98] ¿Podrías buscar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas perfectas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y reproducirlas?
+	[Dòng 9252] [0.98] ¿Podrías buscar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas perfectas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y ponerlas en reproducción?
+	[Dòng 9259] [0.98] ¿Podrías buscar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas perfectas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y ponerlas en reproducción por favor?
+-----------------
+[Dòng 9232] Me agradaría si encontrases <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+	[Dòng 9239] [0.99] Me agradaría si encontraras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+	[Dòng 9246] [0.97] Me agradaría si encuentras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las reproduces.
+	[Dòng 9260] [0.99] Me agradaría si encuentras <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas ideales para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT> y las pones en reproducción.
+-----------------
+[Dòng 9236] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas?
+	[Dòng 9243] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y reproducirlas?
+	[Dòng 9250] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y ponerlas en reproducción?
+	[Dòng 9257] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas por favor?
+-----------------
+[Dòng 9237] Me encantaría escuchar ya <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y sintonizarlas?
+	[Dòng 9244] [0.98] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y ponerlas?
+	[Dòng 9251] [0.98] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y reproducirlas?
+	[Dòng 9258] [1.00] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y sintonizarlas?
+-----------------
+[Dòng 10637] Me gustaría que agregaras más <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> a la lista de reproducción, por favor.
+	[Dòng 10641] [1.00] Me agradaría que agregaras más <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> a la lista de reproducción, por favor.
+	[Dòng 10650] [0.99] Quisiera que agregaras más <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> a la lista de reproducción, por favor.
+	[Dòng 10652] [0.98] Me agradaría que añadieras más <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> en la lista de reproducción, por favor.
+-----------------
+[Dòng 11233] ¿Podrías ponerme mi lista de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>country</GENRE:GENRE>? Hace mucho que no la escucho.
+	[Dòng 11239] [0.99] ¿Podrías poner mi lista de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>country</GENRE:GENRE>? Hace mucho tiempo que no la escucho.
+	[Dòng 11243] [0.97] ¿Podrías poner mi lista de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>country</GENRE:GENRE>? Hace mucho que no la pongo.
+	[Dòng 11249] [0.99] ¿Podrías poner mi lista de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>country</GENRE:GENRE>? Hace tiempo que no la escucho.
+-----------------
+[Dòng 11316] ¿Serías tan amable de reproducir ya mi lista de <GENRE:GENRE>rock</GENRE:GENRE> <GENRE:GENRE>alternativo</GENRE:GENRE>, por favor?
+	[Dòng 11324] [0.99] ¿Serías tan amable de reproducirme mi lista de <GENRE:GENRE>rock</GENRE:GENRE> <GENRE:GENRE>alternativo</GENRE:GENRE>, por favor?
+	[Dòng 11332] [0.98] Hola, ¿serías tan amable de reproducir mi lista de <GENRE:GENRE>rock</GENRE:GENRE> <GENRE:GENRE>alternativo</GENRE:GENRE>, por favor?
+	[Dòng 11340] [0.99] ¿Serías tan amable de reproducir mi lista de <GENRE:GENRE>rock</GENRE:GENRE> <GENRE:GENRE>alternativo</GENRE:GENRE>, por favor?
+-----------------
+[Dòng 11478] ¿Existe alguna lista de reproducción que haya creado para animar una fiesta de cumpleaños? Por favor, inicia su reproducción.
+	[Dòng 11489] [0.98] ¿Existe una lista de reproducción que haya creado para animar una fiesta de cumpleaños? Por favor, ponla en marcha.
+	[Dòng 11499] [0.98] ¿Existe alguna lista de reproducción que haya creado para animar una fiesta de cumpleaños? Por favor, ponla en marcha ahora.
+	[Dòng 11509] [0.99] ¿Existe alguna lista de reproducción que haya creado para animar una fiesta de cumpleaños? Por favor, ponla en marcha.
+-----------------
+[Dòng 11762] Me gustaría encontrar una lista de reproducción que contenga <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> del <GENRE:GENRE>glam-rock</GENRE:GENRE>, ¿hay alguna disponible?
+	[Dòng 11772] [0.98] Estoy interesada en encontrar una lista de reproducción con <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> del <GENRE:GENRE>glam-rock</GENRE:GENRE>, ¿sabes si hay alguna disponible?
+	[Dòng 11776] [0.98] Me gustaría encontrar una lista de reproducción con <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> del <GENRE:GENRE>glam-rock</GENRE:GENRE>, ¿existe alguna disponible?
+	[Dòng 11781] [0.98] Estoy interesado en encontrar una lista de reproducción con <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> del <GENRE:GENRE>glam-rock</GENRE:GENRE>, ¿sabes si hay alguna disponible?
+-----------------
+[Dòng 12590] Por favor, muéstrame un resumen de las <GENRE:GENRE>noticias</GENRE:GENRE> <THEME:CONTENT>deportivas</THEME:CONTENT> de este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, cuando puedas.
+	[Dòng 12602] [0.98] Por favor, muéstrame un resumen de las <GENRE:GENRE>noticias</GENRE:GENRE> <THEME:CONTENT>deportivas</THEME:CONTENT> de este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 12608] [0.97] Por favor, dame un resumen de las <GENRE:GENRE>noticias</GENRE:GENRE> <THEME:CONTENT>deportivas</THEME:CONTENT> de este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 12618] [0.97] Por favor, pon a mi disposición un resumen de las <GENRE:GENRE>noticias</GENRE:GENRE> <THEME:CONTENT>deportivas</THEME:CONTENT> de este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 12621] Hola, me interesa saber si hay alguna noticia relevante sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>. ¿Podrías mostrármelas, por favor?
+	[Dòng 12627] [0.99] Necesito saber si hay alguna noticia relevante sobre cotizaciones bursátiles durante el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME> por la tarde. ¿Puedes mostrármelas, por favor?
+	[Dòng 12632] [0.98] Quisiera ver si hay alguna noticia importante sobre cotizaciones bursátiles durante el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME> por la tarde. ¿Podrías mostrármela, por favor?
+	[Dòng 12637] [0.99] Me interesa saber si hay alguna noticia relevante sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>. ¿Podrías mostrármelas, por favor?
+-----------------
+[Dòng 12627] Necesito saber si hay alguna noticia relevante sobre cotizaciones bursátiles durante el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME> por la tarde. ¿Puedes mostrármelas, por favor?
+	[Dòng 12632] [0.98] Quisiera ver si hay alguna noticia importante sobre cotizaciones bursátiles durante el <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME> por la tarde. ¿Podrías mostrármela, por favor?
+	[Dòng 12633] [0.97] Por favor, ¿puedes proporcionarme información sobre alguna noticia relevante sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>?
+	[Dòng 12635] [0.98] Por favor, ¿hay alguna noticia relevante sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>? Me gustaría verlas, por favor.
+	[Dòng 12636] [0.97] ¿Podrías informarme si hay alguna noticia destacada sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>? Muéstramelas, por favor.
+	[Dòng 12637] [0.99] Me interesa saber si hay alguna noticia relevante sobre cotizaciones bursátiles durante la tarde del <DT_WEEKDAY:DATETIME>viernes</DT_WEEKDAY:DATETIME>. ¿Podrías mostrármelas, por favor?
+-----------------
+[Dòng 12699] ¿Puedes mostrarme información sobre la previsión de lluvias en las <GENRE:GENRE>noticias</GENRE:GENRE> de <DT_REL:DATETIME>esta</DT_REL:DATETIME> <DT_REL_DAYTIME:DATETIME>mañana</DT_REL_DAYTIME:DATETIME>?
+	[Dòng 12703] [0.98] ¿Podrías proporcionarme información sobre las <GENRE:GENRE>noticias</GENRE:GENRE> de <DT_REL:DATETIME>esta</DT_REL:DATETIME> <DT_REL_DAYTIME:DATETIME>mañana</DT_REL_DAYTIME:DATETIME> acerca de la previsión de lluvias?
+	[Dòng 12713] [0.98] ¿Podrías proporcionarme datos sobre las <GENRE:GENRE>noticias</GENRE:GENRE> de <DT_REL:DATETIME>esta</DT_REL:DATETIME> <DT_REL_DAYTIME:DATETIME>mañana</DT_REL_DAYTIME:DATETIME> acerca de la previsión de lluvias?
+	[Dòng 12720] [0.99] ¿Podrías proporcionarme datos sobre la previsión de lluvias en las <GENRE:GENRE>noticias</GENRE:GENRE> de <DT_REL:DATETIME>esta</DT_REL:DATETIME> <DT_REL_DAYTIME:DATETIME>mañana</DT_REL_DAYTIME:DATETIME>?
+-----------------
+[Dòng 13137] ¿Podrías proporcionarme información sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 13142] [0.97] ¿Podrías darme un informe sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 13152] [0.98] ¿Podrías darme detalles sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 13162] [0.99] ¿Podrías proporcionarme información sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME> en día?
+-----------------
+[Dòng 13138] Por favor, dime cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>.
+	[Dòng 13144] [0.97] Solicito que me digas cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>.
+	[Dòng 13146] [0.97] Necesito saber cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor.
+	[Dòng 13163] [0.99] Por favor, dime cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME> en día.
+-----------------
+[Dòng 13211] ¿Me puedes decir cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>?
+	[Dòng 13236] [0.98] ¿Me puedes decir cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>?
+	[Dòng 13248] [0.97] ¿Me puedes decir cuáles son las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas del <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 13273] [0.97] ¿Me puedes decir cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 13213] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>, por favor.
+	[Dòng 13215] [0.97] Solicito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>, por favor.
+	[Dòng 13223] [0.98] Quiero conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>, por favor.
+	[Dòng 13238] [0.97] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>, por favor.
+-----------------
+[Dòng 13214] ¿Serías tan amable de decirme cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>?
+	[Dòng 13239] [0.99] ¿Serías tan amable de decirme cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>?
+	[Dòng 13251] [0.97] ¿Sería tan amable de decirme cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 13276] [0.97] ¿Serías tan amable de decirme cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 13216] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>.
+	[Dòng 13241] [0.99] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>.
+	[Dòng 13253] [0.97] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+	[Dòng 13278] [0.98] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 13222] ¿Podrías darme un informe sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas de la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>?
+	[Dòng 13232] [0.97] ¿Podrías darme detalles sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>?
+	[Dòng 13242] [0.97] ¿Podrías proporcionarme información sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>?
+	[Dòng 13259] [0.97] ¿Podrías darme un informe sobre las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 13223] Quiero conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>, por favor.
+	[Dòng 13238] [0.98] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>, por favor.
+	[Dòng 13260] [0.97] Quiero conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas del <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+	[Dòng 13275] [0.97] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+-----------------
+[Dòng 13250] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas del <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+	[Dòng 13252] [0.97] Solicito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas del <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+	[Dòng 13260] [0.99] Quiero conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas del <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+	[Dòng 13275] [0.99] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más comentadas durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>, por favor.
+-----------------
+[Dòng 13281] Quisiera saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas durante el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>.
+	[Dòng 13299] [0.98] Necesito saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas en el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+	[Dòng 13318] [0.99] Quiero saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas en el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>.
+	[Dòng 13321] [0.97] Dime cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas en el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>.
+-----------------
+[Dòng 13286] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+	[Dòng 13288] [0.98] Solicito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+	[Dòng 13296] [0.98] Quiero conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas en el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+	[Dòng 13311] [0.99] Necesito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas durante el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+	[Dòng 13313] [0.97] Solicito conocer las <GENRE:GENRE>noticias</GENRE:GENRE> más vistas durante el año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, por favor.
+-----------------
+[Dòng 13596] Por favor, ajusta el volumen de la <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> en el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> <QT_DIGIT:VOLUME>5</QT_DIGIT:VOLUME>.
+	[Dòng 13604] [0.99] Por favor, ajuste el volumen de la <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> al <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> <QT_DIGIT:VOLUME>5</QT_DIGIT:VOLUME>.
+	[Dòng 13608] [0.97] Por favor, establezca el volumen de la <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> en el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> <QT_DIGIT:VOLUME>5</QT_DIGIT:VOLUME>.
+	[Dòng 13619] [1.00] Por favor, ajuste el volumen de la <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> en el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> <QT_DIGIT:VOLUME>5</QT_DIGIT:VOLUME>.
+-----------------
+[Dòng 13627] Por favor, incrementa el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>.
+	[Dòng 13636] [0.98] Por favor, incrementa el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13649] [0.98] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> más.
+	[Dòng 13654] [0.97] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13658] [0.98] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> extra.
+	[Dòng 13661] [0.97] Incrementa en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de navegación, por favor.
+-----------------
+[Dòng 13636] Por favor, incrementa el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13640] [0.97] Por favor, aumenta el volumen de navegación como en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> extra.
+	[Dòng 13645] [0.97] Por favor, sube el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13654] [0.99] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13658] [0.99] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> extra.
+-----------------
+[Dòng 13640] Por favor, aumenta el volumen de navegación como en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> extra.
+	[Dòng 13649] [0.97] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> más.
+	[Dòng 13654] [0.98] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> adicional.
+	[Dòng 13658] [0.99] Por favor, aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> extra.
+-----------------
+[Dòng 13694] ¿Es factible aumentar el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13697] [0.98] ¿Es factible subir el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13705] [0.97] ¿Es realizable incrementar el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13713] [0.97] ¿Es realizable aumentar el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+-----------------
+[Dòng 13698] ¿Se podría elevar al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de la navegación?
+	[Dòng 13706] [0.98] ¿Se puede elevar el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13714] [0.97] ¿Se puede elevar al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de la navegación, por favor?
+	[Dòng 13722] [0.99] ¿Se puede elevar al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de la navegación?
+-----------------
+[Dòng 13699] ¿Es posible aumentar al máximo el volumen de la navegación, por favor?
+	[Dòng 13710] [0.97] ¿Se puede incrementar al máximo el volumen de la navegación, por favor?
+	[Dòng 13715] [0.97] ¿Es posible incrementar al máximo el volumen de la navegación?
+	[Dòng 13723] [0.99] ¿Es posible aumentar al máximo el volumen de la navegación?
+-----------------
+[Dòng 13706] ¿Se puede elevar el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13712] [0.97] ¿Se puede subir el volumen de la navegación al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>?
+	[Dòng 13714] [0.98] ¿Se puede elevar al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de la navegación, por favor?
+	[Dòng 13722] [0.99] ¿Se puede elevar al <QT_DIGIT:PERCENTAGE>100</QT_DIGIT:PERCENTAGE> <QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> el volumen de la navegación?
+-----------------
+[Dòng 13838] ¿Podrías cambiar el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> del volumen del navegador GPS a <QT_DIGIT:VOLUME>3</QT_DIGIT:VOLUME>, por favor?
+	[Dòng 13843] [0.98] ¿Podrías modificar el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> de volumen del navegador GPS para que sea <QT_DIGIT:VOLUME>3</QT_DIGIT:VOLUME>, por favor?
+	[Dòng 13850] [0.98] ¿Podrías cambiar el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> del volumen del navegador GPS al <QT_DIGIT:VOLUME>3</QT_DIGIT:VOLUME>?
+	[Dòng 13855] [0.98] ¿Podrías modificar el <QT_LEVEL_UNIT:VOLUME>nivel</QT_LEVEL_UNIT:VOLUME> de volumen del navegador GPS a <QT_DIGIT:VOLUME>3</QT_DIGIT:VOLUME>, por favor?
+-----------------
+[Dòng 14012] Activa el sonido a través de <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+	[Dòng 14030] [0.99] Activa el sonido por <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+	[Dòng 14039] [0.98] Activa el audio de <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+	[Dòng 14048] [0.97] Activa el sonido <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+-----------------
+[Dòng 14151] Por favor, detén la reproducción por <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>.
+	[Dòng 14164] [0.98] Detén la reproducción mediante <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+	[Dòng 14168] [0.99] Detén la reproducción por <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>, por favor.
+	[Dòng 14169] [0.98] Por favor, detén la reproducción por medio de <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>.
+	[Dòng 14171] [0.98] Por favor, interrumpe la reproducción por <OP_MODE:OPERATION>Bluetooth</OP_MODE:OPERATION>.
+-----------------
+[Dòng 14201] ¿Me puedes dar información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14202] [0.98] ¿Podrías facilitarme información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14218] [0.99] ¿Me podrías brindar información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14227] [0.98] ¿Me podrías facilitar algo de información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14231] [0.97] ¿Podrías decirme algo de información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14250] [0.97] ¿Podrías proporcionarme algo de información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+-----------------
+[Dòng 14207] ¿Podrías contarme más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14210] [0.97] ¿Podrías decirme algo más de información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14212] [0.99] ¿Me podrías dar más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14215] [0.99] ¿Puedes decirme más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14223] [0.97] ¿Podrías contarme algo sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT> con más información?
+-----------------
+[Dòng 14209] Me gustaría saber más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>.
+	[Dòng 14221] [0.98] Me gustaría descubrir más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>.
+	[Dòng 14230] [0.98] Me interesa saber más con información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>.
+	[Dòng 14234] [0.98] Me gustaría tener más información sobre este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>.
+-----------------
+[Dòng 14252] ¿Me puedes proporcionar información acerca del canal?
+	[Dòng 14255] [0.98] ¿Podrías facilitarme información acerca del canal?
+	[Dòng 14257] [0.98] ¿Puedes darme algunos datos con información acerca del canal?
+	[Dòng 14271] [0.98] ¿Me podrías facilitar algo de información acerca del canal?
+	[Dòng 14281] [0.98] ¿Me podrías revelar información acerca del canal?
+	[Dòng 14283] [0.97] ¿Podrías mostrarme información acerca del canal?
+-----------------
+[Dòng 14309] ¿Podrías revelarme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14313] [0.98] ¿Podrías hacer el favor de decirme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14330] [0.98] ¿Podrías contarme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14342] [0.98] ¿Podrías mencionarme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+-----------------
+[Dòng 14313] ¿Podrías hacer el favor de decirme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14330] [0.98] ¿Podrías contarme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14333] [0.98] ¿Tendrías la cortesía de decirme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+	[Dòng 14342] [0.98] ¿Podrías mencionarme cómo se llama este <RECORDING_TYPE:CONTENT>programa</RECORDING_TYPE:CONTENT>?
+-----------------
+[Dòng 14528] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que más disfruto escuchar en este momento, por favor.
+	[Dòng 14534] [0.97] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que más me gustan escuchar en este momento, por favor.
+	[Dòng 14540] [0.99] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que más disfruto escuchar en estos momentos, por favor.
+	[Dòng 14546] [0.97] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que más me gustan escuchar en estos momentos, por favor.
+-----------------
+[Dòng 14612] Sería estupendo repetir la experiencia de ver nuevamente la <GENRE:GENRE>película</GENRE:GENRE> que <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> vi.
+	[Dòng 14621] [0.98] Sería estupendo repetir la experiencia de ver la <GENRE:GENRE>película</GENRE:GENRE> que <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> vi.
+	[Dòng 14630] [0.98] Sería estupendo repetir la experiencia de ver ahora la <GENRE:GENRE>película</GENRE:GENRE> que vi <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+	[Dòng 14648] [0.98] Sería estupendo repetir la experiencia de ver la <GENRE:GENRE>película</GENRE:GENRE> que vi <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 2034] ¿Sería factible ver el canal de <GENRE:CHANNEL_GENRE>tenis</GENRE:CHANNEL_GENRE>, por favor?
+	[Dòng 2045] [0.98] ¿Sería aceptable ver el canal de <GENRE:CHANNEL_GENRE>tenis</GENRE:CHANNEL_GENRE>, por favor?
+	[Dòng 2051] [0.97] ¿Sería aceptado ver el canal de <GENRE:CHANNEL_GENRE>tenis</GENRE:CHANNEL_GENRE>, por favor?
+	[Dòng 2060] [0.98] ¿Sería factible otorgarme el canal de <GENRE:CHANNEL_GENRE>tenis</GENRE:CHANNEL_GENRE>, por favor?
+-----------------
+[Dòng 3313] Sería estupendo si pudieras iniciar ya la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3325] [0.97] Sería maravilloso si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3331] [0.97] Sería genial si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3337] [1.00] Sería estupendo si pudieras iniciar la reproducción de la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que estrenaron <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+-----------------
+[Dòng 3318] Por favor, empieza a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3324] [0.99] Por favor, empieza ya a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3330] [0.98] Por favor, empiece a reproducir ya la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+	[Dòng 3336] [0.98] Por favor, empiece a reproducir la <GENRE:GENRE>película</GENRE:GENRE> de <GENRE:GENRE>animación</GENRE:GENRE> que fue estrenada <DT_REL_DAYTIME:DATETIME>anoche</DT_REL_DAYTIME:DATETIME>.
+-----------------
+[Dòng 3342] ¿Podrías poner ahora en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3350] [0.97] ¿Podrías poner a reproducir ahora el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3352] [0.98] ¿Podrías ponerme en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3360] [0.99] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3368] [0.99] ¿Podrías poner en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+-----------------
+[Dòng 3347] Por favor, ponme en marcha el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3357] [0.98] Por favor, pon en marcha ya el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3365] [0.99] Por favor, ponme en marcha ahora el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3373] [0.98] Por favor, pon en marcha el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 3348] Sería genial si pudieras reproducirme el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3354] [0.97] Sería estupendo si pudieras reproducirme el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3362] [0.99] Sería genial si pudieras reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+	[Dòng 3370] [0.97] Sería estupendo si pudieras reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 3350] ¿Podrías poner a reproducir ahora el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3356] [0.99] ¿Podrías poner a reproducir ya el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3364] [0.98] ¿Podrías ponerme a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3372] [0.99] ¿Podrías poner a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3382] [0.97] ¿Podrías poner a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 3356] ¿Podrías poner a reproducir ya el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3360] [0.97] ¿Podrías poner ya en reproducción el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>, por favor?
+	[Dòng 3364] [0.99] ¿Podrías ponerme a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3372] [0.99] ¿Podrías poner a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han transmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+	[Dòng 3382] [0.98] ¿Podrías poner a reproducir el concierto de <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>clásica</GENRE:GENRE> que han retransmitido este <DT_WEEKDAY:DATETIME>domingo</DT_WEEKDAY:DATETIME>?
+-----------------
+[Dòng 3492] Necesito ver una entrevista interesante que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>.
+	[Dòng 3500] [0.98] Necesito ver una entrevista interesante que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el pasado <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3508] [0.98] Necesito ver una entrevista interesante que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado.
+	[Dòng 3532] [0.97] Necesito ver una entrevista interesante que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 3494] Me encantaría ver una entrevista interesante que haya sido emitida este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes mostrármela?
+	[Dòng 3502] [0.99] Me encantaría ver una entrevista interesante que haya sido puesta este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3510] [0.99] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3518] [0.97] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3526] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3534] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3495] ¿Podrías reproducir para mí una entrevista interesante que hayan puesto este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>?
+	[Dòng 3503] [0.99] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>?
+	[Dòng 3511] [0.98] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3535] [0.97] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado?
+-----------------
+[Dòng 3498] ¿Podrías buscarme una entrevista interesante que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> y reproducirla?
+	[Dòng 3506] [0.99] ¿Podrías buscarme una entrevista interesante que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> y reproducirla?
+	[Dòng 3514] [0.99] ¿Podrías buscarme una entrevista interesante que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3530] [0.97] ¿Podrías buscarme una entrevista interesante que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 3499] Quiero presenciar una entrevista interesante que hayan exhibido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes mostrarla?
+	[Dòng 3507] [0.98] Quiero presenciar una entrevista interesante que hayan exhibido durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes mostrármela?
+	[Dòng 3515] [0.98] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes mostrármela?
+	[Dòng 3523] [0.97] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>. ¿Puedes mostrármela?
+	[Dòng 3531] [0.97] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes mostrármela?
+-----------------
+[Dòng 3501] ¿Sabes si pasaron alguna entrevista interesante en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>? Me gustaría verla.
+	[Dòng 3509] [0.99] ¿Sabes si pasaron alguna entrevista interesante en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>? Me gustaría verla.
+	[Dòng 3517] [0.98] ¿Sabes si pasaron alguna entrevista interesante en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>? Me gustaría verla.
+	[Dòng 3533] [0.98] ¿Sabes si pasaron alguna entrevista interesante en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el fin de <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>? Me gustaría verla.
+-----------------
+[Dòng 3502] Me encantaría ver una entrevista interesante que haya sido puesta este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3510] [1.00] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3518] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3526] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3534] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3503] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>?
+	[Dòng 3511] [0.99] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3519] [0.97] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>?
+	[Dòng 3535] [0.98] ¿Podrías reproducir para mí una entrevista interesante que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado?
+-----------------
+[Dòng 3506] ¿Podrías buscarme una entrevista interesante que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> y reproducirla?
+	[Dòng 3514] [1.00] ¿Podrías buscarme una entrevista interesante que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3522] [0.97] ¿Podrías buscarme una entrevista interesante que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días y reproducirla?
+	[Dòng 3530] [0.97] ¿Podrías buscarme una entrevista interesante que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 3507] Quiero presenciar una entrevista interesante que hayan exhibido durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE>. ¿Puedes mostrármela?
+	[Dòng 3515] [1.00] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes mostrármela?
+	[Dòng 3523] [0.98] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>. ¿Puedes mostrármela?
+	[Dòng 3531] [0.98] Quiero presenciar una entrevista interesante que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes mostrármela?
+-----------------
+[Dòng 3510] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3518] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3526] [0.98] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3534] [0.99] Me encantaría ver una entrevista interesante que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>noticias</GENRE:CHANNEL_GENRE> durante el <DT_RECENT:DATETIME>último</DT_RECENT:DATETIME> <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3537] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3545] [0.97] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3553] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado.
+	[Dòng 3561] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3569] [0.99] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3538] ¿Sabes si pusieron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>? Me gustaría verla.
+	[Dòng 3546] [0.98] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>? Me gustaría verla.
+	[Dòng 3562] [0.97] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>? Me gustaría verla.
+	[Dòng 3570] [0.97] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco? Me gustaría verla.
+-----------------
+[Dòng 3539] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido emitida en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes mostrármela?
+	[Dòng 3547] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3555] [0.98] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3563] [0.98] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3571] [0.98] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3540] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3548] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3556] [0.97] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3564] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>?
+	[Dòng 3572] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco?
+-----------------
+[Dòng 3542] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3550] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3558] [0.98] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3566] [0.98] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3574] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3543] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3551] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3559] [0.97] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3567] [0.98] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días y reproducirla?
+	[Dòng 3575] [0.98] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 3544] Quiero presenciar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes mostrarla?
+	[Dòng 3552] [0.98] Quiero presenciar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan exhibido durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes mostrármela?
+	[Dòng 3560] [0.98] Quiero presenciar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes mostrármela?
+	[Dòng 3568] [0.99] Quiero presenciar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan exhibido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>. ¿Puedes mostrármela?
+-----------------
+[Dòng 3545] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+	[Dòng 3549] [0.97] Quisiera ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan colocado durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3553] [0.99] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> pasado.
+	[Dòng 3561] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3569] [0.98] Necesito ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan puesto en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3546] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>? Me gustaría verla.
+	[Dòng 3554] [0.97] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>? Me gustaría verla.
+	[Dòng 3562] [0.99] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>últimamente</DT_RECENT:DATETIME>? Me gustaría verla.
+	[Dòng 3570] [0.98] ¿Sabes si pasaron la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco? Me gustaría verla.
+-----------------
+[Dòng 3547] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>. ¿Puedes enseñármela?
+	[Dòng 3555] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>. ¿Puedes enseñármela?
+	[Dòng 3563] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días. ¿Puedes enseñármela?
+	[Dòng 3571] [0.99] Me encantaría ver la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que haya sido puesta en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>. ¿Puedes enseñármela?
+-----------------
+[Dòng 3548] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>?
+	[Dòng 3556] [0.98] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> durante este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>?
+	[Dòng 3564] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>?
+	[Dòng 3572] [0.99] ¿Podrías reproducir para mí la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan emitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco?
+-----------------
+[Dòng 3550] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3558] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE>.
+	[Dòng 3566] [0.98] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días.
+	[Dòng 3574] [0.99] Me gustaría visualizar la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan transmitido en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 3551] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3559] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado este <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME> en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> y reproducirla?
+	[Dòng 3567] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> en los <DT_RECENT:DATETIME>últimos</DT_RECENT:DATETIME> días y reproducirla?
+	[Dòng 3575] [0.99] ¿Podrías buscarme la repetición del partido de fútbol de este <DT_WEEKDAY:DATETIME>sábado</DT_WEEKDAY:DATETIME> que hayan pasado en el canal de <GENRE:CHANNEL_GENRE>deportes</GENRE:CHANNEL_GENRE> hace poco y reproducirla?
+-----------------
+[Dòng 5807] Estoy interesado en escuchar <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> <GENRE:GENRE>jazz</GENRE:GENRE> en este momento, ¿podrías poner una canción, por favor?
+	[Dòng 5816] [0.98] Estoy interesado en escuchar <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>jazz</GENRE:GENRE> en este momento, ¿puedes poner una <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> para mí?
+	[Dòng 5824] [0.98] Estoy interesado en escuchar <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>jazz</GENRE:GENRE> en este momento, ¿podrías poner una <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> relacionada?
+	[Dòng 5832] [0.97] Estoy interesado en escuchar <CONTENT_TYPE:CONTENT>música</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>jazz</GENRE:GENRE> en este momento, ¿puedes poner una <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> relacionada?
+-----------------
+[Dòng 7845] Necesito saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7850] [0.98] Necesito conocer cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7853] [0.98] Necesito averiguar ahora cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7865] [0.98] Deseo saber cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [0.99] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 7850] Necesito conocer cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el <DT_REL_YEAR:DATETIME>año pasado</DT_REL_YEAR:DATETIME>, <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7853] [0.98] Necesito averiguar ahora cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7862] [0.98] Necesito conocer la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+	[Dòng 7868] [0.98] Necesito averiguar cuál fue la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> que tuvo más éxito en el año <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>. Te pido que la reproduzcas, por favor.
+-----------------
+[Dòng 8051] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> destacadas de los años <DT_YEAR:DATETIME>2010</DT_YEAR:DATETIME> en Francia. ¿Podrías ponerme alguna?
+	[Dòng 8057] [1.00] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> destacadas de los años <DT_YEAR:DATETIME>2000</DT_YEAR:DATETIME> en Francia. ¿Podrías ponerme alguna?
+	[Dòng 8066] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> destacadas de los años <DT_YEAR:DATETIME>60</DT_YEAR:DATETIME> en Francia. ¿Podrías ponerme alguna ahora?
+	[Dòng 8072] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> destacadas de los años <DT_YEAR:DATETIME>60</DT_YEAR:DATETIME> en Francia. ¿Podrías ponerme alguna?
+-----------------
+[Dòng 8179] ¿Serías tan amable de ponerme en reproducción <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de heavy metal de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8186] [0.98] ¿Serías tan amable de poner ya en reproducción <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de heavy metal de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, por favor?
+	[Dòng 8195] [1.00] ¿Serías tan amable de poner ya en reproducción <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de heavy metal de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8204] [0.99] ¿Serías tan amable de poner en reproducción <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de heavy metal de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+-----------------
+[Dòng 8208] ¿Serías tan amable de ponerme en reproducción la <GENRE:GENRE>balada</GENRE:GENRE> más conocida del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>?
+	[Dòng 8215] [0.98] ¿Serías tan amable de poner ya en reproducción la <GENRE:GENRE>balada</GENRE:GENRE> más famosa del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>?
+	[Dòng 8224] [0.99] ¿Serías tan amable de poner en reproducción la <GENRE:GENRE>balada</GENRE:GENRE> más conocida del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>?
+	[Dòng 8233] [0.98] ¿Serías tan amable de poner en reproducción la <GENRE:GENRE>balada</GENRE:GENRE> más famosa del año <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>?
+-----------------
+[Dòng 8239] ¿Serías tan amable de ponerme en reproducción las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <GENRE:GENRE>pop</GENRE:GENRE> más <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8246] [0.97] ¿Serías tan amable de poner ahora en reproducción las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <GENRE:GENRE>pop</GENRE:GENRE> más destacadas de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8263] [0.98] ¿Serías tan amable de poner en reproducción las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <GENRE:GENRE>pop</GENRE:GENRE> más destacadas de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8272] [0.99] ¿Serías tan amable de poner en reproducción las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> <GENRE:GENRE>pop</GENRE:GENRE> más <POPULAR:POPULAR>famosas</POPULAR:POPULAR> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+-----------------
+[Dòng 8240] Puedes iniciar la reproducción de las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> más reconocidas del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, ¿verdad?
+	[Dòng 8256] [0.98] Puedes iniciar ya la reproducción de las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> más reconocidas del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, ¿cierto?
+	[Dòng 8264] [0.98] Puedes iniciar la reproducción de las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> más reconocidas del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, ¿si te parece?
+	[Dòng 8273] [0.98] Puedes iniciar la reproducción de las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> más reconocidas del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, ¿cierto?
+-----------------
+[Dòng 8241] ¿Podrías hacer sonar ya los éxitos más <POPULAR:POPULAR>populares</POPULAR:POPULAR> del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8248] [0.98] ¿Podrías hacer sonar los éxitos más <POPULAR:POPULAR>populares</POPULAR:POPULAR> del género <GENRE:GENRE>rock</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8257] [0.99] ¿Podrías hacer sonar ahora los éxitos más <POPULAR:POPULAR>populares</POPULAR:POPULAR> del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8265] [0.98] ¿Podrías hacer sonar los éxitos más <POPULAR:POPULAR>populares</POPULAR:POPULAR> del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, por favor?
+	[Dòng 8274] [0.99] ¿Podrías hacer sonar los éxitos más <POPULAR:POPULAR>populares</POPULAR:POPULAR> del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+-----------------
+[Dòng 8243] ¿Serías capaz de reproducir ya las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> de mayor éxito del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+	[Dòng 8250] [0.99] ¿Serías capaz de reproducir las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> de mayor éxito del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>70</DT_YEAR:DATETIME>?
+	[Dòng 8259] [0.99] ¿Serías capaz de reproducir ya las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> de mayor éxito del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>, por favor?
+	[Dòng 8267] [0.99] ¿Serías capaz de reproducir las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> de mayor éxito del género <GENRE:GENRE>pop</GENRE:GENRE> de los años <DT_YEAR:DATETIME>80</DT_YEAR:DATETIME>?
+-----------------
+[Dòng 8989] Por favor, ponme la <GENRE:GENRE>balada</GENRE:GENRE> más actual que se haya lanzado al mercado. Quiero escucharla.
+	[Dòng 8997] [0.99] Por favor, pon la <GENRE:GENRE>balada</GENRE:GENRE> más actual que se haya lanzado al mercado. Quiero escucharla ahora.
+	[Dòng 9005] [0.99] Por favor, pon la <GENRE:GENRE>balada</GENRE:GENRE> más actual que se haya lanzado al mercado. Quiero escucharla.
+	[Dòng 9075] [0.97] Por favor, pon la <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>reggaeton</GENRE:GENRE>  más actual que se haya lanzado al mercado. Quiero escucharla.
+-----------------
+[Dòng 8992] Asistente, ¿serías tan amable de poner ahora la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que se ha lanzado al mercado?
+	[Dòng 9000] [0.99] Asistente, ¿serías tan amable de poner ya la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que se ha lanzado al mercado?
+	[Dòng 9008] [0.99] Asistente, ¿serías tan amable de poner la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que se ha lanzado al mercado?
+	[Dòng 9065] [0.98] Asistente, ¿serías tan amable de poner la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> electrónica que se ha lanzado al mercado?
+	[Dòng 9070] [0.98] Asistente, ¿serías tan amable de ponerme la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>reggaeton</GENRE:GENRE>  que se ha lanzado al mercado?
+-----------------
+[Dòng 8994] Me gustaría escuchar ahora la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla?
+	[Dòng 9002] [1.00] Me gustaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla ahora?
+	[Dòng 9010] [0.99] Me gustaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que ha sido lanzada al mercado. ¿Podrías ponerla?
+	[Dòng 9067] [0.97] Me gustaría escuchar la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> rap que ha sido lanzada al mercado. ¿Podrías ponerla?
+-----------------
+[Dòng 9000] Asistente, ¿serías tan amable de poner ya la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que se ha lanzado al mercado?
+	[Dòng 9008] [1.00] Asistente, ¿serías tan amable de poner la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <GENRE:GENRE>balada</GENRE:GENRE> que se ha lanzado al mercado?
+	[Dòng 9065] [0.99] Asistente, ¿serías tan amable de poner la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> electrónica que se ha lanzado al mercado?
+	[Dòng 9070] [0.97] Asistente, ¿serías tan amable de ponerme la <DT_RECENT:DATETIME>última</DT_RECENT:DATETIME> <CONTENT_TYPE:CONTENT>canción</CONTENT_TYPE:CONTENT> de <GENRE:GENRE>reggaeton</GENRE:GENRE>  que se ha lanzado al mercado?
+-----------------
+[Dòng 9229] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías ponerlas en reproducción?
+	[Dòng 9236] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas?
+	[Dòng 9243] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y reproducirlas?
+	[Dòng 9250] [0.99] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y ponerlas en reproducción?
+	[Dòng 9257] [0.97] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas por favor?
+-----------------
+[Dòng 9236] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas?
+	[Dòng 9243] [0.99] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y reproducirlas?
+	[Dòng 9250] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías sintonizarlas y ponerlas en reproducción?
+	[Dòng 9257] [0.98] Quisiera escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas especialmente seleccionadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿podrías reproducirlas por favor?
+-----------------
+[Dòng 9237] Me encantaría escuchar ya <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y sintonizarlas?
+	[Dòng 9244] [0.98] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y ponerlas?
+	[Dòng 9251] [0.99] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y reproducirlas?
+	[Dòng 9258] [1.00] Me encantaría escuchar <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> románticas adecuadas para <QT_AGE:CONTENT>personas mayores</QT_AGE:CONTENT>, ¿puedes buscarlas y sintonizarlas?
+-----------------
+[Dòng 13176] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> de <DT_REL_DAY:DATETIME>ayer</DT_REL_DAY:DATETIME>.
+	[Dòng 13201] [0.98] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> en el <DT_REL_DAY:DATETIME>día pasado</DT_REL_DAY:DATETIME>.
+	[Dòng 13216] [0.97] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>.
+	[Dòng 13241] [0.97] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>.
+-----------------
+[Dòng 13201] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> en el <DT_REL_DAY:DATETIME>día pasado</DT_REL_DAY:DATETIME>.
+	[Dòng 13216] [0.99] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> la <DT_REL_WEEK:DATETIME>semana pasada</DT_REL_WEEK:DATETIME>.
+	[Dòng 13241] [0.98] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante la <DT_REL_WEEK:DATETIME>semana anterior</DT_REL_WEEK:DATETIME>.
+	[Dòng 13278] [0.97] Me gustaría saber cuáles fueron las <GENRE:GENRE>noticias</GENRE:GENRE> más <POPULAR:POPULAR>populares</POPULAR:POPULAR> durante el <DT_REL_WEEKDAY:DATETIME>fin de semana</DT_REL_WEEKDAY:DATETIME>.
+-----------------
+[Dòng 13641] Aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, de favor.
+	[Dòng 13651] [0.98] Sube el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, de favor.
+	[Dòng 13659] [1.00] Aumenta el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, por favor.
+	[Dòng 13660] [0.98] Sube el volumen de navegación en un <QT_DIGIT:PERCENTAGE_REL>1</QT_DIGIT:PERCENTAGE_REL><QT_DIGIT:PERCENTAGE_REL>0</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, por favor.
+-----------------
+[Dòng 13666] Por favor, sube el volumen de la navegación en <QT_DIGIT:VOLUME_REL>3</QT_DIGIT:VOLUME_REL> niveles, ¿puedes hacerlo?
+	[Dòng 13676] [0.98] Por favor, aumenta el volumen de la navegación en <QT_DIGIT:VOLUME_REL>3</QT_DIGIT:VOLUME_REL> niveles, ¿puedes hacerlo?
+	[Dòng 13681] [0.99] Por favor, aumenta en <QT_DIGIT:VOLUME_REL>3</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveles</QT_LEVEL_UNIT:VOLUME_REL> el volumen de la navegación, ¿puedes hacerlo?
+	[Dòng 13692] [0.99] Por favor, sube en <QT_DIGIT:VOLUME_REL>3</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveles</QT_LEVEL_UNIT:VOLUME_REL> el volumen de la navegación, ¿puedes hacerlo?
+-----------------
+[Dòng 14461] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he tenido en mis escuchas <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14467] [0.97] Ponme en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis momentos más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14473] [0.98] Ponme en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14491] [0.98] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis momentos más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14497] [0.98] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+-----------------
+[Dòng 14467] Ponme en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis momentos más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14473] [0.99] Ponme en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14491] [0.99] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis momentos más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14497] [0.98] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+-----------------
+[Dòng 14473] Ponme en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14485] [0.97] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más actuales.
+	[Dòng 14491] [0.98] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis momentos más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+	[Dòng 14497] [0.99] Pon en marcha las <CONTENT_TYPE:CONTENT>canciones</CONTENT_TYPE:CONTENT> que he escuchado en mis encuentros más <DT_RECENT:DATETIME>recientes</DT_RECENT:DATETIME> .
+-----------------
+[Dòng 14612] Sería estupendo repetir la experiencia de ver nuevamente la <GENRE:GENRE>película</GENRE:GENRE> que <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> vi.
+	[Dòng 14621] [0.99] Sería estupendo repetir la experiencia de ver la <GENRE:GENRE>película</GENRE:GENRE> que <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME> vi.
+	[Dòng 14630] [0.98] Sería estupendo repetir la experiencia de ver ahora la <GENRE:GENRE>película</GENRE:GENRE> que vi <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+	[Dòng 14648] [0.98] Sería estupendo repetir la experiencia de ver la <GENRE:GENRE>película</GENRE:GENRE> que vi <DT_RECENT:DATETIME>recientemente</DT_RECENT:DATETIME>.
+-----------------
+[Dòng 14617] Quisiera repetir la experiencia de ver nuevamente la <GENRE:GENRE>película</GENRE:GENRE> que vi hace poco.
+	[Dòng 14626] [0.98] Quisiera repetir la experiencia de ver nuevamente ahora la <GENRE:GENRE>película</GENRE:GENRE> que vi hace poco tiempo.
+	[Dòng 14635] [0.98] Quisiera repetir la experiencia de ver nuevamente la <GENRE:GENRE>película</GENRE:GENRE> que recién vi.
+	[Dòng 14644] [0.99] Quisiera repetir la experiencia de ver nuevamente la <GENRE:GENRE>película</GENRE:GENRE> que vi hace poco tiempo.
+-----------------
+[Dòng 14766] ¿Hace cuánto tiempo que estoy prendido/a a esta <RECORDING_TYPE:CONTENT>serie</RECORDING_TYPE:CONTENT>?
+	[Dòng 14774] [0.98] ¿Hace cuánto tiempo que estoy absorto/a en esta <RECORDING_TYPE:CONTENT>serie</RECORDING_TYPE:CONTENT>?
+	[Dòng 14777] [0.98] ¿Hace cuánto tiempo que estoy sumergido/a en esta <RECORDING_TYPE:CONTENT>serie</RECORDING_TYPE:CONTENT>?
+	[Dòng 14780] [0.98] ¿Hace cuánto tiempo que estoy fascinado/a por esta <RECORDING_TYPE:CONTENT>serie</RECORDING_TYPE:CONTENT>?
+	[Dòng 14783] [0.97] ¿Hace cuánto tiempo que estoy cautivado/a por esta <RECORDING_TYPE:CONTENT>serie</RECORDING_TYPE:CONTENT>?

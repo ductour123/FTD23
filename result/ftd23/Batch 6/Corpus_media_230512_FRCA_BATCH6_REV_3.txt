@@ -1,0 +1,363 @@
+
+-----------------
+[Dòng 1701] Est-ce que je peux regarder un match de cricket en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> maintenant ?
+	[Dòng 1712] [0.98] Est-ce que je peux voir un match de cricket en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> en ce moment ?
+	[Dòng 1722] [0.98] Est-ce que je peux assister à un match de cricket en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> en ce moment ?
+	[Dòng 1724] [0.98] Ai-je la possibilité de regarder un match de cricket en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> maintenant-même ?
+-----------------
+[Dòng 1705] Est-ce qu'il y a un match de cricket diffusé en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> en ce moment ?
+	[Dòng 1715] [0.99] Est-ce qu'il y a un match de cricket en cours de diffusion sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> en ce moment ?
+	[Dòng 1718] [0.99] Y a-t-il <DT_NOW:DATETIME>actuellement</DT_NOW:DATETIME> un match de cricket diffusé en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> ?
+	[Dòng 1725] [0.99] Est-ce qu'il y a un match de cricket diffusé en direct sur la chaîne <GENRE:CHANNEL_GENRE>sportive</GENRE:CHANNEL_GENRE> à l'heure actuelle ?
+-----------------
+[Dòng 1770] J'aimerais visionner une émission consacrée aux animaux de la jungle sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE>.
+	[Dòng 1779] [0.98] J'aimerais voir une émission portant sur les animaux de la jungle sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE>.
+	[Dòng 1782] [0.99] Je voudrais visionner une émission dédiée aux animaux de la jungle sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE>.
+	[Dòng 1792] [0.98] Je voudrais visionner une émission sur les animaux de la jungle proposée sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE>.
+-----------------
+[Dòng 1778] Pourriez-vous me passer un show sur les animaux de la jungle disponible sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE> ?
+	[Dòng 1786] [0.97] Est-ce que vous pourriez me montrer un spectacle sur les animaux de la jungle disponible sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE> ?
+	[Dòng 1788] [0.99] Pourriez-vous me passer un show sur les animaux de la jungle diffusé sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE> ?
+	[Dòng 1795] [0.98] Bonjour, pourriez-vous me passer un show sur les animaux de la jungle diffusé sur la chaîne <GENRE:CHANNEL_GENRE>documentaire</GENRE:CHANNEL_GENRE> ?
+-----------------
+[Dòng 2001] Existe-t-il une chaîne qui diffuse un concert de violon québécois ?
+	[Dòng 2002] [0.97] Y a-t-il une chaîne qui présente un concert de violon québécois ?
+	[Dòng 2016] [0.99] Est-ce qu'il existe une chaîne qui diffuse un concert de violon québécois ?
+	[Dòng 2019] [0.97] Existe-t-il une chaîne qui présente un concert de violon québécois à la télévision ?
+-----------------
+[Dòng 2002] Y a-t-il une chaîne qui présente un concert de violon québécois ?
+	[Dòng 2003] [0.97] Est-ce qu'il y a une chaîne qui propose un concert de violon québécois ?
+	[Dòng 2004] [0.97] Est-ce qu'il existe une chaîne qui montre un concert de violon québécois ?
+	[Dòng 2016] [0.97] Est-ce qu'il existe une chaîne qui diffuse un concert de violon québécois ?
+-----------------
+[Dòng 2007] Est-ce qu'il y a une chaîne télévisée qui diffuse un concert de violon québécois ?
+	[Dòng 2010] [0.98] Bonjour, est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+	[Dòng 2023] [0.98] Bonsoir, est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+	[Dòng 2027] [0.97] Existe-t-il une chaîne télévisée proposant un concert de violon québécois ?
+	[Dòng 2030] [0.98] Est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+-----------------
+[Dòng 2009] Y a-t-il une chaîne où l'on peut regarder un concert de violon québécois ?
+	[Dòng 2015] [0.99] Y a-t-il une chaîne où l'on peut voir un concert de violon québécois ?
+	[Dòng 2024] [0.98] Y a-t-il une chaîne où l'on peut regarder un concert de violon québécois à la télévision ?
+	[Dòng 2028] [0.98] Y a-t-il une chaîne où l'on peut voir un concert de violon québécois à la télévision ?
+-----------------
+[Dòng 2010] Bonjour, est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+	[Dòng 2014] [0.97] Bonsoir, existe-t-il une chaîne télévisée proposant un concert de violon québécois ?
+	[Dòng 2023] [1.00] Bonsoir, est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+	[Dòng 2030] [0.99] Est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+-----------------
+[Dòng 2014] Bonsoir, existe-t-il une chaîne télévisée proposant un concert de violon québécois ?
+	[Dòng 2023] [0.97] Bonsoir, est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+	[Dòng 2027] [0.99] Existe-t-il une chaîne télévisée proposant un concert de violon québécois ?
+	[Dòng 2030] [0.97] Est-ce qu'il existe une chaîne télévisée montrant un concert de violon québécois ?
+-----------------
+[Dòng 3319] Le documentaire sur l'Afrique commence dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, basculez sur la chaîne.
+	[Dòng 3326] [0.98] Le documentaire sur l'Afrique débute dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, tournez vers la chaîne.
+	[Dòng 3329] [0.98] Le documentaire portant sur l'Afrique commence dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, zappez vers la chaîne.
+	[Dòng 3331] [0.98] Le documentaire consacré à l'Afrique démarre dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, basculez sur la chaîne.
+-----------------
+[Dòng 3357] Pensez-vous pouvoir me montrer le match de basketball de <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> <DT_REL:DATETIME>dernier</DT_REL:DATETIME> ?
+	[Dòng 3369] [0.98] Bonsoir, pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+	[Dòng 3381] [0.99] Pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+	[Dòng 3387] [0.97] Bonjour, pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+-----------------
+[Dòng 3365] Bonsoir, serait-il possible que vous me fassiez visionner le jeu de basketball de <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> <DT_REL:DATETIME>dernier</DT_REL:DATETIME> ?
+	[Dòng 3371] [0.98] Excusez-moi, serait-il possible que vous me fassiez visionner le jeu de basketball de <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> <DT_REL:DATETIME>dernier</DT_REL:DATETIME> ?
+	[Dòng 3383] [0.99] Serait-il possible que vous me fassiez visionner le jeu de basketball de <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> <DT_REL:DATETIME>dernier</DT_REL:DATETIME> ?
+	[Dòng 3389] [1.00] Bonjour, serait-il possible que vous me fassiez visionner le jeu de basketball de <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> <DT_REL:DATETIME>dernier</DT_REL:DATETIME> ?
+-----------------
+[Dòng 3368] Bonsoir, seriez-vous en mesure de me diffuser la rencontre de basketball qui a eu lieu <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> ?
+	[Dòng 3374] [0.98] Excusez-moi, seriez-vous en mesure de me diffuser la rencontre de basketball qui a eu lieu <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> ?
+	[Dòng 3380] [0.99] Seriez-vous en mesure de me diffuser la rencontre de basketball qui a eu lieu <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> ?
+	[Dòng 3386] [1.00] Bonjour, seriez-vous en mesure de me diffuser la rencontre de basketball qui a eu lieu <DT_WEEKDAY:DATETIME>vendredi</DT_WEEKDAY:DATETIME> <DT_REL_DAYTIME:DATETIME>soir</DT_REL_DAYTIME:DATETIME> ?
+-----------------
+[Dòng 3369] Bonsoir, pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+	[Dòng 3375] [0.98] Excusez-moi, pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+	[Dòng 3381] [0.99] Pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+	[Dòng 3387] [1.00] Bonjour, pensez-vous pouvoir me montrer le match de basketball de la nuit du <DT_WEEKDAY:DATETIME>vendredi dernier</DT_WEEKDAY:DATETIME> ?
+-----------------
+[Dòng 4668] Pourrais-tu m'indiquer le classement des billets vendus pour les <GENRE:GENRE>films</GENRE:GENRE> de suspense <DT_REL_WEEK:DATETIME>cette semaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 4682] [0.99] Pourrais-tu me dire le classement des billets vendus pour les <GENRE:GENRE>films</GENRE:GENRE> de suspense <DT_REL_WEEK:DATETIME>cette semaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 4686] [0.98] Peux-tu me donner le classement des billets vendus pour les <GENRE:GENRE>films</GENRE:GENRE> à suspense <DT_REL_WEEK:DATETIME>cette semaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 4690] [0.97] Pourrais-tu me donner le classement de la vente des billets pour les <GENRE:GENRE>films</GENRE:GENRE> à suspense <DT_REL_WEEK:DATETIME>cette semaine</DT_REL_WEEK:DATETIME> ?
+-----------------
+[Dòng 12086] Bonjour, peux-tu me trouver les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>sport</THEME:CONTENT> ?
+	[Dòng 12096] [1.00] Bonsoir, peux-tu me trouver les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>sport</THEME:CONTENT> ?
+	[Dòng 12106] [0.98] Peux-tu me trouver les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>sport</THEME:CONTENT> ?
+	[Dòng 12156] [0.99] Bonjour, peux-tu me trouver les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>sport</THEME:CONTENT>, s'il te plaît ?
+-----------------
+[Dòng 12093] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>technologie</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12153] [1.00] Bonsoir, j'aimerais connaître les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>technologie</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12163] [0.99] J'aimerais connaître les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>technologie</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12173] [0.99] J'aimerais connaître les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>technologie</THEME:CONTENT>, peux-tu les chercher ?
+-----------------
+[Dòng 12114] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi?
+	[Dòng 12154] [0.97] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>culture</THEME:CONTENT> pour moi?
+	[Dòng 12174] [1.00] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+	[Dòng 12184] [0.99] Bonsoir, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+-----------------
+[Dòng 12144] Pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi?
+	[Dòng 12164] [0.97] Pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>culture</THEME:CONTENT> pour moi?
+	[Dòng 12174] [0.97] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+	[Dòng 12184] [0.98] Bonsoir, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+	[Dòng 12194] [0.99] Pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+-----------------
+[Dòng 12145] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12155] [1.00] Bonsoir, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12165] [0.99] J'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12175] [0.99] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les trouver ?
+	[Dòng 12195] [0.98] J'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les trouver ?
+-----------------
+[Dòng 12155] Bonsoir, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12165] [0.99] J'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12175] [0.99] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les trouver ?
+	[Dòng 12195] [0.98] J'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les trouver ?
+-----------------
+[Dòng 12627] Bonjour, je souhaite écouter les <GENRE:GENRE>nouvelles</GENRE:GENRE> les plus importantes en lien avec le Canada de l'année <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 12636] [1.00] Bonsoir, je souhaite écouter les <GENRE:GENRE>nouvelles</GENRE:GENRE> les plus importantes en lien avec le Canada de l'année <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 12645] [0.97] Écoutez, je souhaite écouter les <GENRE:GENRE>nouvelles</GENRE:GENRE> les plus importantes en lien avec le Canada de l'année <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 12654] [0.98] Je souhaite écouter les <GENRE:GENRE>nouvelles</GENRE:GENRE> les plus importantes en lien avec le Canada de l'année <DT_YEAR:DATETIME>2022</DT_YEAR:DATETIME>, s'il vous plaît.
+-----------------
+[Dòng 12658] Bonjour, auriez-vous des <GENRE:GENRE>informations</GENRE:GENRE> de dernière minute à me partager sur le Québec en particulier ?
+	[Dòng 12663] [0.99] Bonjour, auriez-vous des <GENRE:GENRE>informations</GENRE:GENRE> de dernière minute sur le Québec en particulier à me partager ?
+	[Dòng 12669] [0.99] Auriez-vous des <GENRE:GENRE>informations</GENRE:GENRE> de dernière minute à me partager sur le Québec en particulier ?
+	[Dòng 12674] [0.98] Auriez-vous des <GENRE:GENRE>informations</GENRE:GENRE> de dernière minute sur le Québec en particulier à me partager ?
+-----------------
+[Dòng 13154] Exhibez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont été le plus commentées en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13163] [0.97] Montrez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont suscité le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13169] [0.97] Montrez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont généré le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13172] [0.97] Exposez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont suscité le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+-----------------
+[Dòng 13157] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> sur la COVID qui ont suscité le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13162] [0.97] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées relatives à la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13168] [0.97] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13177] [0.98] Présentez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> ayant suscité le plus de commentaires sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+-----------------
+[Dòng 13162] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées relatives à la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13168] [0.99] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13171] [0.99] Présentez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées relatives à la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13174] [0.99] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées concernant la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13177] [0.97] Présentez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> ayant suscité le plus de commentaires sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+-----------------
+[Dòng 13163] Montrez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont suscité le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13169] [0.99] Montrez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont généré le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13172] [0.99] Exposez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont suscité le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+	[Dòng 13175] [0.97] Montrez les <GENRE:GENRE>informations</GENRE:GENRE> sur la COVID qui ont enregistré le plus de commentaires en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME>, s'il vous plaît.
+-----------------
+[Dòng 13168] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13171] [0.98] Présentez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées relatives à la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13174] [0.99] Révélez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> les plus commentées concernant la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+	[Dòng 13177] [0.97] Présentez-moi les <GENRE:GENRE>actualités</GENRE:GENRE> ayant suscité le plus de commentaires sur la COVID en <DT_YEAR:DATETIME>2020</DT_YEAR:DATETIME> .
+-----------------
+[Dòng 13666] Pourriez-vous augmenter de <QT_DIGIT:PERCENTAGE_REL>40</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>le volume de navigation, s'il vous plaît ?
+	[Dòng 13669] [0.97] Pourriez-vous augmenter le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>40</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, je vous prie ?
+	[Dòng 13675] [0.99] Pourriez-vous augmenter le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>40</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il vous plaît ?
+	[Dòng 13680] [0.98] Pourriez-vous augmenter de <QT_DIGIT:PERCENTAGE_REL>40</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>le volume de navigation, je vous prie ?
+-----------------
+[Dòng 13726] Réduis le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13728] [0.97] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13732] [0.98] Abaisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13746] [0.98] Baisse le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13750] [0.97] Abaisse de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13728] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13732] [1.00] Abaisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13740] [0.99] Baisse de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13746] [1.00] Baisse le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13750] [0.99] Abaisse de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13731] Serait-il possible de réduire le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> ?
+	[Dòng 13737] [0.97] Bonjour, serait-il possible de réduire de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation ?
+	[Dòng 13743] [0.98] Bonsoir, serait-il possible de réduire de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation ?
+	[Dòng 13749] [1.00] Serait-il possible de réduire de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation ?
+-----------------
+[Dòng 13732] Abaisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13740] [0.98] Baisse de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13746] [0.99] Baisse le volume de navigation de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13750] [0.99] Abaisse de <QT_DIGIT:VOLUME_REL>4</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13751] Réduis le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13766] [0.98] Réduit de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13767] [0.98] Baisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13769] [0.98] Abaisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13771] [0.98] Réduis de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13752] Bonjour, baisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13753] [0.98] Bonjour, diminue de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13756] [0.97] Bonjour, réduit de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13757] [0.98] Bonjour, baisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13762] [1.00] Bonsoir, baisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13763] [0.97] Bonsoir, diminue de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13753] Bonjour, diminue de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13756] [0.98] Bonjour, réduit de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13758] [0.99] Bonjour, diminue le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13761] [0.98] Bonjour, réduis de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13762] [0.97] Bonsoir, baisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13763] [1.00] Bonsoir, diminue de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13766] Réduit de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13767] [0.97] Baisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13769] [0.97] Abaisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13771] [0.98] Réduis de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13772] [0.97] Baisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13774] [0.98] Abaisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13767] Baisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13769] [1.00] Abaisse le volume de navigation de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL>, s'il te plaît.
+	[Dòng 13772] [0.98] Baisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13774] [0.99] Abaisse de <QT_DIGIT:PERCENTAGE_REL>25</QT_DIGIT:PERCENTAGE_REL><QT_PERCENTAGE_UNIT:PERCENTAGE_REL>%</QT_PERCENTAGE_UNIT:PERCENTAGE_REL> le volume de navigation, s'il te plaît.
+-----------------
+[Dòng 13778] Abaisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> tout de suite, s'il te plaît.
+	[Dòng 13787] [0.98] S'il te plaît, abaisse le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> tout de suite.
+	[Dòng 13788] [0.98] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement, s'il te plaît.
+	[Dòng 13792] [0.99] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+	[Dòng 13797] [0.99] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+-----------------
+[Dòng 13780] Réduis immédiatement le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13782] [0.97] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+	[Dòng 13788] [0.97] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement, s'il te plaît.
+	[Dòng 13790] [0.99] Réduis immédiatement de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13795] [0.99] Réduis de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+	[Dòng 13800] [0.97] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+-----------------
+[Dòng 13782] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+	[Dòng 13788] [0.99] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement, s'il te plaît.
+	[Dòng 13790] [0.97] Réduis immédiatement de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13792] [0.97] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+	[Dòng 13795] [0.98] Réduis de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+	[Dòng 13796] [0.98] S'il te plaît, abaisse immédiatement le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>.
+	[Dòng 13797] [0.98] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+	[Dòng 13800] [1.00] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+-----------------
+[Dòng 13787] S'il te plaît, abaisse le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> tout de suite.
+	[Dòng 13792] [0.97] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+	[Dòng 13796] [0.98] S'il te plaît, abaisse immédiatement le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>.
+	[Dòng 13797] [0.97] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+-----------------
+[Dòng 13788] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement, s'il te plaît.
+	[Dòng 13796] [0.98] S'il te plaît, abaisse immédiatement le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>.
+	[Dòng 13797] [0.97] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation tout de suite, s'il te plaît.
+	[Dòng 13800] [0.99] Abaisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+-----------------
+[Dòng 13817] Baisse le volume de navigation à <QT_DIGIT:PERCENTAGE>5</QT_DIGIT:PERCENTAGE><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, s'il te plaît.
+	[Dòng 13821] [0.99] Abaisse à <QT_DIGIT:PERCENTAGE>5</QT_DIGIT:PERCENTAGE><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE> le volume de navigation, s'il te plaît.
+	[Dòng 13823] [0.99] Mets le volume de navigation à <QT_DIGIT:PERCENTAGE>5</QT_DIGIT:PERCENTAGE><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, s'il te plaît.
+	[Dòng 13825] [0.98] Descends le volume de navigation à <QT_DIGIT:PERCENTAGE>5</QT_DIGIT:PERCENTAGE><QT_PERCENTAGE_UNIT:PERCENTAGE>%</QT_PERCENTAGE_UNIT:PERCENTAGE>, s'il te plaît.
+-----------------
+[Dòng 14259] Pouvez-vous me apporter des informations concernant cette chaîne ?
+	[Dòng 14264] [0.99] Pouvez-vous me fournir des informations concernant cette chaîne ?
+	[Dòng 14274] [0.98] Pouvez-vous me partager des informations à propos de cette chaîne ?
+	[Dòng 14282] [0.97] Pourriez-vous me donner des informations sur cette chaîne ?
+-----------------
+[Dòng 14266] Je souhaiterais obtenir des informations sur cette chaîne.
+	[Dòng 14277] [0.98] Je souhaite obtenir des informations concernant cette chaîne.
+	[Dòng 14285] [0.99] Je souhaite obtenir des informations sur cette chaîne.
+	[Dòng 14289] [0.98] Je voudrais obtenir des informations relatives à cette chaîne.
+-----------------
+[Dòng 14302] Pouvez-vous me dire le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14305] [0.97] Pourriez-vous me renseigner sur le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14309] [0.97] Est-ce que vous pourriez me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14314] [0.98] Est-ce que vous pouvez me dire quel est le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14316] [0.97] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14328] [0.98] Pourriez-vous m'indiquer le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît ?
+	[Dòng 14333] [0.97] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît ?
+	[Dòng 14340] [0.98] Pourriez-vous me dire le nom exact de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14348] [0.97] Est-ce que vous pouvez me dire le nom précis de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14309] Est-ce que vous pourriez me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14316] [0.99] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14318] [0.99] Seriez-vous capable de me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14319] [0.97] Pourriez-vous me révéler le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14326] [0.97] Est-ce que vous pourriez me communiquer le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14333] [0.99] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît ?
+	[Dòng 14339] [0.97] Est-ce que vous sauriez le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14312] Seriez-vous en mesure de me dire le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14316] [0.97] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14318] [0.97] Seriez-vous capable de me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14319] [0.98] Pourriez-vous me révéler le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14314] Est-ce que vous pouvez me dire quel est le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14328] [0.97] Pourriez-vous m'indiquer le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît ?
+	[Dòng 14331] [0.97] Est-ce que vous pouvez me dire comment ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé s'appelle ?
+	[Dòng 14340] [0.97] Pourriez-vous me dire le nom exact de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14348] [0.98] Est-ce que vous pouvez me dire le nom précis de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14316] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14318] [0.99] Seriez-vous capable de me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14319] [0.98] Pourriez-vous me révéler le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14333] [0.99] Voudriez-vous bien me donner le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît ?
+	[Dòng 14339] [0.97] Est-ce que vous sauriez le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14322] Est-ce que vous sauriez comment s'appelle ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14329] [0.98] Seriez-vous en mesure de me dire comment s'appelle ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+	[Dòng 14331] [0.98] Est-ce que vous pouvez me dire comment ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé s'appelle ?
+	[Dòng 14336] [0.98] Pourriez-vous me révéler comment s'appelle ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé ?
+-----------------
+[Dòng 14663] J'aimerais que tu fasses une avance rapide d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14666] [0.97] Je voudrais que tu fasses une avance de <DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14668] [0.99] Je souhaiterais que tu fasses une avance rapide de <DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14673] [0.99] J'aimerais que tu avances rapidement d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14676] [0.97] Je voudrais que tu fasses une avance d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14678] [0.98] Je souhaiterais que tu fasses une avance d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+-----------------
+[Dòng 14666] Je voudrais que tu fasses une avance de <DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14673] [0.97] J'aimerais que tu avances rapidement d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14676] [1.00] Je voudrais que tu fasses une avance d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+	[Dòng 14678] [0.99] Je souhaiterais que tu fasses une avance d'<DT_MIN:DATETIME>une minute</DT_MIN:DATETIME> sur la chanson, s'il te plaît.
+-----------------
+[Dòng 14686] Avancez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+	[Dòng 14690] [0.97] Poussez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+	[Dòng 14691] [0.98] Faites avancer de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME> l'émission de télévision, s'il vous plaît.
+	[Dòng 14693] [0.98] Écartez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+-----------------
+[Dòng 3313] Dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, c'est le début du documentaire portant sur l'Afrique, basculez vers la chaîne.
+	[Dòng 3323] [0.98] Dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, c'est le début du documentaire portant sur l'Afrique, zappez vers la chaîne.
+	[Dòng 3325] [0.97] Dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, débute le documentaire concernant l'Afrique, basculez vers la chaîne.
+	[Dòng 3328] [0.98] Dans <DT_MIN:DATETIME>30 minutes</DT_MIN:DATETIME>, c'est le début du documentaire évoquant l'Afrique, passez sur la chaîne.
+-----------------
+[Dòng 4142] Cessez la diffusion du <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a débuté il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4153] [0.97] Cessez de montrer le <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a commencé il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4160] [0.98] Stoppez la diffusion du <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a débuté il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4163] [0.99] Cessez la diffusion du <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a commencé il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+-----------------
+[Dòng 4146] Éteignez le <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a débuté il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4152] [0.97] Éteignez la projection du <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a débuté il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4158] [0.97] Supprimez le <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a débuté il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+	[Dòng 4161] [0.97] Éteignez l'affichage du <GENRE:GENRE>film</GENRE:GENRE> <GENRE:GENRE>d'action</GENRE:GENRE> qui a commencé il y a <DT_MIN:DATETIME>20 minutes</DT_MIN:DATETIME>.
+-----------------
+[Dòng 11594] Pourriez-vous mettre en marche une sélection de <CONTENT_TYPE:CONTENT>chansons</CONTENT_TYPE:CONTENT> ne présentant que des <ARTIST_TYPE:ARTIST>duos féminins</ARTIST_TYPE:ARTIST>, s'il vous plaît ?
+	[Dòng 11604] [0.98] Pourriez-vous mettre en marche une sélection de <CONTENT_TYPE:CONTENT>chansons</CONTENT_TYPE:CONTENT> réservée aux <ARTIST_TYPE:ARTIST>duos féminins</ARTIST_TYPE:ARTIST>, s'il vous plaît ?
+	[Dòng 11619] [0.98] Pourriez-vous mettre en marche une sélection de <CONTENT_TYPE:CONTENT>chansons</CONTENT_TYPE:CONTENT> qui présente seulement un <ARTIST_TYPE:ARTIST>groupe féminin</ARTIST_TYPE:ARTIST>, s'il vous plaît ?
+	[Dòng 11629] [0.98] Pourriez-vous mettre en marche une sélection de <CONTENT_TYPE:CONTENT>chansons</CONTENT_TYPE:CONTENT> réservée à un <ARTIST_TYPE:ARTIST>groupe féminin</ARTIST_TYPE:ARTIST>, s'il vous plaît ?
+-----------------
+[Dòng 12080] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>monde des affaires</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12120] [0.99] Bonsoir, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> du <THEME:CONTENT>monde des affaires</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12145] [0.98] Bonjour, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+	[Dòng 12155] [0.98] Bonsoir, j'aimerais connaître les dernières <GENRE:GENRE>nouvelles</GENRE:GENRE> des <THEME:CONTENT>affaires internationales</THEME:CONTENT>, peux-tu les chercher?
+-----------------
+[Dòng 12114] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi?
+	[Dòng 12154] [0.99] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> de la <THEME:CONTENT>culture</THEME:CONTENT> pour moi?
+	[Dòng 12174] [1.00] Bonjour, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+	[Dòng 12184] [0.99] Bonsoir, pourrais-tu chercher les dernières <GENRE:GENRE>actualités</GENRE:GENRE> <THEME:CONTENT>culturelles</THEME:CONTENT> pour moi ?
+-----------------
+[Dòng 13776] Immédiatement, réduis le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13780] [0.99] Réduis immédiatement le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL>, s'il te plaît.
+	[Dòng 13790] [0.98] Réduis immédiatement de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation, s'il te plaît.
+	[Dòng 13795] [0.97] Réduis de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+-----------------
+[Dòng 13777] S'il te plaît, baisse le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement.
+	[Dòng 13781] [0.97] S'il te plaît, diminue le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement.
+	[Dòng 13782] [0.97] Baisse de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> le volume de navigation immédiatement, s'il te plaît.
+	[Dòng 13788] [0.98] Baisse-le volume de navigation de <QT_DIGIT:VOLUME_REL>5</QT_DIGIT:VOLUME_REL> <QT_LEVEL_UNIT:VOLUME_REL>niveaux</QT_LEVEL_UNIT:VOLUME_REL> immédiatement, s'il te plaît.
+-----------------
+[Dòng 14317] J'aimerais obtenir le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît.
+	[Dòng 14325] [0.97] J'aimerais connaître le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît.
+	[Dòng 14334] [0.98] J'aimerais avoir le nom de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît.
+	[Dòng 14347] [0.98] J'aimerais obtenir le nom détaillé de ce <RECORDING_TYPE:CONTENT>programme</RECORDING_TYPE:CONTENT> télévisé, s'il vous plaît.
+-----------------
+[Dòng 14686] Avancez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+	[Dòng 14687] [0.97] Poursuivez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+	[Dòng 14690] [0.98] Poussez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME>, s'il vous plaît.
+	[Dòng 14697] [0.97] Transmettez l'émission de télévision de <DT_MIN:DATETIME>15 minutes</DT_MIN:DATETIME> en avant, s'il vous plaît.

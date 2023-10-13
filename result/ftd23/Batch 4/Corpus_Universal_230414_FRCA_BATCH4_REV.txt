@@ -1,0 +1,53 @@
+
+-----------------
+[Dòng 334] J'aimerais que tu envoies ceux-là, s'il te plaît.
+	[Dòng 344] [0.98] Je voudrais que tu envoies ceux-ci, s'il te plaît.
+	[Dòng 349] [0.98] Je désire que tu envoies ceux-ci, s'il te plaît.
+	[Dòng 351] [0.99] J'apprécierais que tu envoies ceux-là, s'il te plaît.
+-----------------
+[Dòng 1895] J'aimerais voir la liste, s'il vous plaît.
+	[Dòng 1900] [0.99] Je veux voir la liste, s'il vous plaît.
+	[Dòng 1906] [0.98] J'ai besoin de voir la liste, s'il vous plaît.
+	[Dòng 1916] [0.97] Je demande à voir la liste, s'il vous plaît.
+-----------------
+[Dòng 3504] Puis-je changer ma réservation, s'il vous plaît ?
+	[Dòng 3516] [0.97] Puis-je effectuer un changement sur ma réservation, s'il vous plaît ?
+	[Dòng 3525] [0.98] Est-ce que je peux changer ma réservation, s'il vous plaît ?
+	[Dòng 3528] [0.98] Puis-je faire un changement à ma réservation, s'il vous plaît ?
+-----------------
+[Dòng 3505] Je souhaiterais apporter une modification à ma réservation, est-ce possible ?
+	[Dòng 3517] [0.99] Je voudrais faire une modification à ma réservation, est-ce possible ?
+	[Dòng 3520] [0.98] Je souhaiterais effectuer une modification sur ma réservation, est-ce possible ?
+	[Dòng 3526] [0.99] Je souhaiterais apporter des modifications à ma réservation, est-ce possible ?
+-----------------
+[Dòng 3507] Est-ce que je peux faire un changement sur ma réservation, s'il vous plaît ?
+	[Dòng 3516] [0.98] Puis-je effectuer un changement sur ma réservation, s'il vous plaît ?
+	[Dòng 3519] [0.97] Est-ce que je peux apporter un changement à ma réservation, s'il vous plaît ?
+	[Dòng 3525] [0.98] Est-ce que je peux changer ma réservation, s'il vous plaît ?
+	[Dòng 3528] [0.98] Puis-je faire un changement à ma réservation, s'il vous plaît ?
+-----------------
+[Dòng 3598] Est-ce que vous pourriez annuler ma réservation, s'il vous plaît ?
+	[Dòng 3603] [0.99] Pourriez-vous annuler ma réservation, s'il vous plaît ?
+	[Dòng 3608] [0.98] Est-ce que vous pouvez annuler ma réservation pour moi, s'il vous plaît ?
+	[Dòng 3611] [0.98] Pouvez-vous annuler ma réservation pour moi, s'il vous plaît ?
+-----------------
+[Dòng 3842] J'aimerais voir la vidéo qui a précédé celle-ci, pouvez-vous me la montrer ?
+	[Dòng 3847] [0.98] J'aimerais voir la vidéo précédant celle-ci, pouvez-vous me la montrer ?
+	[Dòng 3850] [0.99] J'aimerais voir la vidéo qui a précédé celle-ci, pourriez-vous me la montrer ?
+	[Dòng 3854] [0.98] J'aimerais voir la vidéo qui est avant celle-ci, pouvez-vous me la montrer ?
+	[Dòng 3858] [0.98] J'aimerais voir la vidéo qui est avant celle-ci, pourriez-vous me la montrer ?
+-----------------
+[Dòng 62] Pourrais-tu enlever celui-ci, s'il te plaît ?
+	[Dòng 1572] [0.97] Pourrais-tu valider celui-ci, s'il te plaît ?
+	[Dòng 1586] [0.98] Pourrais-tu opter pour celui-ci, s'il te plaît ?
+	[Dòng 4891] [0.98] Pourrais-tu éteindre celui-ci, s'il te plaît ?
+-----------------
+[Dòng 1235] Il est temps de presser maintenant, pouvez-vous le faire ?
+	[Dòng 1240] [0.99] Il est temps de le presser, pouvez-vous le faire maintenant ?
+	[Dòng 1247] [0.97] Il est temps de le presser, pouvez-vous le faire ?
+	[Dòng 1255] [0.99] Il est temps de le presser maintenant, pouvez-vous le faire ?
+-----------------
+[Dòng 1984] S'il te plaît, pourrais-tu stopper la répétition ?
+	[Dòng 1990] [0.97] S'il te plaît, pourrais-tu interrompre la répétition ?
+	[Dòng 1994] [0.98] Pourrais-tu suspendre la répétition, s'il te plaît ?
+	[Dòng 2002] [0.98] S'il te plaît, pourrais-tu éviter de répéter ?

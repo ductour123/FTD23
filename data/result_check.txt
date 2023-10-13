@@ -1,0 +1,54 @@
+
+-----------------
+[Dòng 11] Pon en marcha el último episodio de Telenoticias.
+	[Dòng 20] [0.92] Pon en marcha el episodio más reciente de Ley y Orden.
+-----------------
+[Dòng 26] Me gustaría ver el programa de Amorcito Corazón de anoche, por favor.
+	[Dòng 43] [0.92] Me gustaría ver el último programa de La Playa D.C., el de la noche pasada, por favor.
+-----------------
+[Dòng 29] Por favor, activa el episodio de Contigo Anexo 3 de la noche anterior para verlo.
+	[Dòng 33] [0.90] Por favor, activa el episodio de Todo en todas partes de anoche para verlo.
+-----------------
+[Dòng 31] Me gustaría ver el episodio de Ni contigo ni sin ti de la noche pasada, por favor.
+	[Dòng 35] [0.92] Me gustaría ver el último episodio de El Ministerio del Tiempo, el de la noche pasada, por favor.
+-----------------
+[Dòng 32] Quisiera que pongas en reproducción el programa de Cañaveral de pasiones de la última noche.
+	[Dòng 48] [0.90] Quisiera que pongas en reproducción el último episodio de Club de Cuervos, el de anoche.
+-----------------
+[Dòng 36] Quisiera que pongas en marcha el episodio de Entretenimiento de la última noche.
+	[Dòng 44] [0.94] Quisiera que pongas en marcha el último episodio de Los García, el de la última noche.
+-----------------
+[Dòng 37] Por favor, activa el programa de Sol de medianoche de anoche para verlo.
+	[Dòng 41] [0.91] Por favor, activa el programa de ¡Qué Suerte! de la noche anterior para verlo.
+	[Dòng 49] [0.90] Por favor, activa el programa de Sube Nene Sube que fue emitido durante la noche anterior para verlo.
+-----------------
+[Dòng 40] Quisiera que pongas en reproducción el último episodio de Guerreros Extremo, el de la noche pasada.
+	[Dòng 48] [0.93] Quisiera que pongas en reproducción el último episodio de Club de Cuervos, el de anoche.
+-----------------
+[Dòng 41] Por favor, activa el programa de ¡Qué Suerte! de la noche anterior para verlo.
+	[Dòng 49] [0.93] Por favor, activa el programa de Sube Nene Sube que fue emitido durante la noche anterior para verlo.
+-----------------
+[Dòng 54] Me gustaría ver Los hombres de Paco del viernes pasado, si es posible, por favor.
+	[Dòng 72] [0.90] Me gustaría poder visionar Dámaso Pérez Prado del viernes pasado, si es posible, por favor.
+-----------------
+[Dòng 55] ¿Sería factible reproducirme El Caso: Crónica de sucesos del viernes pasado?
+	[Dòng 73] [0.91] ¿Sería factible reproducirme Mujer casos de la vida real del pasado viernes?
+-----------------
+[Dòng 59] ¿Podrías poner en marcha Caso Cerrado del viernes anterior, por favor?
+	[Dòng 65] [0.92] ¿Podrías poner en marcha La Guagua Aérea del viernes anterior, si es posible?
+	[Dòng 71] [0.94] ¿Podrías poner en marcha Vis a Vis del viernes pasado, por favor?
+-----------------
+[Dòng 62] ¿Podrías poner en reproducción Quantum Leap del viernes pasado para que lo vea?
+	[Dòng 74] [0.90] ¿Podrías poner en reproducción New Amsterdam del viernes anterior para que lo vea?
+-----------------
+[Dòng 65] ¿Podrías poner en marcha La Guagua Aérea del viernes anterior, si es posible?
+	[Dòng 71] [0.94] ¿Podrías poner en marcha Vis a Vis del viernes pasado, por favor?
+-----------------
+[Dòng 69] Quisiera ver El Gran Bejuco del viernes pasado, si es factible, por favor.
+	[Dòng 75] [0.91] Quisiera ver La Mujer de Judas del viernes pasado, por favor.
+-----------------
+[Dòng 77] Pon en marcha el video correspondiente al episodio 22 de Carita de ángel.
+	[Dòng 95] [0.91] Pon en marcha el video del episodio 22 de Alegrías de Mediodía.
+-----------------
+[Dòng 81] Pon en reproducción el video del episodio 22 de Burbu Nite ahora mismo.
+	[Dòng 90] [0.91] Pon en reproducción el video del episodio 22 de Bravas.

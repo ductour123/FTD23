@@ -1,0 +1,888 @@
+
+-----------------
+[Dòng 764] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> ahora?
+	[Dòng 773] [0.99] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> actualmente?
+	[Dòng 782] [0.99] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> en este momento?
+	[Dòng 791] [0.98] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> en estos momentos?
+	[Dòng 800] [1.00] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> ahora mismo?
+-----------------
+[Dòng 773] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> actualmente?
+	[Dòng 782] [0.99] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> en este momento?
+	[Dòng 791] [0.99] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> en estos momentos?
+	[Dòng 800] [0.99] ¿Qué hora es en <LC_COUNTRY:BASE>Corea</LC_COUNTRY:BASE> ahora mismo?
+-----------------
+[Dòng 974] ¿Cuántos días hasta el estreno de la nueva película de Startrack en Puerto Rico?
+	[Dòng 978] [0.97] ¿Cuántos días hasta el esperado estreno de la nueva película de Startrack en Puerto Rico?
+	[Dòng 982] [0.97] ¿Cuántos días hasta el estreno de la nueva película de Startrack en la isla de Puerto Rico, por favor?
+	[Dòng 990] [0.98] ¿Cuántos días hasta el estreno de la nueva película de Startrack en la isla de Puerto Rico?
+-----------------
+[Dòng 1204] Hola, ¿cuántos días hasta el estreno de la nueva película de Fast and Furious?
+	[Dòng 1210] [0.99] ¿Cuántos días hasta el estreno de la nueva película de Fast and Furious?
+	[Dòng 1216] [1.00] Hola, ¿cuántos días hasta el estreno de la nueva película de Fast and Furious, por favor?
+	[Dòng 1228] [0.98] ¿Cuántos días hasta el estreno de la nueva película de Fast and Furious, por favor?
+-----------------
+[Dòng 1352] ¿Cuál es la fecha de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1356] [0.98] ¿Cuál es la fecha exacta de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1367] [0.97] ¿Cuál es la fecha en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1432] [0.98] ¿Cuál es la fecha del día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 1367] ¿Cuál es la fecha en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1410] [0.97] ¿Cuál es la fecha exacta en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1427] [0.97] ¿Qué fecha es <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME> en el día?
+	[Dòng 1432] [0.99] ¿Cuál es la fecha del día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 1451] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1454] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario de la Luna?
+	[Dòng 1457] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar este año?
+	[Dòng 1460] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1452] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1455] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario de la Luna?
+	[Dòng 1458] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de este año?
+	[Dòng 1461] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1464] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1467] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1453] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1459] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar actual?
+	[Dòng 1462] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del siguiente año?
+	[Dòng 1465] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1457] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar este año?
+	[Dòng 1460] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [1.00] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1458] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de este año?
+	[Dòng 1461] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1464] [1.00] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1467] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1459] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar actual?
+	[Dòng 1462] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del siguiente año?
+	[Dòng 1465] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1460] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1461] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1464] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1467] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1462] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del siguiente año?
+	[Dòng 1465] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1463] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [1.00] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1464] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1467] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [1.00] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1465] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1466] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1467] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1468] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1469] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1470] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1471] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1472] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [1.00] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1473] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1474] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1475] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1476] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1477] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1478] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1479] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1480] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1481] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1482] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1483] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1484] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1485] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1487] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [1.00] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1488] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [1.00] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1489] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1492] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1490] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1491] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 2106] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE>?
+	[Dòng 2116] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> ahora?
+	[Dòng 2126] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> hoy?
+	[Dòng 2136] [0.97] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en la actualidad?
+	[Dòng 2146] [0.97] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en el día de hoy?
+-----------------
+[Dòng 2108] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> ahora en el mes?
+	[Dòng 2118] [1.00] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en el mes?
+	[Dòng 2128] [0.99] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> hoy en el mes?
+	[Dòng 2138] [0.99] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en el mes actual?
+	[Dòng 2148] [0.98] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en este día del mes?
+	[Dòng 2168] [0.99] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> del Este en el mes?
+-----------------
+[Dòng 2116] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> ahora?
+	[Dòng 2126] [0.99] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> hoy?
+	[Dòng 2136] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en la actualidad?
+	[Dòng 2146] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en el día de hoy?
+-----------------
+[Dòng 2118] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en el mes?
+	[Dòng 2128] [0.98] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> hoy en el mes?
+	[Dòng 2138] [0.99] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en el mes actual?
+	[Dòng 2148] [0.97] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en este día del mes?
+	[Dòng 2168] [0.99] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> del Este en el mes?
+-----------------
+[Dòng 2119] ¿Cuál es el día actual en <LC_CITY:BASE>Varsovia</LC_CITY:BASE>?
+	[Dòng 2129] [0.98] ¿Cuál es el día actual en <LC_CITY:BASE>Varsovia</LC_CITY:BASE> ahora?
+	[Dòng 2139] [0.98] ¿Cuál es el día actual en <LC_CITY:BASE>Varsovia</LC_CITY:BASE> en este momento?
+	[Dòng 2149] [0.99] ¿Cuál es el día actual en <LC_CITY:BASE>Varsovia</LC_CITY:BASE> en este día?
+-----------------
+[Dòng 2126] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> hoy?
+	[Dòng 2136] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en la actualidad?
+	[Dòng 2146] [0.99] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> en el día de hoy?
+	[Dòng 2186] [0.98] ¿En qué día estamos en <LC_COUNTRY:BASE>Japón</LC_COUNTRY:BASE> del Este en la actualidad?
+-----------------
+[Dòng 2128] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> hoy en el mes?
+	[Dòng 2138] [0.97] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en el mes actual?
+	[Dòng 2148] [0.99] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> en este día del mes?
+	[Dòng 2168] [0.98] ¿Qué día es ahora en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> del Este en el mes?
+	[Dòng 2198] [0.98] ¿Qué día es en <LC_COUNTRY:BASE>Francia</LC_COUNTRY:BASE> del Este en este día del mes?
+-----------------
+[Dòng 2208] ¿Cuál es el zodíaco de este año?
+	[Dòng 2216] [0.97] ¿Cuál es el zodíaco de este año en curso?
+	[Dòng 2240] [0.97] ¿Cuál es el zodíaco del año actual?
+	[Dòng 2244] [0.97] ¿Cuál es el zodíaco del año presente?
+	[Dòng 2250] [0.99] ¿Cuál es el zodíaco del presente año?
+-----------------
+[Dòng 2219] ¿Qué zodíaco rige el presente año?
+	[Dòng 2225] [0.97] ¿Qué zodíaco es el del año presente?
+	[Dòng 2236] [0.97] ¿Cuál es el zodíaco que rige el presente año?
+	[Dòng 2241] [0.97] ¿Qué zodíaco rige el presente año en curso?
+-----------------
+[Dòng 2225] ¿Qué zodíaco es el del año presente?
+	[Dòng 2236] [0.97] ¿Cuál es el zodíaco que rige el presente año?
+	[Dòng 2244] [0.98] ¿Cuál es el zodíaco del año presente?
+	[Dòng 2250] [0.98] ¿Cuál es el zodíaco del presente año?
+-----------------
+[Dòng 2751] ¿Puedes decirme la hora actual en <TIME_ZONE:DATETIME>Pacific Standard Time</TIME_ZONE:DATETIME>?
+	[Dòng 2759] [0.98] ¿Puedes informarme la hora actual en <TIME_ZONE:DATETIME>Pacific Standard Time</TIME_ZONE:DATETIME>, por favor?
+	[Dòng 2793] [0.99] ¿Me puedes decir la hora actual en <TIME_ZONE:DATETIME>Pacific Standard Time</TIME_ZONE:DATETIME>?
+	[Dòng 2797] [0.98] ¿Puedes informarme la hora actual en <TIME_ZONE:DATETIME>Pacific Standard Time</TIME_ZONE:DATETIME>?
+-----------------
+[Dòng 2959] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor?
+	[Dòng 3015] [0.99] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor?
+	[Dòng 3025] [0.98] ¿Cuál es el día de la semana de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3045] [0.98] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 2972] ¿Qué día de la semana corresponde a <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor?
+	[Dòng 3009] [0.98] ¿Qué día de la semana corresponde a <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3019] [0.99] ¿Qué día de la semana corresponde al día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor?
+	[Dòng 3049] [0.98] ¿Qué día de la semana corresponde al día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 3015] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>, por favor?
+	[Dòng 3025] [0.97] ¿Cuál es el día de la semana de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3035] [0.97] ¿Cuál es el día de la semana en este día?
+	[Dòng 3045] [0.97] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3050] [0.98] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 3025] ¿Cuál es el día de la semana de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3035] [0.98] ¿Cuál es el día de la semana en este día?
+	[Dòng 3040] [0.97] ¿Cuál es el día de la semana en la fecha de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3045] [1.00] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3050] [0.99] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 3035] ¿Cuál es el día de la semana en este día?
+	[Dòng 3040] [0.98] ¿Cuál es el día de la semana en la fecha de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3045] [0.98] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3050] [0.98] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 3085] ¿Qué día de la semana se festeja el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3198] [0.99] ¿Qué día de la semana se celebra el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3217] [0.98] ¿Cuál es el día de la semana en que se celebra el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3221] [0.98] ¿El <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME> se celebra en qué día de la semana?
+	[Dòng 3237] [0.98] ¿El <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME> se celebra qué día de la semana?
+-----------------
+[Dòng 3089] ¿Me podrías decir en qué día de la semana es el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3168] [1.00] ¿Me puedes decir en qué día de la semana es el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3218] [1.00] ¿Podrías decirme en qué día de la semana es el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3245] [0.98] ¿Podrías decirme qué día de la semana corresponde al <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+-----------------
+[Dòng 3198] ¿Qué día de la semana se celebra el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3199] [0.98] ¿Cuál es el día de la semana del <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3217] [0.99] ¿Cuál es el día de la semana en que se celebra el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+	[Dòng 3221] [0.99] ¿El <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME> se celebra en qué día de la semana?
+	[Dòng 3237] [0.99] ¿El <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME> se celebra qué día de la semana?
+-----------------
+[Dòng 3203] ¿Qué día de la semana se celebra el Viernes Santo?
+	[Dòng 3204] [0.97] ¿Cuál es el día de la semana del Viernes Santo?
+	[Dòng 3222] [0.99] ¿Cuál es el día de la semana en que se celebra el Viernes Santo?
+	[Dòng 3226] [0.98] ¿El Viernes Santo se celebra en qué día de la semana?
+	[Dòng 3238] [0.99] ¿El Viernes Santo se celebra qué día de la semana?
+-----------------
+[Dòng 3208] ¿Qué día de la semana se celebra la Nochevieja?
+	[Dòng 3227] [0.98] ¿Cuál es el día de la semana en que se celebra la Nochevieja?
+	[Dòng 3231] [0.97] ¿La Nochevieja se celebra en qué día de la semana?
+	[Dòng 3239] [0.98] ¿La Nochevieja se celebra qué día de la semana?
+-----------------
+[Dòng 3213] ¿Qué día de la semana se celebra la ceremonia de los Oscars?
+	[Dòng 3214] [0.98] ¿Cuál es el día de la semana de la ceremonia de los Oscars?
+	[Dòng 3232] [0.98] ¿Cuál es el día de la semana en que se celebra la ceremonia de los Oscars?
+	[Dòng 3236] [0.98] ¿La ceremonia de los Oscars se celebra en qué día de la semana?
+	[Dòng 3240] [0.98] ¿La ceremonia de los Oscars se celebra qué día de la semana?
+-----------------
+[Dòng 3566] Apaga la alarma de <DT_REL_DAY:DATETIME>mañana</DT_REL_DAY:DATETIME>.
+	[Dòng 3616] [0.97] Interrumpe la alarma de <DT_REL_DAY:DATETIME>mañana</DT_REL_DAY:DATETIME>.
+	[Dòng 3617] [0.97] Detén la alarma de <DT_REL_DAY:DATETIME>mañana</DT_REL_DAY:DATETIME>.
+	[Dòng 3618] [0.98] Apaga la alarma para <DT_REL_DAY:DATETIME>mañana</DT_REL_DAY:DATETIME>.
+-----------------
+[Dòng 3826] Ajusta la hora de <LC_CITY:BASE>Londres</LC_CITY:BASE> a la de <LC_CITY:BASE>Nueva York</LC_CITY:BASE>.
+	[Dòng 3831] [0.97] Ajusta el horario de <LC_CITY:BASE>Londres</LC_CITY:BASE> al de <LC_CITY:BASE>Nueva York</LC_CITY:BASE>.
+	[Dòng 3843] [1.00] Ajusta la hora de <LC_CITY:BASE>Nueva York</LC_CITY:BASE> a la de <LC_CITY:BASE>Londres</LC_CITY:BASE>.
+	[Dòng 3848] [0.97] Ajusta el horario de <LC_CITY:BASE>Nueva York</LC_CITY:BASE> al de <LC_CITY:BASE>Londres</LC_CITY:BASE>.
+-----------------
+[Dòng 974] ¿Cuántos días hasta el estreno de la nueva película de Startrack en Puerto Rico?
+	[Dòng 978] [0.98] ¿Cuántos días hasta el esperado estreno de la nueva película de Startrack en Puerto Rico?
+	[Dòng 982] [0.98] ¿Cuántos días hasta el estreno de la nueva película de Startrack en la isla de Puerto Rico, por favor?
+	[Dòng 990] [0.99] ¿Cuántos días hasta el estreno de la nueva película de Startrack en la isla de Puerto Rico?
+-----------------
+[Dòng 1367] ¿Cuál es la fecha en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1387] [0.98] ¿Cuál es el día y la fecha en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1410] [0.98] ¿Cuál es la fecha exacta en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 1432] [0.99] ¿Cuál es la fecha del día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 2955] [0.97] ¿Cuál es el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 1451] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1452] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1457] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar este año?
+	[Dòng 1460] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1469] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1490] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1452] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1458] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de este año?
+	[Dòng 1461] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1464] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1470] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1453] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar?
+	[Dòng 1459] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar actual?
+	[Dòng 1462] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del siguiente año?
+	[Dòng 1465] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1457] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar este año?
+	[Dòng 1458] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de este año?
+	[Dòng 1460] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1464] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1469] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1475] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1458] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de este año?
+	[Dòng 1461] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1464] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1470] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1459] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar actual?
+	[Dòng 1465] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1460] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1461] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1475] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1461] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del próximo año?
+	[Dòng 1463] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1464] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1467] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1470] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1476] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1462] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del siguiente año?
+	[Dòng 1465] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1463] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1464] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1466] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1464] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del pasado año?
+	[Dòng 1470] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1465] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del año anterior?
+	[Dòng 1468] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1474] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1477] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1466] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1467] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar el próximo mes?
+	[Dòng 1469] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1478] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1468] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes siguiente?
+	[Dòng 1471] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes anterior?
+	[Dòng 1480] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1469] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1470] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1472] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1470] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar del mes pasado?
+	[Dòng 1473] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1472] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1473] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1475] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1473] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1474] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1475] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1476] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1478] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1476] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1477] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME>?
+	[Dòng 1480] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1478] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1479] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1479] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1481] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1480] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>febrero</DT_MONTH:DATETIME>?
+	[Dòng 1483] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1486] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.97] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1481] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1482] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1484] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1482] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>enero</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1484] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1485] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1487] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.99] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1485] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1488] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.97] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1497] [0.99] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1500] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1486] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>diciembre</DT_MONTH:DATETIME>?
+	[Dòng 1489] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>noviembre</DT_MONTH:DATETIME>?
+	[Dòng 1495] [0.98] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1498] [0.99] ¿Cuál es el mes y la duración del <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1490] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1491] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>octubre</DT_MONTH:DATETIME>?
+	[Dòng 1493] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1493] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1494] [0.98] ¿Qué mes y cuántos días tiene el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME>?
+	[Dòng 1496] [0.98] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME>?
+	[Dòng 1499] [0.97] ¿En qué mes y cuántos días cae el <DT_DAY:DATETIME>1</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>marzo</DT_MONTH:DATETIME> en el calendario lunar de <DT_MONTH:DATETIME>julio</DT_MONTH:DATETIME>?
+-----------------
+[Dòng 1502] ¿Podrías decirme cuántos días tiene el <DT_DAY:DATETIME>15</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME> en el calendario lunar y en qué mes cae?
+	[Dòng 1511] [0.98] ¿Podrías decirme cuántos días tiene el <DT_DAY:DATETIME>20</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>mayo</DT_MONTH:DATETIME> en el calendario lunar y en qué mes cae?
+	[Dòng 1520] [0.98] ¿Podrías decirme cuántos días tiene el <DT_DAY:DATETIME>10</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>junio</DT_MONTH:DATETIME> en el calendario lunar y en qué mes cae?
+	[Dòng 1538] [0.98] ¿Podrías decirme cuántos días tiene el <DT_DAY:DATETIME>25</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME> en el calendario lunar y en qué mes cae?
+	[Dòng 1547] [0.98] ¿Podrías decirme cuántos días tiene el <DT_DAY:DATETIME>10</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>septiembre</DT_MONTH:DATETIME> en el calendario lunar y en qué mes cae?
+-----------------
+[Dòng 1509] ¿Me podrías decir cuántos días dura el <DT_DAY:DATETIME>15</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>abril</DT_MONTH:DATETIME> en el calendario lunar y en qué mes se encuentra?
+	[Dòng 1518] [0.97] ¿Me podrías decir cuántos días dura el <DT_DAY:DATETIME>20</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>mayo</DT_MONTH:DATETIME> en el calendario lunar y en qué mes se encuentra?
+	[Dòng 1527] [0.98] ¿Me podrías decir cuántos días dura el <DT_DAY:DATETIME>10</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>junio</DT_MONTH:DATETIME> en el calendario lunar y en qué mes se encuentra?
+	[Dòng 1545] [0.98] ¿Me podrías decir cuántos días dura el <DT_DAY:DATETIME>25</DT_DAY:DATETIME> de <DT_MONTH:DATETIME>agosto</DT_MONTH:DATETIME> en el calendario lunar y en qué mes se encuentra?
+-----------------
+[Dòng 2002] ¿Qué día es hoy en el mes lunar, por favor?
+	[Dòng 2014] [0.98] ¿Qué día del mes lunar es hoy, por favor?
+	[Dòng 2029] [0.97] ¿Qué día es hoy según el mes lunar, por favor?
+	[Dòng 2052] [0.97] ¿Qué día es hoy en el mes lunar?
+-----------------
+[Dòng 2041] ¿Qué día del mes de la luna es hoy, por favor?
+	[Dòng 2042] [0.97] ¿Qué día del mes de la luna corresponde a hoy, por favor?
+	[Dòng 2043] [0.98] ¿Qué día del mes de la luna cae hoy, por favor?
+	[Dòng 2091] [0.98] ¿Qué día del mes de la luna es hoy?
+-----------------
+[Dòng 2140] <LC_CITY:BASE>Londres</LC_CITY:BASE>, ¿puedes decirme la fecha del día de hoy en ese lugar?
+	[Dòng 2170] [0.98] <LC_CITY:BASE>Londres</LC_CITY:BASE>, ¿puedes decirme la fecha del día de hoy en Inglaterra?
+	[Dòng 2180] [0.98] <LC_CITY:BASE>Londres</LC_CITY:BASE>, ¿puedes decirme la fecha del día de hoy en ese lugar de <LC_COUNTRY:BASE>Reino Unido</LC_COUNTRY:BASE>?
+	[Dòng 2190] [0.99] <LC_CITY:BASE>Londres</LC_CITY:BASE>, ¿puedes decirme la fecha del día de hoy en ese lugar en Inglaterra?
+-----------------
+[Dòng 3025] ¿Cuál es el día de la semana de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3040] [0.98] ¿Cuál es el día de la semana en la fecha de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3045] [0.97] ¿Cuál es el día de la semana <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+	[Dòng 3050] [0.98] ¿Cuál es el día de la semana en el día de <DT_REL_DAY:DATETIME>hoy</DT_REL_DAY:DATETIME>?
+-----------------
+[Dòng 3088] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME> este año?
+	[Dòng 3097] [0.97] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día del Padre</DT_EVENT:DATETIME> este año?
+	[Dòng 3139] [0.97] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día de la Tierra</DT_EVENT:DATETIME> este año?
+	[Dòng 3162] [0.97] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día de los Enamorados</DT_EVENT:DATETIME> este año?
+	[Dòng 3195] [0.97] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día del Niño</DT_EVENT:DATETIME> este año?
+	[Dòng 3197] [0.98] ¿En qué día de la semana cae el <DT_EVENT:DATETIME>Día de la Madre</DT_EVENT:DATETIME>?
+-----------------
+[Dòng 3405] ¿Podrías decirme cuándo, en términos de día de la semana, es el <DT_EVENT:DATETIME>Día de la Tierra</DT_EVENT:DATETIME>?
+	[Dòng 3421] [0.98] ¿Podrías decirme cuándo, en términos de día de la semana, es el Día Internacional del Hombre?
+	[Dòng 3425] [0.99] ¿Podrías decirme cuándo, en términos de día de la semana, es el Día del Abogado?
+	[Dòng 3445] [0.98] ¿Podrías decirme cuándo, en términos de día de la semana, es el <DT_EVENT:DATETIME>Día de la Bandera</DT_EVENT:DATETIME>?
+-----------------
+[Dòng 3654] Desactiva el temporizador para mañana.
+	[Dòng 3662] [0.97] Desactiva el temporizador programado para mañana.
+	[Dòng 3681] [0.99] Desactiva el temporizador de mañana.
+	[Dòng 3718] [0.97] Desactiva el temporizador registrado para mañana.

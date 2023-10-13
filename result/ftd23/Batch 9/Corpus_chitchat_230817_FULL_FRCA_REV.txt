@@ -1,0 +1,199 @@
+
+-----------------
+[Dòng 994] Bonjour, comment sont <I:PERSON>mes</I:PERSON> cheveux aujourd'hui ?
+	[Dòng 1006] [1.00] Bonsoir, comment sont <I:PERSON>mes</I:PERSON> cheveux aujourd'hui ?
+	[Dòng 1010] [0.98] Comment sont <I:PERSON>mes</I:PERSON> cheveux aujourd'hui, svp ?
+	[Dòng 6560] [0.99] Comment sont <I:PERSON>mes</I:PERSON> cheveux aujourd'hui ?
+-----------------
+[Dòng 1384] Bonjour, <I:PERSON>mon</I:PERSON> fils n'a réussi aucun des examens de ce semestre.
+	[Dòng 1395] [0.99] Bonjour, <I:PERSON>mon</I:PERSON> fils n'a réussi aucun de ses examens ce semestre.
+	[Dòng 1401] [0.99] Bonsoir, <I:PERSON>mon</I:PERSON> fils n'a réussi aucun de ses examens ce semestre.
+	[Dòng 1413] [0.99] Salut, <I:PERSON>mon</I:PERSON> fils n'a réussi aucun de ses examens ce semestre.
+-----------------
+[Dòng 1641] Salut, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1642] [1.00] Bonjour, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1643] [0.97] Salut, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1656] [1.00] Bonsoir, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1657] [0.97] <I:PERSON>Je</I:PERSON> crois fermement que tous les hommes politiques sont corrompus.
+	[Dòng 1663] [0.99] <I:PERSON>Je</I:PERSON> crois que tous les hommes politiques sont corrompus.
+	[Dòng 1677] [0.97] Selon moi, tous les hommes politiques sont corrompus.
+	[Dòng 1679] [0.98] <I:PERSON>Je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1642] Bonjour, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1643] [0.97] Salut, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1644] [0.97] Bonsoir, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1656] [1.00] Bonsoir, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1663] [0.98] <I:PERSON>Je</I:PERSON> crois que tous les hommes politiques sont corrompus.
+	[Dòng 1679] [0.98] <I:PERSON>Je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1643] Salut, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1644] [1.00] Bonsoir, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1656] [0.97] Bonsoir, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1661] [0.99] D'après moi, tous les hommes politiques sont corrompus.
+	[Dòng 1677] [0.98] Selon moi, tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1644] Bonsoir, à <I:PERSON>mon</I:PERSON> avis, tous les hommes politiques sont corrompus.
+	[Dòng 1656] [0.97] Bonsoir, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1661] [0.99] D'après moi, tous les hommes politiques sont corrompus.
+	[Dòng 1677] [0.98] Selon moi, tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1656] Bonsoir, <I:PERSON>je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+	[Dòng 1657] [0.97] <I:PERSON>Je</I:PERSON> crois fermement que tous les hommes politiques sont corrompus.
+	[Dòng 1661] [0.97] D'après moi, tous les hommes politiques sont corrompus.
+	[Dòng 1663] [0.98] <I:PERSON>Je</I:PERSON> crois que tous les hommes politiques sont corrompus.
+	[Dòng 1679] [0.98] <I:PERSON>Je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1657] <I:PERSON>Je</I:PERSON> crois fermement que tous les hommes politiques sont corrompus.
+	[Dòng 1663] [0.99] <I:PERSON>Je</I:PERSON> crois que tous les hommes politiques sont corrompus.
+	[Dòng 1664] [0.97] <I:PERSON>J</I:PERSON>'ai l'impression que tous les hommes politiques sont corrompus.
+	[Dòng 1678] [0.98] Il me semble évident que tous les hommes politiques sont corrompus.
+	[Dòng 1679] [0.98] <I:PERSON>Je</I:PERSON> pense que tous les hommes politiques sont corrompus.
+-----------------
+[Dòng 1681] Ne pensez-vous pas que la politique est la source de tous les maux de nos jours ?
+	[Dòng 1682] [0.98] Ne pensez-vous pas que la politique est la source de tous les maux aujourd'hui ?
+	[Dòng 1684] [0.97] N'avez-vous pas l'impression que la politique est la source de tous les maux de nos jours ?
+	[Dòng 1696] [0.98] La politique est la source de tous les maux de nos jours, ne pensez-vous pas ?
+-----------------
+[Dòng 1691] Ne pensez-vous pas que si quelqu'un devient politicien, c'est uniquement parce qu'il veut voler de l'argent ?
+	[Dòng 1695] [0.99] Ne pensez-vous pas que si quelqu'un devient politicien, c'est parce qu'il a l'intention de voler de l'argent ?
+	[Dòng 1701] [0.99] Si quelqu'un devient politicien, c'est uniquement parce qu'il veut voler de l'argent, ne pensez-vous pas ?
+	[Dòng 1705] [0.97] Si quelqu'un devient politicien, c'est parce qu'il a l'intention de voler de l'argent, ne pensez-vous pas ?
+-----------------
+[Dòng 1739] Que signifie le nom Siri, svp ?
+	[Dòng 1754] [0.98] Que signifie le nom Siri ?
+	[Dòng 1771] [0.98] Salut, quelle est la signification du nom Siri ?
+	[Dòng 1774] [0.97] Quelle est la signification du nom Siri ?
+-----------------
+[Dòng 1993] Le taux de natalité augmente enfin au Canada.
+	[Dòng 2005] [0.98] Le taux de natalité au Canada est enfin en hausse.
+	[Dòng 2016] [1.00] Le taux de natalité au Canada augmente enfin.
+	[Dòng 2028] [0.99] Le taux de natalité est enfin en hausse au Canada.
+-----------------
+[Dòng 2131] Salut, la nuit dernière, un autre attentat terroriste a eu lieu.
+	[Dòng 2134] [0.99] Bonsoir, la nuit dernière, un autre attentat terroriste a eu lieu.
+	[Dòng 2147] [0.99] Bonjour, la nuit dernière, un autre attentat terroriste a eu lieu.
+	[Dòng 2151] [0.98] La nuit dernière, un autre attentat terroriste a eu lieu.
+-----------------
+[Dòng 2333] Demain, <I:PERSON>j</I:PERSON>'irai acheter des fleurs pour le jardin.
+	[Dòng 2358] [0.97] Demain, <I:PERSON>j</I:PERSON>'achèterai des fleurs pour notre jardin.
+	[Dòng 2366] [0.97] Demain, <I:PERSON>je</I:PERSON> vais acheter des fleurs pour le jardin.
+	[Dòng 2374] [0.98] Demain, <I:PERSON>j</I:PERSON>'achèterai des fleurs pour le jardin.
+-----------------
+[Dòng 2381] Salut, <I:PERSON>j</I:PERSON>'ai demandé à <I:PERSON>ma</I:PERSON> mère de m'acheter des aliments biologiques.
+	[Dòng 2382] [1.00] Bonjour, <I:PERSON>j</I:PERSON>'ai demandé à <I:PERSON>ma</I:PERSON> mère de m'acheter des aliments biologiques.
+	[Dòng 2413] [0.99] Bonsoir, <I:PERSON>j</I:PERSON>'ai demandé à <I:PERSON>ma</I:PERSON> mère de m'acheter des aliments biologiques.
+	[Dòng 2429] [0.97] <I:PERSON>J</I:PERSON>'ai demandé à <I:PERSON>ma</I:PERSON> mère de m'acheter des aliments biologiques.
+-----------------
+[Dòng 2693] Salut, demain, <I:PERSON>j</I:PERSON>'ai un rendez-vous avec une femme de Buenos Aires, <I:PERSON>j</I:PERSON>'espère que ça se passera bien !
+	[Dòng 2723] [0.97] Demain, <I:PERSON>j</I:PERSON>'ai rendez-vous avec une femme de Buenos Aires, <I:PERSON>j</I:PERSON>'espère que ça se passera bien !
+	[Dòng 2725] [0.98] Demain, <I:PERSON>j</I:PERSON>'ai un rendez-vous avec une femme de Buenos Aires, <I:PERSON>j</I:PERSON>'espère que ça se passera bien !
+	[Dòng 2730] [0.98] <I:PERSON>J</I:PERSON>'ai un rendez-vous avec une femme de Buenos Aires demain, <I:PERSON>j</I:PERSON>'espère que ça se passera bien !
+-----------------
+[Dòng 2781] Salut, <I:PERSON>je</I:PERSON> n'ai jamais eu de petit ami.
+	[Dòng 2793] [1.00] Bonsoir, <I:PERSON>je</I:PERSON> n'ai jamais eu de petit ami.
+	[Dòng 2801] [1.00] Bonjour, <I:PERSON>je</I:PERSON> n'ai jamais eu de petit ami.
+	[Dòng 2831] [0.98] <I:PERSON>Je</I:PERSON> n'ai jamais eu de petit ami.
+-----------------
+[Dòng 2784] Salut, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2792] [0.99] Bonjour, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'avoir une relation romantique.
+	[Dòng 2804] [1.00] Bonjour, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2816] [0.98] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'avoir une relation romantique.
+	[Dòng 2820] [1.00] Bonsoir, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2824] [0.99] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+-----------------
+[Dòng 2792] Bonjour, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'avoir une relation romantique.
+	[Dòng 2804] [0.99] Bonjour, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2816] [0.99] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'avoir une relation romantique.
+	[Dòng 2820] [0.99] Bonsoir, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2824] [0.98] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+-----------------
+[Dòng 2804] Bonjour, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2816] [0.98] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'avoir une relation romantique.
+	[Dòng 2820] [1.00] Bonsoir, <I:PERSON>je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+	[Dòng 2824] [0.99] <I:PERSON>Je</I:PERSON> préfère passer du temps avec des amis plutôt que d'être dans une relation romantique.
+-----------------
+[Dòng 2835] Bonjour, avez-vous déjà eu un petit ami ou une petite amie ?
+	[Dòng 2851] [1.00] Salut, avez-vous déjà eu un petit ami ou une petite amie ?
+	[Dòng 2867] [1.00] Bonsoir, avez-vous déjà eu un petit ami ou une petite amie ?
+	[Dòng 2871] [0.99] Avez-vous déjà eu un petit ami ou une petite amie ?
+-----------------
+[Dòng 3041] Qu'en pensez-vous d'être un assistant numérique ?
+	[Dòng 3064] [0.97] Bonjour, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3066] [0.97] Salut, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3069] [0.97] Bonsoir, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3080] [0.98] Que pensez-vous du fait d'être un assistant numérique ?
+-----------------
+[Dòng 3064] Bonjour, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3066] [1.00] Salut, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3069] [1.00] Bonsoir, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3070] [0.99] Salut, que pensez-vous du fait d'être un assistant numérique, svp ?
+	[Dòng 3080] [0.99] Que pensez-vous du fait d'être un assistant numérique ?
+-----------------
+[Dòng 3066] Salut, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3069] [1.00] Bonsoir, que pensez-vous du fait d'être un assistant numérique ?
+	[Dòng 3070] [0.99] Salut, que pensez-vous du fait d'être un assistant numérique, svp ?
+	[Dòng 3080] [0.99] Que pensez-vous du fait d'être un assistant numérique ?
+-----------------
+[Dòng 3089] Salut, <U:PERSON>vous</U:PERSON> aimez les animaux ?
+	[Dòng 3107] [1.00] Bonjour, <U:PERSON>vous</U:PERSON> aimez les animaux ?
+	[Dòng 3125] [0.99] Bonsoir, <U:PERSON>vous</U:PERSON> aimez les animaux ?
+	[Dòng 8521] [0.99] <U:PERSON>Vous</U:PERSON> aimez les animaux ?
+-----------------
+[Dòng 3132] Bonjour, quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+	[Dòng 3137] [1.00] Salut, quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+	[Dòng 3147] [0.98] Quel est <U:PERSON>votre</U:PERSON> artiste préféré, svp ?
+	[Dòng 3167] [1.00] Bonsoir, quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+	[Dòng 3177] [0.98] Quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+-----------------
+[Dòng 3136] Salut, avez-vous un film préféré ?
+	[Dòng 3141] [0.99] Bonsoir, avez-vous un film préféré ?
+	[Dòng 3161] [0.98] Avez-vous un film préféré, svp ?
+	[Dòng 8986] [0.97] Avez-vous un film préféré ?
+-----------------
+[Dòng 3137] Salut, quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+	[Dòng 3147] [0.98] Quel est <U:PERSON>votre</U:PERSON> artiste préféré, svp ?
+	[Dòng 3167] [0.99] Bonsoir, quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+	[Dòng 3177] [0.99] Quel est <U:PERSON>votre</U:PERSON> artiste préféré ?
+-----------------
+[Dòng 6280] <I:PERSON>J</I:PERSON>'ai rêvé que <I:PERSON>ma</I:PERSON> voiture avait un accident.
+	[Dòng 6282] [0.97] <I:PERSON>J</I:PERSON>'ai fait un rêve dans lequel <I:PERSON>ma</I:PERSON> voiture avait un accident.
+	[Dòng 6286] [0.98] <I:PERSON>J</I:PERSON>'ai rêvé que <I:PERSON>j</I:PERSON>'avais un accident de voiture.
+	[Dòng 6290] [0.98] <I:PERSON>J</I:PERSON>'ai rêvé que <I:PERSON>ma</I:PERSON> voiture était impliquée dans un accident.
+-----------------
+[Dòng 7601] Dites-moi, quel est <U:PERSON>votre</U:PERSON> signe astrologique ?
+	[Dòng 7607] [0.98] Salut, quel est <U:PERSON>votre</U:PERSON> signe astrologique ?
+	[Dòng 7611] [0.98] Bonjour, quel est <U:PERSON>votre</U:PERSON> signe astrologique ?
+	[Dòng 7612] [0.98] Quel est <U:PERSON>votre</U:PERSON> signe astrologique ?
+-----------------
+[Dòng 7645] Bonjour, avez-vous l'habitude de fumer ?
+	[Dòng 7646] [1.00] Bonsoir, avez-vous l'habitude de fumer ?
+	[Dòng 7651] [1.00] Salut, avez-vous l'habitude de fumer ?
+	[Dòng 7658] [0.98] Avez-vous l'habitude de fumer ?
+-----------------
+[Dòng 7761] Quelle est <U:PERSON>ta</U:PERSON> pointure de chaussures ?
+	[Dòng 7764] [0.98] Quelle est la pointure de <U:PERSON>tes</U:PERSON> chaussures ?
+	[Dòng 7768] [0.98] Quelle est <U:PERSON>ta</U:PERSON> pointure pour les chaussures ?
+	[Dòng 7769] [0.97] C'est quoi <U:PERSON>ta</U:PERSON> pointure de chaussures ?
+	[Dòng 7771] [0.97] Quelle pointure de chaussures mets-tu ?
+	[Dòng 7775] [0.99] Quelle est <U:PERSON>ta</U:PERSON> pointure en chaussures ?
+-----------------
+[Dòng 8065] As-tu connaissance de la signification de <U:PERSON>ton</U:PERSON> prénom ?
+	[Dòng 8068] [0.97] Connais-tu la signification de <U:PERSON>ton</U:PERSON> prénom ?
+	[Dòng 8073] [0.97] Es-tu au courant de la signification de <U:PERSON>ton</U:PERSON> prénom ?
+	[Dòng 8077] [0.97] Connais-tu la signification derrière <U:PERSON>ton</U:PERSON> prénom ?
+-----------------
+[Dòng 9343] Salut, <I:PERSON>je</I:PERSON> me demande quel est <U:PERSON>ton</U:PERSON> groupe sanguin.
+	[Dòng 9347] [1.00] Bonjour, <I:PERSON>je</I:PERSON> me demande quel est <U:PERSON>ton</U:PERSON> groupe sanguin.
+	[Dòng 9350] [0.98] <I:PERSON>Je</I:PERSON> me demande quel est <U:PERSON>ton</U:PERSON> groupe sanguin.
+	[Dòng 9356] [0.97] <I:PERSON>J</I:PERSON>'aimerais savoir quel est <U:PERSON>ton</U:PERSON> groupe sanguin.
+-----------------
+[Dòng 1382] Ce semestre, <I:PERSON>mon</I:PERSON> fils n'a réussi aucun examen.
+	[Dòng 1407] [0.99] Mon fils n'a réussi aucun examen ce semestre.
+	[Dòng 1416] [0.97] Mon fils n'a réussi aucun de ses examens ce semestre.
+	[Dòng 1419] [0.97] Mon fils n'a réussi aucun des examens de ce semestre.
+-----------------
+[Dòng 1386] La compagnie de téléphone est un désastre, elle ne s'est pas présentée pour résoudre <I:PERSON>mon</I:PERSON> problème.
+	[Dòng 1388] [0.97] La compagnie de téléphone est un désastre, elle n'a pas réussi à résoudre <I:PERSON>mon</I:PERSON> problème.
+	[Dòng 1405] [0.99] La compagnie de téléphone est un véritable désastre, elle ne s'est pas présentée pour résoudre <I:PERSON>mon</I:PERSON> problème.
+	[Dòng 1414] [0.98] La compagnie de téléphone est un véritable désastre, elle ne s'est même pas présentée pour régler <I:PERSON>mon</I:PERSON> problème.
+	[Dòng 1420] [0.98] La compagnie de téléphone est un véritable désastre, elle ne s'est même pas présentée pour résoudre <I:PERSON>mon</I:PERSON> problème.

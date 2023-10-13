@@ -1,0 +1,351 @@
+
+-----------------
+[Dòng 441] J'aimerais connaître le taux d'humidité de <LC_CITY:BASE>Vancouver</LC_CITY:BASE>.
+	[Dòng 448] [0.97] J'aimerais en savoir plus sur le taux d'humidité de <LC_CITY:BASE>Vancouver</LC_CITY:BASE>.
+	[Dòng 455] [0.97] J'ai besoin de connaître le taux d'humidité à <LC_CITY:BASE>Vancouver</LC_CITY:BASE>, s'il vous plaît.
+	[Dòng 469] [0.98] J'aimerais connaître le taux d'humidité à <LC_CITY:BASE>Vancouver</LC_CITY:BASE> en ce moment.
+-----------------
+[Dòng 450] Excusez-moi, quel est le taux d'humidité actuel à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 457] [0.98] Bonjour, quel est le taux d'humidité actuel à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 471] [0.98] Bonsoir, quel est le taux d'humidité actuel à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+	[Dòng 478] [0.98] Quel est le taux d'humidité actuel à <LC_CITY:BASE>Winnipeg</LC_CITY:BASE> ?
+-----------------
+[Dòng 829] Excusez-moi, quelle est la probabilité de grêle au <LC_CITY:BASE>Québec</LC_CITY:BASE> <DT_WEEKDAY:DATETIME>jeudi</DT_WEEKDAY:DATETIME> ?
+	[Dòng 837] [0.98] Bonsoir, quelle est la probabilité de grêle au <LC_CITY:BASE>Québec</LC_CITY:BASE> <DT_WEEKDAY:DATETIME>jeudi</DT_WEEKDAY:DATETIME> ?
+	[Dòng 845] [0.98] Bonjour, quelle est la probabilité de grêle au <LC_CITY:BASE>Québec</LC_CITY:BASE> <DT_WEEKDAY:DATETIME>jeudi</DT_WEEKDAY:DATETIME> ?
+	[Dòng 860] [0.98] Quelle est la probabilité de grêle au <LC_CITY:BASE>Québec</LC_CITY:BASE> <DT_WEEKDAY:DATETIME>jeudi</DT_WEEKDAY:DATETIME> ?
+-----------------
+[Dòng 1315] Bonsoir, quel est le taux d'humidité prévu dans les environs du <POI:BASE>Musée Glenbow</POI:BASE> la semaine prochaine ?
+	[Dòng 1335] [0.99] Quel est le taux d'humidité prévu dans les environs du <POI:BASE>Musée Glenbow</POI:BASE> la semaine prochaine ?
+	[Dòng 1344] [0.98] Quel est le taux d'humidité prévu dans la région du <POI:BASE>Musée Glenbow</POI:BASE> la semaine prochaine ?
+	[Dòng 1350] [0.98] Excusez-moi, quel est le taux d'humidité prévu dans les environs du <POI:BASE>Musée Glenbow</POI:BASE> la semaine prochaine ?
+-----------------
+[Dòng 1453] Quelle sera l'heure du lever du soleil au <POI:BASE>Parc Jean Drapeau</POI:BASE> la semaine prochaine ?
+	[Dòng 1459] [0.99] Quelle est l'heure du lever du soleil la semaine prochaine au <POI:BASE>Parc Jean Drapeau</POI:BASE> ?
+	[Dòng 1461] [0.98] Quelle sera l'heure du coucher de soleil autour du <POI:BASE>Parc Jean Drapeau</POI:BASE> la semaine prochaine ?
+	[Dòng 1464] [0.97] Quelle est l'heure du coucher de soleil autour du <POI:BASE>Parc Jean Drapeau</POI:BASE> la semaine prochaine ?
+-----------------
+[Dòng 1701] Excusez-moi, pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1709] [0.97] Pouvez-vous me donner des détails sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1717] [0.98] Pouvez-vous m'informer de la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1729] [0.97] Pouvez-vous m'informer sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1740] [0.97] Pouvez-vous me fournir des informations sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1748] [0.99] Pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1709] Pouvez-vous me donner des détails sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1717] [0.98] Pouvez-vous m'informer de la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1729] [0.98] Pouvez-vous m'informer sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1740] [0.99] Pouvez-vous me fournir des informations sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1748] [0.98] Pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1715] Pourriez-vous me donner des informations sur la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1719] [0.97] Bonsoir, pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1723] [0.97] Pourriez-vous m'informer de la probabilité de grêle dans les environs du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1738] [0.99] Pourriez-vous me donner des détails sur la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1742] [0.98] Pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1716] Excusez-moi, quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1720] [0.99] Excusez-moi, quelles sont les probabilités de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1724] [1.00] Excusez-moi, quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1735] [0.98] Quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1739] [0.98] Quelles sont les probabilités de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1743] [0.98] Quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1750] [0.98] Excusez-moi, savez-vous quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1717] Pouvez-vous m'informer de la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1729] [1.00] Pouvez-vous m'informer sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1740] [0.99] Pouvez-vous me fournir des informations sur la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+	[Dòng 1748] [0.98] Pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc National de la Jacques-Cartier</POI:BASE>, <LC_ROAD:DEST>Chem. du Parc-National</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1719] Bonsoir, pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1731] [0.98] Pourriez-vous me dire quelles sont les probabilités de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1738] [0.97] Pourriez-vous me donner des détails sur la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+	[Dòng 1742] [0.99] Pouvez-vous m'indiquer la probabilité de grêle autour du <POI:BASE>Parc Assiniboine</POI:BASE>, <LC_ROAD:DEST>Pavilion Crescent</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1720] Excusez-moi, quelles sont les probabilités de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1724] [0.99] Excusez-moi, quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1735] [0.98] Quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1739] [0.98] Quelles sont les probabilités de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1743] [0.98] Quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1750] [0.97] Excusez-moi, savez-vous quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+-----------------
+[Dòng 1724] Excusez-moi, quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1735] [0.98] Quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1739] [0.98] Quelles sont les probabilités de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1743] [0.98] Quelle est la probabilité de grêle autour de <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+	[Dòng 1750] [0.98] Excusez-moi, savez-vous quelle est la probabilité de grêle autour du <POI:BASE>MNBAQ</POI:BASE>, <LC_ROAD:DEST>Grande Allée Ouest</LC_ROAD:DEST> ?
+-----------------
+[Dòng 2101] Pouvez-vous me dire quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2102] [0.98] Excusez-moi, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2124] [0.98] Bonsoir, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2141] [0.97] Bonjour, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2147] [0.98] Quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+-----------------
+[Dòng 2107] Pourriez-vous m'indiquer la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> autour de la voiture ?
+	[Dòng 2113] [0.98] Pourriez-vous m'indiquer la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> par rapport à la voiture ?
+	[Dòng 2134] [0.98] Pouvez-vous m'indiquer la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> de la voiture ?
+	[Dòng 2148] [0.98] Pouvez-vous m'indiquer la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+-----------------
+[Dòng 2117] Bonsoir, quelle est la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> autour de la voiture ?
+	[Dòng 2123] [0.98] Quelle est la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> autour de la voiture ?
+	[Dòng 2124] [0.98] Bonsoir, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2141] [0.98] Bonjour, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+-----------------
+[Dòng 2123] Quelle est la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> autour de la voiture ?
+	[Dòng 2124] [0.97] Bonsoir, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2141] [0.97] Bonjour, quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+	[Dòng 2147] [0.98] Quelle est la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture ?
+-----------------
+[Dòng 2129] En quoi la température à l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> de la voiture est-elle différente de celle de l'<LC_IN:BASE>intérieur</LC_IN:BASE> ?
+	[Dòng 2146] [0.99] En quoi la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> est-elle différente de celle de l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2178] [1.00] En quoi la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture est-elle différente de celle de l'<LC_OUT:BASE>extérieur</LC_OUT:BASE> ?
+	[Dòng 2196] [0.99] En quoi la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture est-elle différente de la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> ?
+-----------------
+[Dòng 2151] Excusez-moi, pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2152] [0.98] Excusez-moi, quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2188] [0.98] Bonjour, pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2195] [0.99] Pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+-----------------
+[Dòng 2152] Excusez-moi, quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2154] [0.97] Bonsoir, quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2169] [0.97] Je suis curieux de savoir quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2170] [0.97] Excusez-moi, quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture par rapport à la température <LC_OUT:BASE>extérieure</LC_OUT:BASE> ?
+	[Dòng 2195] [0.98] Pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2197] [0.97] Quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+-----------------
+[Dòng 2154] Bonsoir, quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2172] [0.97] Quelle est la température <LC_IN:BASE>intérieure</LC_IN:BASE> de la voiture ?
+	[Dòng 2188] [0.98] Bonjour, pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2195] [0.98] Pouvez-vous me dire quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2197] [0.99] Quelle est la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+-----------------
+[Dòng 2157] Excusez-moi, pourriez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2194] [0.98] Bonsoir, pourriez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2198] [0.98] Pouvez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2200] [0.98] Pourriez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+-----------------
+[Dòng 2166] Pouvez-vous m'indiquer la température <LC_IN:BASE>intérieure</LC_IN:BASE> de la voiture ?
+	[Dòng 2194] [0.97] Bonsoir, pourriez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2198] [0.98] Pouvez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+	[Dòng 2200] [0.98] Pourriez-vous m'indiquer la température à l'<LC_IN:BASE>intérieur</LC_IN:BASE> de la voiture ?
+-----------------
+[Dòng 2401] Pouvez-vous me donner des informations sur les alertes météorologiques pour la <DT_REL_WEEK:DATETIME>semaine prochaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 2404] [0.97] Avez-vous des informations sur les alertes météorologiques pour la <DT_REL_WEEK:DATETIME>semaine prochaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 2406] [0.97] Pourriez-vous m'informer des alertes météorologiques pour la <DT_REL_WEEK:DATETIME>semaine prochaine</DT_REL_WEEK:DATETIME> ?
+	[Dòng 2417] [0.98] Pouvez-vous m'informer sur les alertes météorologiques de la <DT_REL_WEEK:DATETIME>semaine prochaine</DT_REL_WEEK:DATETIME> ?
+-----------------
+[Dòng 2601] Y a-t-il des alertes à la tempête ?
+	[Dòng 2602] [0.97] Y a-t-il actuellement des alertes à la tempête ?
+	[Dòng 2607] [0.98] Existe-t-il des alertes à la tempête ?
+	[Dòng 2610] [0.97] Bonsoir, y a-t-il des alertes à la tempête en cours ?
+	[Dòng 2631] [0.99] Y a-t-il des alertes à la tempête en cours ?
+-----------------
+[Dòng 2611] Bonjour, y a-t-il des alertes à la tempête à surveiller ?
+	[Dòng 2633] [0.99] Bonsoir, y a-t-il des alertes aux tempêtes à surveiller ?
+	[Dòng 2635] [0.98] Y a-t-il des alertes à la tempête à surveiller ?
+	[Dòng 2650] [0.97] Y a-t-il des alertes aux tempêtes à surveiller ?
+-----------------
+[Dòng 2702] Bonsoir, y aura-t-il une forte vague de vent <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> ?
+	[Dòng 2704] [0.99] Bonjour, y aura-t-il <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> une forte vague de vent ?
+	[Dòng 2719] [0.97] Y aura-t-il <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> une forte vague de vent ?
+	[Dòng 2747] [0.98] Y aura-t-il une forte vague de vent <DT_REL_DAY:DATETIME>demain</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2751] Une vague de froid est-elle attendue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2774] [1.00] Une vague de froid est-elle attendue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.97] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.97] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2756] Bonjour, une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2761] [0.98] Est-ce qu'une vague de froid est prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.98] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.98] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.98] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2761] Est-ce qu'une vague de froid est prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2771] [0.97] Une vague de froid aura-t-elle lieu à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.99] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.99] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.98] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2762] Une vague de froid sera-t-elle présente à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2771] [0.98] Une vague de froid aura-t-elle lieu à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.98] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2771] Une vague de froid aura-t-elle lieu à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.98] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+-----------------
+[Dòng 2774] Une vague de froid est-elle attendue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2788] [0.98] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2785] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.99] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.99] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.99] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2801] Bonjour, une alerte au tsunami a-t-elle été émise pour les prochaines heures ?
+	[Dòng 2810] [0.98] Bonsoir, une alerte au tsunami a-t-elle été déclenchée pour les prochaines heures ?
+	[Dòng 2841] [0.99] Une alerte au tsunami a-t-elle été émise pour les prochaines heures ?
+	[Dòng 2846] [0.98] Une alerte au tsunami a-t-elle été déclenchée pour les prochaines heures ?
+-----------------
+[Dòng 2804] Y a-t-il des alertes au tsunami pour les prochaines heures ?
+	[Dòng 2809] [0.98] Existe-t-il une alerte au tsunami pour les prochaines heures ?
+	[Dòng 2817] [0.99] Y a-t-il une alerte au tsunami en cours pour les prochaines heures ?
+	[Dòng 2818] [0.98] Y a-t-il une alerte au tsunami à connaître dans les prochaines heures ?
+	[Dòng 2828] [0.98] Y a-t-il une alerte au tsunami pour les heures suivantes ?
+	[Dòng 2831] [0.99] Y a-t-il une alerte au tsunami pour les prochaines heures ?
+	[Dòng 2832] [0.97] Y a-t-il une alerte au tsunami à prendre en compte pour les prochaines heures ?
+-----------------
+[Dòng 2806] Une alerte au tsunami a-t-elle été déclarée pour les prochaines heures ?
+	[Dòng 2816] [0.98] Une alerte au tsunami a-t-elle été communiquée pour les prochaines heures ?
+	[Dòng 2822] [0.97] Une alerte au tsunami a-t-elle été signalée pour les prochaines heures ?
+	[Dòng 2827] [0.98] Une alerte au tsunami a-t-elle été annoncée pour les prochaines heures ?
+-----------------
+[Dòng 2809] Existe-t-il une alerte au tsunami pour les prochaines heures ?
+	[Dòng 2817] [0.99] Y a-t-il une alerte au tsunami en cours pour les prochaines heures ?
+	[Dòng 2818] [0.98] Y a-t-il une alerte au tsunami à connaître dans les prochaines heures ?
+	[Dòng 2828] [0.98] Y a-t-il une alerte au tsunami pour les heures suivantes ?
+	[Dòng 2831] [0.99] Y a-t-il une alerte au tsunami pour les prochaines heures ?
+	[Dòng 2838] [0.97] Y a-t-il une alerte au tsunami pour les heures à venir ?
+-----------------
+[Dòng 2816] Une alerte au tsunami a-t-elle été communiquée pour les prochaines heures ?
+	[Dòng 2822] [0.98] Une alerte au tsunami a-t-elle été signalée pour les prochaines heures ?
+	[Dòng 2827] [0.98] Une alerte au tsunami a-t-elle été annoncée pour les prochaines heures ?
+	[Dòng 2837] [0.97] Une alerte au tsunami a-t-elle été confirmée pour les prochaines heures ?
+	[Dòng 2841] [0.97] Une alerte au tsunami a-t-elle été émise pour les prochaines heures ?
+-----------------
+[Dòng 2817] Y a-t-il une alerte au tsunami en cours pour les prochaines heures ?
+	[Dòng 2818] [0.98] Y a-t-il une alerte au tsunami à connaître dans les prochaines heures ?
+	[Dòng 2828] [0.98] Y a-t-il une alerte au tsunami pour les heures suivantes ?
+	[Dòng 2831] [1.00] Y a-t-il une alerte au tsunami pour les prochaines heures ?
+	[Dòng 2832] [0.98] Y a-t-il une alerte au tsunami à prendre en compte pour les prochaines heures ?
+	[Dòng 2850] [0.97] Y a-t-il une alerte au tsunami à surveiller dans les prochaines heures ?
+-----------------
+[Dòng 2902] Y a-t-il un avertissement de tempête de sable en vigueur pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2917] [0.98] Y a-t-il un avertissement de tempête de sable en cours pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2926] [0.98] Bonjour, y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2929] [0.98] Y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2931] [0.98] Y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2932] [0.97] Y a-t-il un avertissement de tempête de sable à prendre en compte pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2934] [0.97] Y a-t-il un avertissement de tempête de sable pour ce jour ?
+	[Dòng 2947] [0.97] Y a-t-il un avertissement de tempête de sable à respecter <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2904] Y a-t-il des avis de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2909] [0.97] Existe-t-il un avis de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2915] [0.97] Y a-t-il un avis de tempête de sable en vigueur pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2938] [1.00] Y a-t-il un avis de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2917] Y a-t-il un avertissement de tempête de sable en cours pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2926] [0.98] Bonjour, y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2929] [0.99] Y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2931] [0.99] Y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2934] [0.97] Y a-t-il un avertissement de tempête de sable pour ce jour ?
+-----------------
+[Dòng 2921] Excusez-moi, y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2923] [0.97] Excusez-moi, y a-t-il un avertissement de tempête de sable à respecter <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2929] [0.97] Y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2931] [0.97] Y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2926] Bonjour, y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2929] [0.99] Y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2931] [0.99] Y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2934] [0.98] Y a-t-il un avertissement de tempête de sable pour ce jour ?
+-----------------
+[Dòng 2962] Quelle est la vitesse du vent aux alentours ?
+	[Dòng 2981] [0.98] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> proches ?
+	[Dòng 2986] [0.97] Bonjour, quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> ?
+	[Dòng 2994] [0.98] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> ?
+	[Dòng 3000] [0.97] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> immédiats ?
+-----------------
+[Dòng 2981] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> proches ?
+	[Dòng 2984] [0.97] Quelle est la vitesse du vent à <QT_REL_DISTANCE:BASE>proximité</QT_REL_DISTANCE:BASE> ?
+	[Dòng 2986] [0.97] Bonjour, quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> ?
+	[Dòng 2994] [0.98] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> ?
+	[Dòng 3000] [0.98] Quelle est la vitesse du vent dans les <QT_REL_DISTANCE:BASE>environs</QT_REL_DISTANCE:BASE> immédiats ?
+-----------------
+[Dòng 1252] Quel est l'indice d'aridité prévu autour du <POI:BASE>Musée de la Civilisation</POI:BASE> la semaine prochaine ?
+	[Dòng 1272] [0.97] Quel est l'indice d'aridité prévu à proximité du <POI:BASE>Musée de la Civilisation</POI:BASE> la semaine prochaine ?
+	[Dòng 1282] [0.97] Quel est le niveau attendu de l'indice d'aridité autour du <POI:BASE>Musée de la Civilisation</POI:BASE> la semaine prochaine ?
+	[Dòng 1292] [0.97] Quel est l'indice d'aridité prévu dans la zone du <POI:BASE>Musée de la Civilisation</POI:BASE> pour la semaine prochaine ?
+-----------------
+[Dòng 1384] Y a-t-il un risque de foudre dans les environs de la <POI:BASE>Cathédrale Marie-Reine-du-Monde</POI:BASE> la semaine prochaine ?
+	[Dòng 1394] [0.98] Y a-t-il un risque de foudre dans la région de la <POI:BASE>Cathédrale Marie-Reine-du-Monde</POI:BASE> la semaine prochaine ?
+	[Dòng 1424] [0.97] Y a-t-il un risque de grêle autour de la <POI:BASE>Cathédrale Marie-Reine-du-Monde</POI:BASE> la semaine prochaine ?
+	[Dòng 1444] [0.99] Y a-t-il un risque de grêle dans les environs de la <POI:BASE>Cathédrale Marie-Reine-du-Monde</POI:BASE> la semaine prochaine ?
+-----------------
+[Dòng 2760] Une vague de froid s'annonce-t-elle à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2781] [0.98] Une vague de froid s'annonce-t-elle à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2800] [0.98] Une vague de froid s'abattra-t-elle sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+-----------------
+[Dòng 2762] Une vague de froid sera-t-elle présente à <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2773] [0.97] Une vague de froid va-t-elle s'abattre sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2800] [0.98] Une vague de froid s'abattra-t-elle sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+-----------------
+[Dòng 2773] Une vague de froid va-t-elle s'abattre sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2785] [0.97] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2796] [0.98] Une vague de froid touchera-t-elle <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2800] [0.99] Une vague de froid s'abattra-t-elle sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+-----------------
+[Dòng 2785] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+	[Dòng 2788] [0.98] Une vague de froid est-elle prévue à <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2795] [0.98] Une vague de froid est-elle prévue la semaine prochaine à <LC_CITY:BASE>Montréal</LC_CITY:BASE> ?
+	[Dòng 2797] [0.98] Une vague de froid est-elle prévue pour <LC_CITY:BASE>Montréal</LC_CITY:BASE> la semaine prochaine ?
+	[Dòng 2800] [0.98] Une vague de froid s'abattra-t-elle sur <LC_CITY:BASE>Montréal</LC_CITY:BASE> à partir de la semaine prochaine ?
+-----------------
+[Dòng 2806] Une alerte au tsunami a-t-elle été déclarée pour les prochaines heures ?
+	[Dòng 2816] [0.97] Une alerte au tsunami a-t-elle été communiquée pour les prochaines heures ?
+	[Dòng 2837] [0.97] Une alerte au tsunami a-t-elle été confirmée pour les prochaines heures ?
+	[Dòng 2841] [0.98] Une alerte au tsunami a-t-elle été émise pour les prochaines heures ?
+	[Dòng 2846] [0.99] Une alerte au tsunami a-t-elle été déclenchée pour les prochaines heures ?
+-----------------
+[Dòng 2816] Une alerte au tsunami a-t-elle été communiquée pour les prochaines heures ?
+	[Dòng 2833] [0.98] Une alerte au tsunami a-t-elle été diffusée pour les prochaines heures ?
+	[Dòng 2837] [0.98] Une alerte au tsunami a-t-elle été confirmée pour les prochaines heures ?
+	[Dòng 2841] [0.98] Une alerte au tsunami a-t-elle été émise pour les prochaines heures ?
+	[Dòng 2846] [0.97] Une alerte au tsunami a-t-elle été déclenchée pour les prochaines heures ?
+-----------------
+[Dòng 2903] Un avis de tempête de sable a-t-il été annoncé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2906] [0.98] Un avis de tempête de sable a-t-il été déclaré pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2910] [0.98] Un avis de tempête de sable a-t-il été déclenché pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2916] [0.98] Un avis de tempête de sable a-t-il été communiqué pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2919] [0.98] Un avis de tempête de sable a-t-il été lancé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2930] [0.97] Un avis de tempête de sable a-t-il été émis pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2933] [0.97] Un avis de tempête de sable a-t-il été diffusé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2937] [0.98] Un avis de tempête de sable a-t-il été confirmé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2906] Un avis de tempête de sable a-t-il été déclaré pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2910] [1.00] Un avis de tempête de sable a-t-il été déclenché pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2916] [0.99] Un avis de tempête de sable a-t-il été communiqué pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2919] [0.97] Un avis de tempête de sable a-t-il été lancé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2937] [0.98] Un avis de tempête de sable a-t-il été confirmé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2910] Un avis de tempête de sable a-t-il été déclenché pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2916] [0.98] Un avis de tempête de sable a-t-il été communiqué pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2919] [0.97] Un avis de tempête de sable a-t-il été lancé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2937] [0.98] Un avis de tempête de sable a-t-il été confirmé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2916] Un avis de tempête de sable a-t-il été communiqué pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2919] [0.97] Un avis de tempête de sable a-t-il été lancé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2933] [0.97] Un avis de tempête de sable a-t-il été diffusé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2937] [0.98] Un avis de tempête de sable a-t-il été confirmé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2918] Y a-t-il un avertissement de tempête de sable à connaître <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2929] [0.98] Y a-t-il un avertissement de tempête de sable <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2931] [0.98] Y a-t-il un avertissement de tempête de sable pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2950] [0.98] Y a-t-il un avertissement de tempête de sable à surveiller <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+-----------------
+[Dòng 2919] Un avis de tempête de sable a-t-il été lancé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2930] [0.97] Un avis de tempête de sable a-t-il été émis pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2933] [0.98] Un avis de tempête de sable a-t-il été diffusé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?
+	[Dòng 2937] [0.98] Un avis de tempête de sable a-t-il été confirmé pour <DT_REL_DAY:DATETIME>aujourd'hui</DT_REL_DAY:DATETIME> ?

@@ -1,0 +1,465 @@
+
+-----------------
+[Dòng 739] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT>.
+	[Dòng 743] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>hogar</TEL_NUM_TY:RECIPIENT>, por favor.
+	[Dòng 760] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica.
+	[Dòng 777] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> de manera urgente.
+-----------------
+[Dòng 752] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de manera urgente.
+	[Dòng 760] [0.97] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica.
+	[Dòng 772] [0.99] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica urgente.
+	[Dòng 777] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> de manera urgente.
+	[Dòng 788] [0.97] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficiente y urgente.
+-----------------
+[Dòng 768] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de manera efectiva y rápida.
+	[Dòng 788] [0.98] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficiente y urgente.
+	[Dòng 796] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> con rapidez y eficacia.
+	[Dòng 804] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficaz y urgente.
+-----------------
+[Dòng 769] Por favor, necesito tu colaboración para comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> de forma eficiente.
+	[Dòng 778] [0.97] Por favor, necesito tu colaboración para comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma efectiva y rápida.
+	[Dòng 793] [0.97] Por favor, necesito tu colaboración para contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> de manera rápida y efectiva.
+	[Dòng 801] [0.98] Por favor, necesito tu colaboración para comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> de manera expedita y eficaz.
+-----------------
+[Dòng 1549] ¿Podrías enviar un SMS a mi <PS_RELATION:RECIPIENT>madre</PS_RELATION:RECIPIENT>, por favor?
+	[Dòng 1578] [0.98] ¿Podrías mandar un SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT>, por favor?
+	[Dòng 1587] [0.99] ¿Podrías enviar un SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT>, por favor?
+	[Dòng 1595] [0.99] ¿Podrías por favor enviarle un SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT>?
+-----------------
+[Dòng 4407] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> mediante mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4419] [0.97] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>me encuentro manejando</MSG_BODY:MSG> en este instante.
+	[Dòng 4445] [0.98] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este instante puntual.
+	[Dòng 4458] [0.97] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este instante específico.
+	[Dòng 4464] [0.97] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>me encuentro conduciendo</MSG_BODY:MSG> en este instante específico.
+	[Dòng 4470] [0.98] Dile a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento particular.
+-----------------
+[Dòng 4426] Hazle saber a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento concreto.
+	[Dòng 4431] [0.97] Hazle saber a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento exacto.
+	[Dòng 4443] [0.97] Hazle saber a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento exactamente.
+	[Dòng 4456] [0.98] Hazle saber a mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT> por mensaje de texto que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes específicos.
+-----------------
+[Dòng 4901] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS diciéndole que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> ahora.
+	[Dòng 4911] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía SMS indicándole que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4918] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto diciéndole que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4923] [0.99] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS diciéndole que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento.
+	[Dòng 4926] [0.98] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> ahora mismo.
+	[Dòng 4947] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+-----------------
+[Dòng 4908] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> ahora.
+	[Dòng 4920] [0.98] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4934] [0.99] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que en este momento <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG>.
+	[Dòng 4944] [1.00] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> ahora mismo.
+-----------------
+[Dòng 4909] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para informarle que estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG> en este momento.
+	[Dòng 4921] [0.98] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para indicarle que estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4942] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS para comunicarle que estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG> en este momento.
+	[Dòng 4960] [0.98] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para notificarle que estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG> en este momento.
+	[Dòng 4966] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía SMS para notificarle que estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG> en este momento.
+-----------------
+[Dòng 4911] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía SMS indicándole que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4918] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto diciéndole que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4923] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS diciéndole que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento.
+	[Dòng 4932] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS indicándole que actualmente estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG>.
+-----------------
+[Dòng 4916] Responde por mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para informarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4928] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para indicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4950] [0.97] Responde por mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para hacerle saber que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> actualmente.
+	[Dòng 4952] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS para comunicarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4961] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por mensaje de texto para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos momentos.
+	[Dòng 4971] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para comunicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+-----------------
+[Dòng 4918] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto diciéndole que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4923] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS diciéndole que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento.
+	[Dòng 4928] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para indicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4947] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4952] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS para comunicarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4961] [0.99] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por mensaje de texto para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos momentos.
+	[Dòng 4971] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para comunicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+-----------------
+[Dòng 4920] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4934] [0.97] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que en este momento <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG>.
+	[Dòng 4939] [0.97] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para informarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento.
+	[Dòng 4944] [0.98] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> ahora mismo.
+	[Dòng 4959] [0.98] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para indicarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> actualmente.
+	[Dòng 4968] [0.97] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para informarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos momentos.
+	[Dòng 4973] [0.97] Por favor responde vía mensaje de texto a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que actualmente estoy <MSG_BODY:MSG>al volante</MSG_BODY:MSG>.
+-----------------
+[Dòng 4923] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS diciéndole que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este momento.
+	[Dòng 4926] [0.98] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> ahora mismo.
+	[Dòng 4947] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4952] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por SMS para comunicarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes.
+	[Dòng 4961] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por mensaje de texto para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos momentos.
+-----------------
+[Dòng 4928] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para indicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4947] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para decirle que actualmente <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4961] [0.97] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> por mensaje de texto para decirle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos momentos.
+	[Dòng 4964] [0.97] Responde por SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para indicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+	[Dòng 4971] [0.98] Responde a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> vía mensaje de texto para comunicarle que en este momento <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG>.
+-----------------
+[Dòng 5631] ¿Podrías leer mi mensaje más reciente para que lo escuche y pueda responder?
+	[Dòng 5637] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda oírlo y responder en consecuencia?
+	[Dòng 5641] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder en consecuencia?
+	[Dòng 5647] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder apropiadamente?
+	[Dòng 5650] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma oportuna?
+	[Dòng 5653] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder con prontitud?
+	[Dòng 5659] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5668] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+-----------------
+[Dòng 5632] Por favor, léeme mi mensaje más reciente para que pueda escucharlo y responder.
+	[Dòng 5639] [0.99] Por favor, háblame mi mensaje más reciente para que pueda escucharlo y responder.
+	[Dòng 5642] [0.98] Por favor, léeme mi mensaje más reciente para que pueda escucharlo y responder apropiadamente.
+	[Dòng 5645] [0.98] Por favor, háblame mi mensaje más reciente para que pueda escucharlo y responder apropiadamente.
+-----------------
+[Dòng 5633] Quiero oír mi mensaje más reciente para poder responder; ¿podrías leerlo para mí?
+	[Dòng 5636] [0.98] Quiero escuchar mi mensaje más reciente para poder responder correctamente; ¿podrías leerlo para mí?
+	[Dòng 5643] [0.98] Quiero oír mi mensaje más reciente para poder responder adecuadamente; ¿puedes leerlo para mí?
+	[Dòng 5655] [0.97] Quiero oír mi mensaje más reciente para poder responder rápidamente; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5637] ¿Podrías leer mi mensaje más reciente para que pueda oírlo y responder en consecuencia?
+	[Dòng 5641] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder en consecuencia?
+	[Dòng 5644] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda responder en consecuencia?
+	[Dòng 5647] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder apropiadamente?
+-----------------
+[Dòng 5641] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder en consecuencia?
+	[Dòng 5647] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder apropiadamente?
+	[Dòng 5650] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma oportuna?
+	[Dòng 5653] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder con prontitud?
+	[Dòng 5659] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5643] Quiero oír mi mensaje más reciente para poder responder adecuadamente; ¿puedes leerlo para mí?
+	[Dòng 5649] [0.98] Quiero escuchar mi mensaje más reciente para poder responder de manera correcta; ¿puedes leerlo para mí?
+	[Dòng 5655] [0.98] Quiero oír mi mensaje más reciente para poder responder rápidamente; ¿puedes leerlo para mí?
+	[Dòng 5661] [0.97] Quiero escuchar mi mensaje más reciente para poder responder con exactitud; ¿puedes leerlo para mí?
+	[Dòng 5673] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera adecuada y precisa; ¿puedes leerlo para mí?
+	[Dòng 5685] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5647] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder apropiadamente?
+	[Dòng 5650] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma oportuna?
+	[Dòng 5653] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder con prontitud?
+	[Dòng 5659] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5648] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada.
+	[Dòng 5654] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder en el momento adecuado.
+	[Dòng 5666] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera oportuna y correcta.
+	[Dòng 5684] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada y exacta.
+-----------------
+[Dòng 5650] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma oportuna?
+	[Dòng 5653] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder con prontitud?
+	[Dòng 5659] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5653] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder con prontitud?
+	[Dòng 5659] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5656] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente?
+	[Dòng 5671] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma efectiva y eficiente?
+	[Dòng 5677] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y efectiva?
+	[Dòng 5680] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5683] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficaz y eficiente?
+-----------------
+[Dòng 5658] Quiero conocer mi mensaje más reciente para poder responder de manera efectiva; ¿puedes leerlo para mí?
+	[Dòng 5670] [0.98] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y eficiente; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5688] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera exacta y eficaz; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5659] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5662] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5664] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5670] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y eficiente; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.98] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5665] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5668] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5680] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5686] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5669] Por favor, háblame mi mensaje más reciente para que pueda responder de manera efectiva y precisa.
+	[Dòng 5672] [0.99] Por favor, léeme mi mensaje más reciente para que pueda responder de manera eficaz y precisa.
+	[Dòng 5675] [0.98] Por favor, háblame mi mensaje más reciente para que pueda responder de manera adecuada y eficiente.
+	[Dòng 5681] [0.98] Por favor, háblame mi mensaje más reciente para que pueda responder de manera efectiva y oportuna.
+	[Dòng 5687] [0.98] Por favor, háblame mi mensaje más reciente para que pueda responder de manera adecuada y eficaz.
+	[Dòng 5690] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera efectiva y exacta.
+-----------------
+[Dòng 5670] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y eficiente; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5688] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera exacta y eficaz; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5671] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma efectiva y eficiente?
+	[Dòng 5677] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y efectiva?
+	[Dòng 5680] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5683] [1.00] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficaz y eficiente?
+-----------------
+[Dòng 5672] Por favor, léeme mi mensaje más reciente para que pueda responder de manera eficaz y precisa.
+	[Dòng 5675] [0.98] Por favor, háblame mi mensaje más reciente para que pueda responder de manera adecuada y eficiente.
+	[Dòng 5681] [0.97] Por favor, háblame mi mensaje más reciente para que pueda responder de manera efectiva y oportuna.
+	[Dòng 5687] [0.98] Por favor, háblame mi mensaje más reciente para que pueda responder de manera adecuada y eficaz.
+	[Dòng 5690] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera efectiva y exacta.
+-----------------
+[Dòng 5674] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5680] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5686] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5680] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5683] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficaz y eficiente?
+	[Dòng 5686] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 752] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de manera urgente.
+	[Dòng 772] [0.98] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica urgente.
+	[Dòng 788] [0.97] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficiente y urgente.
+	[Dòng 792] [0.98] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada expedita.
+-----------------
+[Dòng 760] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica.
+	[Dòng 768] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de manera efectiva y rápida.
+	[Dòng 772] [0.97] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica urgente.
+	[Dòng 785] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número de teléfono de <TEL_NUM_TY:RECIPIENT>casa</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica rápida.
+	[Dòng 792] [0.97] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada expedita.
+	[Dòng 796] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> con rapidez y eficacia.
+	[Dòng 800] [0.98] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada urgente y efectiva.
+	[Dòng 804] [0.97] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficaz y urgente.
+-----------------
+[Dòng 772] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada telefónica urgente.
+	[Dòng 788] [0.98] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> de forma eficiente y urgente.
+	[Dòng 792] [0.99] Me gustaría que me ayudaras a comunicarme con mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada expedita.
+	[Dòng 800] [0.97] Me gustaría que me ayudaras a contactar a mi <PS_RELATION:RECIPIENT>abuelo</PS_RELATION:RECIPIENT> en su número telefónico <TEL_NUM_TY:RECIPIENT>residencial</TEL_NUM_TY:RECIPIENT> mediante una llamada urgente y efectiva.
+-----------------
+[Dòng 1491] Me gustaría que la contactaras con un mensaje de texto, por favor. Gracias.
+	[Dòng 1501] [0.97] Me gustaría que la contactaras mediante un mensaje de texto. Gracias.
+	[Dòng 1517] [0.98] Me gustaría que la contactaras mediante un mensaje de texto, por favor. Gracias.
+	[Dòng 1531] [0.98] Me gustaría que la contactaras con un mensaje de texto, gracias de antemano.
+-----------------
+[Dòng 3192] Me gustaría que le recordaras a mi <PS_RELATION:RECIPIENT>nuera</PS_RELATION:RECIPIENT> mediante un SMS que tiene que pasear al perro, ¿podrías hacerlo por mí, por favor?
+	[Dòng 3209] [0.97] Me gustaría que le enviaras un SMS a mi <PS_RELATION:RECIPIENT>mamá</PS_RELATION:RECIPIENT> para recordarle que tiene que sacar al perro a pasear, ¿podrías hacerlo por mí, por favor?
+	[Dòng 3223] [0.97] Me gustaría que le enviaras un SMS a mi <PS_RELATION:RECIPIENT>sobrina</PS_RELATION:RECIPIENT> para recordarle que tiene que pasear al perro, ¿podrías hacerlo por mí, por favor?
+	[Dòng 3249] [0.98] Me gustaría que le recordaras a mi <PS_RELATION:RECIPIENT>papito</PS_RELATION:RECIPIENT> mediante un SMS que tiene que comprar algunos comestibles, ¿podrías hacerlo por mí, por favor?
+-----------------
+[Dòng 3687] Por favor, envía una respuesta por mensaje de texto a mi <PS_RELATION:RECIPIENT>marido</PS_RELATION:RECIPIENT> indicando que nuestro equipo está perdiendo.
+	[Dòng 3696] [0.98] Por favor, envía una respuesta por mensaje de texto a mi <PS_RELATION:RECIPIENT>primo</PS_RELATION:RECIPIENT> para confirmar que nuestro equipo está perdiendo.
+	[Dòng 3704] [0.99] Por favor, envía una respuesta por mensaje de texto a mi <PS_RELATION:RECIPIENT>cuñado</PS_RELATION:RECIPIENT> indicándole que nuestro equipo está perdiendo.
+	[Dòng 4936] [0.97] Por favor, envía una respuesta por mensaje de texto a mi <PS_RELATION:RECIPIENT>prima</PS_RELATION:RECIPIENT> para indicarle que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> ahora.
+-----------------
+[Dòng 4854] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>establecimiento clínico</POI_CATEGORY:RECIPIENT> indicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> en estos instantes y que no puedo hablar.
+	[Dòng 4859] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de emergencias</POI_CATEGORY:RECIPIENT> comunicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> actualmente y que no puedo hablar en estos instantes.
+	[Dòng 4865] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de atención especializada</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar.
+	[Dòng 4885] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en estos instantes <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en este momento.
+	[Dòng 4900] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en estos instantes.
+-----------------
+[Dòng 4859] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de emergencias</POI_CATEGORY:RECIPIENT> comunicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> actualmente y que no puedo hablar en estos instantes.
+	[Dòng 4865] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de atención especializada</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar.
+	[Dòng 4877] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de salud</POI_CATEGORY:RECIPIENT> indicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> en este momento y que no puedo hablar.
+	[Dòng 4885] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en estos instantes <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en este momento.
+	[Dòng 4900] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en estos instantes.
+-----------------
+[Dòng 4865] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de atención especializada</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar.
+	[Dòng 4877] [0.98] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de salud</POI_CATEGORY:RECIPIENT> indicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> en este momento y que no puedo hablar.
+	[Dòng 4882] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro quirúrgico</POI_CATEGORY:RECIPIENT> comunicándoles que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en este instante y que no puedo hablar.
+	[Dòng 4885] [0.99] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en estos instantes <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en este momento.
+	[Dòng 4900] [0.99] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en estos instantes.
+-----------------
+[Dòng 4877] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de salud</POI_CATEGORY:RECIPIENT> indicándoles que <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> en este momento y que no puedo hablar.
+	[Dòng 4885] [0.98] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en estos instantes <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en este momento.
+	[Dòng 4888] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de atención urgente</POI_CATEGORY:RECIPIENT> comunicándoles que actualmente <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que en este momento no puedo hablar.
+	[Dòng 4892] [0.97] Manda un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de salud</POI_CATEGORY:RECIPIENT> avisándoles que <MSG_BODY:MSG>estoy conduciendo</MSG_BODY:MSG> en estos instantes y que no puedo hablar en este momento.
+	[Dòng 4900] [0.97] Envía un mensaje a la línea de <PS_GROUP:RECIPIENT>atención al cliente</PS_GROUP:RECIPIENT> del <POI_CATEGORY:RECIPIENT>centro de tratamiento médico</POI_CATEGORY:RECIPIENT> indicándoles que en este instante <MSG_BODY:MSG>estoy manejando</MSG_BODY:MSG> y que no puedo hablar en estos instantes.
+-----------------
+[Dòng 5472] Quiero saber qué dice el mensaje de mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT>, ¿puedes leerlo por mí?
+	[Dòng 5481] [0.97] Necesito saber qué dice el mensaje de mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT>, ¿podrías leerlo por mí?
+	[Dòng 5495] [0.98] Quiero saber qué dice el mensaje de mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT>, ¿podrías acceder a él y leerlo por mí?
+	[Dòng 5505] [0.98] Quiero saber qué dice el mensaje de mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT>, ¿podrías acceder a él y leerlo para mí?
+-----------------
+[Dòng 5489] ¿Podrías decirme cuál es el contenido del mensaje de mi <PS_RELATION:RECIPIENT>esposa</PS_RELATION:RECIPIENT>, por favor?
+	[Dòng 6368] [0.98] ¿Podrías decirme cuál es el contenido de mi último mensaje, por favor?
+	[Dòng 6380] [0.97] ¿Podrías decirme cuál es el contenido de mi mensaje más reciente, por favor?
+	[Dòng 6463] [0.97] ¿Podrías decirme cuál es el contenido del mensaje anterior que recibí, por favor?
+-----------------
+[Dòng 5632] Por favor, léeme mi mensaje más reciente para que pueda escucharlo y responder.
+	[Dòng 5642] [0.97] Por favor, léeme mi mensaje más reciente para que pueda escucharlo y responder apropiadamente.
+	[Dòng 5654] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder en el momento adecuado.
+	[Dòng 5660] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder con precisión.
+-----------------
+[Dòng 5635] Por favor, léeme mi mensaje más reciente para que pueda responder adecuadamente.
+	[Dòng 5642] [0.97] Por favor, léeme mi mensaje más reciente para que pueda escucharlo y responder apropiadamente.
+	[Dòng 5648] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada.
+	[Dòng 5654] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder en el momento adecuado.
+	[Dòng 5660] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder con precisión.
+-----------------
+[Dòng 5643] Quiero oír mi mensaje más reciente para poder responder adecuadamente; ¿puedes leerlo para mí?
+	[Dòng 5655] [0.98] Quiero oír mi mensaje más reciente para poder responder rápidamente; ¿puedes leerlo para mí?
+	[Dòng 5661] [0.97] Quiero escuchar mi mensaje más reciente para poder responder con exactitud; ¿puedes leerlo para mí?
+	[Dòng 5667] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera exacta y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5673] [0.99] Quiero oír mi mensaje más reciente para poder responder de manera adecuada y precisa; ¿puedes leerlo para mí?
+	[Dòng 5679] [0.97] Quiero oír mi mensaje más reciente para poder responder de manera efectiva y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5685] [0.99] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5648] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada.
+	[Dòng 5654] [0.99] Por favor, léeme mi mensaje más reciente para que pueda responder en el momento adecuado.
+	[Dòng 5660] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder con precisión.
+	[Dòng 5666] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera oportuna y correcta.
+	[Dòng 5672] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera eficaz y precisa.
+	[Dòng 5678] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera precisa y oportuna.
+	[Dòng 5684] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada y exacta.
+	[Dòng 5690] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera efectiva y exacta.
+-----------------
+[Dòng 5650] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma oportuna?
+	[Dòng 5665] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5674] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera correcta y oportuna?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+-----------------
+[Dòng 5652] Quiero conocer mi mensaje más reciente para poder responder en tiempo y forma; ¿puedes leerlo para mí?
+	[Dòng 5658] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera efectiva; ¿puedes leerlo para mí?
+	[Dòng 5664] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5656] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente?
+	[Dòng 5668] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5680] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5683] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficaz y eficiente?
+	[Dòng 5686] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5658] Quiero conocer mi mensaje más reciente para poder responder de manera efectiva; ¿puedes leerlo para mí?
+	[Dòng 5664] [0.98] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5667] [0.97] Quiero oír mi mensaje más reciente para poder responder de manera exacta y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5679] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera efectiva y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5685] [0.97] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5659] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de forma precisa?
+	[Dòng 5662] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5662] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera precisa y exacta?
+	[Dòng 5665] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5664] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5670] [0.98] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y eficiente; ¿puedes leerlo para mí?
+	[Dòng 5673] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera adecuada y precisa; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5679] [0.97] Quiero oír mi mensaje más reciente para poder responder de manera efectiva y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.99] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5685] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5665] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera oportuna y precisa?
+	[Dòng 5668] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5680] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5666] Por favor, léeme mi mensaje más reciente para que pueda responder de manera oportuna y correcta.
+	[Dòng 5678] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera precisa y oportuna.
+	[Dòng 5684] [0.98] Por favor, léeme mi mensaje más reciente para que pueda responder de manera adecuada y exacta.
+	[Dòng 5690] [0.97] Por favor, léeme mi mensaje más reciente para que pueda responder de manera efectiva y exacta.
+-----------------
+[Dòng 5667] Quiero oír mi mensaje más reciente para poder responder de manera exacta y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5673] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera adecuada y precisa; ¿puedes leerlo para mí?
+	[Dòng 5676] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera oportuna y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5679] [0.99] Quiero oír mi mensaje más reciente para poder responder de manera efectiva y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.98] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5685] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5668] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada?
+	[Dòng 5677] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y efectiva?
+	[Dòng 5680] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.99] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5673] Quiero oír mi mensaje más reciente para poder responder de manera adecuada y precisa; ¿puedes leerlo para mí?
+	[Dòng 5679] [0.98] Quiero oír mi mensaje más reciente para poder responder de manera efectiva y oportuna; ¿puedes leerlo para mí?
+	[Dòng 5682] [0.97] Quiero conocer mi mensaje más reciente para poder responder de manera precisa y efectiva; ¿puedes leerlo para mí?
+	[Dòng 5685] [1.00] Quiero oír mi mensaje más reciente para poder responder de manera precisa y adecuada; ¿puedes leerlo para mí?
+-----------------
+[Dòng 5677] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y efectiva?
+	[Dòng 5680] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.97] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 5680] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficiente y adecuada?
+	[Dòng 5683] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera eficaz y eficiente?
+	[Dòng 5686] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera exacta y oportuna?
+	[Dòng 5689] [0.98] ¿Podrías leer mi mensaje más reciente para que pueda escucharlo y responder de manera adecuada y precisa?
+-----------------
+[Dòng 6112] ¿Podrías rechazar la llamada y responder con un mensaje, por favor?
+	[Dòng 6118] [0.97] ¿Podrías responder el mensaje y rechazar la llamada, por favor?
+	[Dòng 6121] [0.98] ¿Podrías responder la llamada con un mensaje y rechazarla, por favor?
+	[Dòng 6124] [0.98] ¿Podrías rechazar la llamada y responder con un mensaje personalizado, por favor?
+	[Dòng 6133] [0.99] ¿Podrías responder con un mensaje y rechazar la llamada, por favor?
+	[Dòng 6136] [0.97] ¿Podrías responder con un mensaje predeterminado y rechazar la llamada, por favor?
+-----------------
+[Dòng 6116] Quiero que rechaces la llamada y envíes un mensaje de respuesta, ¿puedes hacerlo?
+	[Dòng 6119] [0.98] Quiero que rechaces la llamada y envíes un mensaje, ¿puedes hacerlo?
+	[Dòng 6131] [0.97] Quiero que envíes un mensaje y rechaces la llamada, ¿puedes hacerlo?
+	[Dòng 6137] [0.98] Quiero que rechaces la llamada y envíes un mensaje de respuesta personalizado, ¿puedes hacerlo?
+	[Dòng 6140] [0.99] Quiero que envíes un mensaje de respuesta y rechaces la llamada, ¿puedes hacerlo?
+-----------------
+[Dòng 6119] Quiero que rechaces la llamada y envíes un mensaje, ¿puedes hacerlo?
+	[Dòng 6122] [0.97] Hola, quiero que envíes un mensaje y rechaces la llamada, ¿puedes hacerlo?
+	[Dòng 6125] [0.97] Quiero que rechaces la llamada y envíes un mensaje de texto, ¿puedes hacerlo?
+	[Dòng 6131] [0.99] Quiero que envíes un mensaje y rechaces la llamada, ¿puedes hacerlo?
+-----------------
+[Dòng 6392] Quiero que leas el siguiente mensaje, ¿puedes hacerlo?
+	[Dòng 6395] [0.99] Quiero que me leas el siguiente mensaje, ¿puedes hacerlo?
+	[Dòng 6407] [0.98] Quiero que leas el siguiente mensaje de mi historial, ¿puedes hacerlo?
+	[Dòng 6413] [0.98] Quiero que leas el siguiente mensaje que he recibido, ¿puedes hacerlo?
+-----------------
+[Dòng 6602] Envía un mensaje de texto a mi <PS_RELATION:RECIPIENT>sobrina</PS_RELATION:RECIPIENT> con mi hora de llegada, por favor.
+	[Dòng 6615] [0.97] Envía un mensaje de texto a mi <PS_RELATION:RECIPIENT>prima</PS_RELATION:RECIPIENT> con mi hora estimada de llegada, por favor.
+	[Dòng 6629] [0.97] Envía un mensaje de texto a mi <PS_RELATION:RECIPIENT>cuñada</PS_RELATION:RECIPIENT> con mi hora de arribo, por favor.
+	[Dòng 6637] [0.98] Envía un mensaje de texto a mi <PS_RELATION:RECIPIENT>suegra</PS_RELATION:RECIPIENT> con mi hora de arribo estimada, por favor.
+-----------------
+[Dòng 7088] Por favor, envía mi destino a mi <PS_RELATION:RECIPIENT>hermano</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Neil</PS_NAME:RECIPIENT> por mensaje de texto con la información completa.
+	[Dòng 7095] [0.97] Por favor, envía mi destino a mi <PS_RELATION:RECIPIENT>hermano</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Everett</PS_NAME:RECIPIENT> por mensaje de texto con la dirección actualizada.
+	[Dòng 7101] [0.97] Por favor, envía mi destino a mi <PS_RELATION:RECIPIENT>hermano</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Marshall</PS_NAME:RECIPIENT> por mensaje de texto con la información actualizada y detallada.
+	[Dòng 7113] [0.98] Por favor, envía mi destino a mi <PS_RELATION:RECIPIENT>hermano</PS_RELATION:RECIPIENT> <PS_NAME:RECIPIENT>Nelson</PS_NAME:RECIPIENT> por mensaje de texto con la información precisa y completa.

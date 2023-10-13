@@ -1,0 +1,32 @@
+
+-----------------
+[Dòng 1084] Te pido que lo repitas de nuevo, ¿me lo haces?
+	[Dòng 1092] [0.99] Te pido que lo repitas nuevamente, ¿me lo haces?
+	[Dòng 1096] [0.97] Te solicito que lo repitas de nuevo, ¿me lo haces?
+	[Dòng 1100] [0.98] Te pido que lo repitas de nuevo, ¿me lo haces por favor?
+-----------------
+[Dòng 1503] ¿Puedes mostrar mi lista de favoritos, por favor?
+	[Dòng 1505] [0.99] ¿Podrías mostrarme mi lista de favoritos, por favor?
+	[Dòng 1511] [0.99] ¿Podrías mostrarme la lista de mis favoritos, por favor?
+	[Dòng 1519] [0.99] ¿Puedes mostrar la lista de mis favoritos, por favor?
+	[Dòng 1521] [0.97] ¿Me muestras la lista de mis favoritos, por favor?
+-----------------
+[Dòng 3747] Por favor, realiza el movimiento como <ANAPHOR:ANAPHOR>ese</ANAPHOR:ANAPHOR>, gracias.
+	[Dòng 3755] [0.99] Por favor, realiza el movimiento de esa manera, gracias.
+	[Dòng 3764] [0.98] Por favor, realiza el movimiento así, gracias.
+	[Dòng 3770] [0.99] Por favor, realiza el movimiento como eso, gracias.
+-----------------
+[Dòng 1084] Te pido que lo repitas de nuevo, ¿me lo haces?
+	[Dòng 1096] [0.98] Te solicito que lo repitas de nuevo, ¿me lo haces?
+	[Dòng 1100] [0.97] Te pido que lo repitas de nuevo, ¿me lo haces por favor?
+	[Dòng 1108] [0.97] Te pido que lo repitas de nuevo, ¿me lo haces brevemente?
+-----------------
+[Dòng 1512] Quiero que me muestres mi lista de favoritos, por favor.
+	[Dòng 1518] [0.98] Quisiera que me muestres mi lista de favoritos, por favor.
+	[Dòng 1525] [0.97] Quiero que me muestres mi lista de favoritos guardada, por favor.
+	[Dòng 4620] [0.98] Quiero que me muestres mi lista de favoritos, por favor
+-----------------
+[Dòng 2294] Me gustaría que anularas el proceso de consulta, por favor.
+	[Dòng 2297] [0.98] Me gustaría que finalizaras el proceso de consulta, por favor.
+	[Dòng 2301] [0.99] Me gustaría que anularas el proceso de consultoría, por favor.
+	[Dòng 2306] [0.98] Me gustaría que abortaras el proceso de consulta, por favor.
