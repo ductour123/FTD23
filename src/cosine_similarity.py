@@ -102,6 +102,9 @@ class SimilarityFilter:
         similarities = self.evaluate_similarity(sentences, self.PATCH_SIZE, 'muse')
         similarities += self.evaluate_similarity(sentences, self.PATCH_SIZE, 'sBert')
 
+        # sort list similarities after combine the results of Muse and sBert
+        # sorted(similarities, key=lambda x: x[0])
+
         originTextForm = "[Dòng {i}] {origin}"
         duplicateTextForm = "\n\t[Dòng {j}] [{score:.2f}] {dupSentence}"
         nTuples = len(similarities)
