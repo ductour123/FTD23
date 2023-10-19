@@ -1,4 +1,5 @@
 import json
+import os.path
 
 import numpy as np
 import pandas
@@ -18,6 +19,7 @@ class SimilarityFilter:
     def readExcel(self, data_file_path: str):
         try:
             excel_data_df = pandas.read_excel(data_file_path, engine='openpyxl', sheet_name='Sheet1', usecols=['Sentence'])
+            # excel_data_df = pandas.read_excel(data_file_path, engine='openpyxl', sheet_name=0, usecols=['Sentence'])
         except:
             print("-----------" + data_file_path)
 
@@ -126,26 +128,258 @@ class SimilarityFilter:
         with open(result_file_path, 'w') as fp:
             while index < nTuples:
                 if (similarities[index][3] > 3):
-                    text = "\n-----------------\n" + originTextForm.format(i=similarities[index][0] + 1,
+                    text = "\n-----------------\n" + originTextForm.format(i=similarities[index][0] + 2,
                                                                            origin=tagSentences[similarities[index][0]]) \
-                           + duplicateTextForm.format(j=similarities[index][1] + 1, score=similarities[index][2],
+                           + duplicateTextForm.format(j=similarities[index][1] + 2, score=similarities[index][2],
                                                       dupSentence=tagSentences[similarities[index][1]])
 
                     while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
-                        text += duplicateTextForm.format(j=similarities[index + 1][1] + 1,
+                        text += duplicateTextForm.format(j=similarities[index + 1][1] + 2,
                                                          score=similarities[index + 1][2],
                                                          dupSentence=tagSentences[similarities[index + 1][1]])
                         index += 1
 
-                    # print(text)
                     fp.write(text)
                     found_sen_quantity += 1
 
                 index += 1
 
-        # rate = round((found_sen_quantity/len(sentences)) * 100)
         return found_sen_quantity, len(sentences)
 
 
+    def filt_similarity_excel(self, data_file_path: str, result_file_path: str):
+        """
+        data_file_path: file .xlsx
+        result_file_path: file .xlsx
+        """
+
+        tagSentences, sentences = self.readExcel(data_file_path)
+
+        similarities = self.evaluate_similarity(sentences, self.PATCH_SIZE, 'muse')
+        similarities += self.evaluate_similarity(sentences, self.PATCH_SIZE, 'sBert')
+
+        # sort list similarities after combine the results of Muse and sBert
+        # sorted(similarities, key=lambda x: x[0])
+
+        originTextForm = "[Row {i}] {origin} \n"
+        duplicateTextForm = "[Row {j}] {dupSentence} \n"
+        nTuples = len(similarities)
+        index = 0
+
+        # check duplicate times
+        while index < nTuples:
+            originIndex = index
+            count = similarities[index][3]
+            while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                count += 1
+                index += 1
+
+            similarities[originIndex][3] = count
+            index += 1
+
+        found_sen_quantity = 0
+        index = 0
+
+        sentence_lst = []
+        fuzzies_lst = []
+
+        while index < nTuples:
+            if (similarities[index][3] > 3):
+                origin = originTextForm.format(i=similarities[index][0] + 2, origin=tagSentences[similarities[index][0]])
+                sentence_lst.append(origin)
+
+                fuzzies = duplicateTextForm.format(j=similarities[index][1] + 2, dupSentence=tagSentences[similarities[index][1]])
+                fuzzies_lst.append(fuzzies)
+
+                while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                    fuzzies = duplicateTextForm.format(j=similarities[index + 1][1] + 2, dupSentence=tagSentences[similarities[index + 1][1]])
+                    fuzzies_lst.append(fuzzies)
+                    sentence_lst.append("")
+
+                    index += 1
+
+                # fuzzies_lst.append(fuzzies)
+                found_sen_quantity += 1
+
+            index += 1
+
+        # write fuzzies file excel
+        data = {
+            'Sentence': sentence_lst,
+            'Fuzzies': fuzzies_lst
+        }
+
+        df = pandas.DataFrame(data, dtype=str)
+
+        if os.path.exists(result_file_path):
+            os.remove(result_file_path)
+
+        # df.to_excel(result_file_path, sheet_name='High Fuzzy Matches', index=False, engine='openpyxl')
+        writer = pandas.ExcelWriter(result_file_path, engine='xlsxwriter')
+        df.to_excel(writer, sheet_name='High Fuzzy Matches', index=False)
+        workbook = writer.book
+        worksheet = writer.sheets['High Fuzzy Matches']
+        # worksheet.set_column('A:B', 80)
+        cell_format_0 = workbook.add_format({'text_wrap': True})
+        worksheet.set_column(0, 0, 80, cell_format_0)
+        cell_format_1 = workbook.add_format({'text_wrap': True, 'font_color': 'red'})
+        worksheet.set_column(1, 1, 80, cell_format_1)
+
+        writer.save()
+
+        return found_sen_quantity, len(sentences)
 
 
+    def filt_similarity_excel_2(self, data_file_path: str, result_file_path: str):
+        """
+        data_file_path: file .xlsx
+        result_file_path: file .xlsx
+        """
+
+        tagSentences, sentences = self.readExcel(data_file_path)
+
+        similarities = self.evaluate_similarity(sentences, self.PATCH_SIZE, 'muse')
+        similarities += self.evaluate_similarity(sentences, self.PATCH_SIZE, 'sBert')
+
+        # sort list similarities after combine the results of Muse and sBert
+        # sorted(similarities, key=lambda x: x[0])
+
+        originTextForm = "[Row {i}] {origin} \n"
+        duplicateTextForm = " -[Row {j}] {dupSentence} \n"
+        nTuples = len(similarities)
+        index = 0
+
+        # check duplicate times
+        while index < nTuples:
+            originIndex = index
+            count = similarities[index][3]
+            while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                count += 1
+                index += 1
+
+            similarities[originIndex][3] = count
+            index += 1
+
+        found_sen_quantity = 0
+        index = 0
+
+        sentence_lst = []
+        fuzzies_lst = []
+
+        while index < nTuples:
+            if (similarities[index][3] > 3):
+                origin = originTextForm.format(i=similarities[index][0] + 2, origin=tagSentences[similarities[index][0]])
+                sentence_lst.append(origin)
+
+                fuzzies = duplicateTextForm.format(j=similarities[index][1] + 2, dupSentence=tagSentences[similarities[index][1]])
+
+                while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                    fuzzies += duplicateTextForm.format(j=similarities[index + 1][1] + 2, dupSentence=tagSentences[similarities[index + 1][1]])
+                    index += 1
+
+                fuzzies_lst.append(fuzzies)
+                found_sen_quantity += 1
+
+            index += 1
+
+        # write fuzzies file excel
+        data = {
+            'Sentence': sentence_lst,
+            'Fuzzies': fuzzies_lst
+        }
+
+        df = pandas.DataFrame(data, dtype=str)
+
+        if os.path.exists(result_file_path):
+            os.remove(result_file_path)
+
+        writer = pandas.ExcelWriter(result_file_path, engine='xlsxwriter')
+        df.to_excel(writer, sheet_name='High Fuzzy Matches', index=False)
+        workbook = writer.book
+        worksheet = writer.sheets['High Fuzzy Matches']
+        cell_format_0 = workbook.add_format({'text_wrap': True})
+        worksheet.set_column(0, 0, 80, cell_format_0)
+        cell_format_1 = workbook.add_format({'text_wrap': True, 'font_color': 'red'})
+        worksheet.set_column(1, 1, 80, cell_format_1)
+
+        writer.save()
+
+        return found_sen_quantity, len(sentences)
+
+
+    def filt_similarity_excel_3(self, data_file_path: str, result_file_path: str):
+        """
+        data_file_path: file .xlsx
+        result_file_path: file .xlsx
+        """
+
+        tagSentences, sentences = self.readExcel(data_file_path)
+
+        similarities = self.evaluate_similarity(sentences, self.PATCH_SIZE, 'muse')
+        similarities += self.evaluate_similarity(sentences, self.PATCH_SIZE, 'sBert')
+
+        # sort list similarities after combine the results of Muse and sBert
+        # sorted(similarities, key=lambda x: x[0])
+
+        duplicateTextForm = " -[Row {j}] {dupSentence} \n"
+        nTuples = len(similarities)
+
+        index = 0
+        # check duplicate times
+        while index < nTuples:
+            originIndex = index
+            count = similarities[index][3]
+            while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                count += 1
+                index += 1
+
+            similarities[originIndex][3] = count
+            index += 1
+
+        # read origin data file
+        data_df = pandas.read_excel(data_file_path, engine='openpyxl', sheet_name='Sheet1')
+        fuzzies_lst = [''] * len(data_df.index)
+
+        found_sen_quantity = 0
+        index = 0
+
+        while index < nTuples:
+            if (similarities[index][3] > 3):
+
+                fuzzies = duplicateTextForm.format(j=similarities[index][1] + 2, dupSentence=tagSentences[similarities[index][1]])
+
+                while ((index + 1) < nTuples) and (similarities[index][0] == similarities[index + 1][0]):
+                    fuzzies += duplicateTextForm.format(j=similarities[index + 1][1] + 2, dupSentence=tagSentences[similarities[index + 1][1]])
+                    index += 1
+
+                fuzzies_lst[similarities[index][0]] = fuzzies
+                found_sen_quantity += 1
+
+            index += 1
+
+        # write data file
+        origin_column_n = len(data_df.columns)
+        data_df.insert(loc=origin_column_n, column='Fuzzies', value=fuzzies_lst)
+
+        if os.path.exists(result_file_path):
+            os.remove(result_file_path)
+
+        writer = pandas.ExcelWriter(result_file_path, engine='xlsxwriter')
+        data_df.to_excel(writer, sheet_name='High Fuzzy Matches', index=False)
+        workbook = writer.book
+        worksheet = writer.sheets['High Fuzzy Matches']
+
+        cell_format = workbook.add_format({'text_wrap': True})
+        function_idx = data_df.columns.get_loc("Function")
+        sentence_idx = data_df.columns.get_loc("Sentence")
+        worksheet.set_column(function_idx, function_idx, 20)
+        worksheet.set_column(sentence_idx, sentence_idx, 80, cell_format)
+
+        fuzzy_cell_format = workbook.add_format({'text_wrap': True, 'bold': True, 'font_color': 'red'})
+        worksheet.set_column(origin_column_n, origin_column_n, 80, fuzzy_cell_format)
+        # # data Trung
+        # worksheet.set_column(origin_column_n - 1, origin_column_n - 1, 50, fuzzy_cell_format)
+
+        writer.save()
+
+        return found_sen_quantity, len(sentences)
